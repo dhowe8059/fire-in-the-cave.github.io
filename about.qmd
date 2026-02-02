@@ -1,0 +1,48 @@
+---
+title: "About"
+---
+
+## Who I Am
+
+I've spent most of my career modeling biological systems in pharma—teaching myself to see the hidden patterns that predict how drugs behave in the human body. 
+
+My job was finding patterns and projecting the story: what dosage works, where it's safe, how often to give the drug. I was good at it. Companies still bring me on to consult and model their potential drugs.
+
+And every time I do it, I feel the same thing: competent... and drained.
+
+That observation—being successful by every external measure while feeling hollow inside—became the first data point in a different kind of modeling project. One where I am the system being studied.
+
+## Why Fire in the Cave
+
+The same methodology I used to decode molecular behavior could decode the behavior of my own meaning:
+
+- **Multiple data sources** — Don't trust any single framework
+- **Pattern recognition** — Look for convergence across independent signals
+- **Biomarkers** — Your body knows before your mind does
+- **Quantified tracking** — You cannot find a pattern in a dataset that doesn't exist
+
+This isn't about me telling you what YOUR gorilla looks like. I can't. Your alignment is uniquely yours. Your biomarkers are different from mine.
+
+This is "here's how I found mine—use the approach to find yours."
+
+## What I'm Building
+
+Fire in the Cave is the methodology applied at multiple scales:
+
+**Personal** — How to detect your own patterns, navigate your own alignment, find what actually energizes rather than drains you.
+
+**Systemic** — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.
+
+**Architectural** — Eventually, the tools themselves. Local AI that doesn't extract your intellectual property. Decentralized credentialing. Living Books. The infrastructure for what comes after the current systems delegitimize.
+
+Same fire. Different scales.
+
+## Connect
+
+- **Substack**: [Fire in the Cave](https://fireinthecave.substack.com) — where I publish articles
+- **YouTube**: [\@fireinthecave](https://www.youtube.com/@fireinthecave) — video content
+- **Contact**: alchemist@fireinthecave.com
+
+---
+
+*This site is built with [Quarto](https://quarto.org) and hosted on GitHub Pages—tools I control, that I could move if needed. Practicing what I'm preaching.*

@@ -1,0 +1,27 @@
+---
+title: "Destination"
+---
+
+Where does this point?
+
+The methodology reveals patterns at personal and systemic scales. The Global Opt Out shows millions withdrawing from institutional bargains that stopped delivering. But withdrawal is step one, not the destination.
+
+**What comes next?**
+
+## The Aquarian Model
+
+Decentralized. Nodes. Freedom.
+
+Not utopia—practical alternative. Value created and exchanged at the edges, not extracted to the center. Individuals as sovereign nodes, not dependents of institutions. Connection without hierarchy. Coordination without control.
+
+This section explores what that infrastructure looks like.
+
+## In This Section
+
+- [The Aquarian Economic Model](aquarian-model.qmd) — Nodes, freedom, decentralized value exchange
+- [Living Books](living-books.qmd) — Blockchain-based intellectual property and collective intelligence
+- [Local AI Sovereignty](local-ai-sovereignty.qmd) — Why your prompts are intellectual property
+
+---
+
+*The fire illuminates both what we're leaving and where we're going.*

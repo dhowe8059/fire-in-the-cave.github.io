@@ -1,0 +1,32 @@
+# Quarto output
+_site/
+_book/
+_freeze/
+.quarto/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Node (if using extensions)
+node_modules/
+
+# R/Python
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Fire in the Cave"
+  subtitle: "Pattern Recognition as Survival Technology"
+  author: "David Howe"
+  date: 2026
+  
+  chapters:
+    - index.qmd
+    - 01-standing-wave.qmd
+    - part: "The Methodology"
+      chapters:
+        - 02-competence-trap.qmd
+        - 03-invisible-gorilla.qmd
+        - 04-biomarkers.qmd
+    - part: "The Shift"
+      chapters:
+        - 05-global-opt-out.qmd
+        - 06-fourth-turning-reframe.qmd
+    - part: "The Destination"
+      chapters:
+        - 07-aquarian-model.qmd
+        - 08-living-books.qmd
+    - 09-conclusion.qmd
+    - references.qmd
+
+bibliography: ../references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: book
+    papersize: letter
+    toc: true
+    number-sections: true
+    colorlinks: true
+  epub:
+    toc: true
+    cover-image: cover.png

@@ -1,0 +1,40 @@
+---
+title: "Living Books"
+subtitle: "Blockchain-based intellectual property and collective intelligence"
+date: 2026-02-15
+categories: [destination, living-books, architecture]
+draft: true
+---
+
+*Coming soon.*
+
+## The Problem
+
+When you use ChatGPT or Claude via API, your prompts become training data. Your intellectual work—the questions you ask, the problems you're solving, the creative directions you're exploring—gets extracted to improve models that others profit from.
+
+This is the hidden extraction economy of AI.
+
+## The Architecture
+
+Living Books inverts this:
+
+- **Local AI**: Models run on your hardware, prompts never leave your machine
+- **Blockchain attribution**: Your contributions are timestamped and attributed
+- **Smart contract monetization**: When your knowledge helps someone, you get compensated
+- **Collective intelligence without extraction**: The network learns, but individuals retain sovereignty
+
+## Technical Components
+
+- Conductor model for orchestration
+- Probability reasoner for uncertainty quantification
+- Specialist models for domain-specific knowledge
+- Privacy-preserving analytics (differential privacy, encrypted aggregation)
+- Progressive decentralization strategy
+
+## Why This Matters
+
+The current AI economy recapitulates the same extraction pattern as every centralized system before it. Users provide value; platforms capture it.
+
+Living Books is one implementation of a different architecture—where knowledge creators remain sovereign over their contributions while still participating in collective intelligence.
+
+This article will explore the technical architecture and the path to implementation.

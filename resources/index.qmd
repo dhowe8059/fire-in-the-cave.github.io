@@ -1,0 +1,38 @@
+---
+title: "Resources"
+---
+
+Tools, reading, and references for pattern recognition.
+
+## Books
+
+- Jo Marchant, *The Human Cosmos: Civilization and the Stars* — Paleolithic pattern recognition and the origins of our cosmic awareness
+- Rosamund & Benjamin Zander, *The Art of Possibility* — Shifting frameworks, the invisible gorilla
+- Neil Howe, *The Fourth Turning* — Generational cycles and crisis periods
+
+## Tools
+
+### For Personal Tracking
+- **Obsidian** — Local-first note-taking with linking
+- **Notion** — If you prefer cloud-based
+- **Apple Health / Google Fit** — Biomarker data collection
+
+### For Building
+- **Quarto** — This site is built with Quarto
+- **Hugo** — Alternative static site generator
+- **GitHub Pages** — Free hosting
+
+### For AI (Local)
+- **Ollama** — Run models locally
+- **LM Studio** — GUI for local models
+- **Mac Studio** — What I use for larger models
+
+## Methodology References
+
+- Akaike Information Criterion (AIC) for model selection
+- Differential privacy for privacy-preserving analytics
+- Convergent evidence in scientific reasoning
+
+---
+
+*More resources added as the project develops.*

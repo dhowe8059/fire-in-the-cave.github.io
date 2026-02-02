@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Fire in the Cave"
+  description: "Pattern recognition as survival technology"
+  site-url: https://fireinthecave.com
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: methodology/index.qmd
+        text: Methodology
+      - href: blog/index.qmd
+        text: Articles
+      - href: destination/index.qmd
+        text: Destination
+      - href: about.qmd
+        text: About
+    right:
+      - icon: rss
+        href: blog/index.xml
+      - icon: youtube
+        href: https://youtube.com/@fireinthecave
+      - text: "Substack"
+        href: https://fireinthecave.substack.com
+
+  sidebar:
+    - title: "Methodology"
+      style: docked
+      background: light
+      contents:
+        - methodology/index.qmd
+        - methodology/competence-trap.qmd
+        - methodology/invisible-gorilla.qmd
+        - methodology/biomarkers.qmd
+        - methodology/n-equals-one.qmd
+    
+    - title: "The Shift"
+      contents:
+        - blog/posts/global-opt-out/index.qmd
+    
+    - title: "Destination"
+      contents:
+        - destination/index.qmd
+        - destination/aquarian-model.qmd
+        - destination/living-books.qmd
+
+  page-footer:
+    left: "© 2026 David Howe"
+    right:
+      - icon: youtube
+        href: https://youtube.com/@fireinthecave
+      - text: "Substack"
+        href: https://fireinthecave.substack.com
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: custom.css
+    toc: true
+    code-fold: true
+
+bibliography: references.bib
+
+execute:
+  freeze: auto
