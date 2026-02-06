@@ -21,9 +21,9 @@ The same methodology I used to decode molecular behavior could decode the behavi
 - **Biomarkers** — Your body knows before your mind does
 - **Quantified tracking** — You cannot find a pattern in a dataset that doesn't exist
 
-This isn't about me telling you what YOUR gorilla looks like. I can't. Your alignment is uniquely yours. Your biomarkers are different from mine.
+This isn't about me telling you what is the recipe for happiness. I can't. Your alignment is uniquely yours.
 
-This is "here's how I found mine—use the approach to find yours."
+This is "here's how I am finding mine—use the approach to find yours."
 
 ## What I'm Building
 
@@ -33,7 +33,7 @@ Fire in the Cave is the methodology applied at multiple scales:
 
 **Systemic** — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.
 
-**Architectural** — Eventually, the tools themselves. Local AI that doesn't extract your intellectual property. Decentralized credentialing. Living Books. The infrastructure for what comes after the current systems delegitimize.
+**Architectural** — Eventually, the tools themselves.
 
 Same fire. Different scales.
 

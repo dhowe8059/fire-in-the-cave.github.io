@@ -1,0 +1,157 @@
+/* Fire in the Cave - Custom Styles */
+
+/* Color palette - Ochre/Cave/Fire theme */
+:root {
+  --ochre-gold: #C4820E;
+  --ochre-deep: #A65E1A;
+  --ochre-light: #D4A54A;
+  --cave-dark: #2C2416;
+  --ember: #B8490F;
+}
+
+/* Typography */
+body {
+  font-family: 'Source Serif Pro', Georgia, serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  color: var(--cave-dark);
+}
+
+/* Home page hero */
+.hero {
+  padding: 3rem 0;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--ochre-light);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--ochre-gold);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #555;
+}
+
+/* Links */
+a {
+  color: var(--ochre-deep);
+}
+
+a:hover {
+  color: var(--ochre-gold);
+}
+
+/* Code blocks */
+pre {
+  background-color: #f8f5f0;
+  border-radius: 4px;
+  padding: 1rem;
+  border-left: 3px solid var(--ochre-light);
+}
+
+/* Callouts */
+.callout-note {
+  border-left-color: var(--ochre-gold);
+}
+
+.callout-warning {
+  border-left-color: var(--ember);
+}
+
+.callout-important {
+  border-left-color: var(--ochre-deep);
+}
+
+/* Article cards */
+.quarto-listing-default .listing-title {
+  font-weight: 600;
+  color: var(--cave-dark);
+}
+
+.quarto-listing-default .listing-title:hover {
+  color: var(--ochre-gold);
+}
+
+/* Dark mode adjustments */
+[data-bs-theme="dark"] {
+  --cave-dark: #E8E0D4;
+}
+
+[data-bs-theme="dark"] blockquote {
+  color: #bbb;
+  border-left-color: var(--ochre-gold);
+}
+
+[data-bs-theme="dark"] pre {
+  background-color: #2d2820;
+  border-left-color: var(--ochre-deep);
+}
+
+[data-bs-theme="dark"] h1,
+[data-bs-theme="dark"] h2,
+[data-bs-theme="dark"] h3,
+[data-bs-theme="dark"] h4,
+[data-bs-theme="dark"] h5,
+[data-bs-theme="dark"] h6 {
+  color: var(--cave-dark);
+}
+
+/* Footer */
+.page-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--ochre-light);
+}
+
+/* Sidebar navigation */
+.sidebar-navigation .sidebar-section .sidebar-item {
+  padding: 0.3rem 0;
+}
+
+.sidebar-navigation a:hover {
+  color: var(--ochre-gold);
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th {
+  background-color: #f8f5f0;
+  font-weight: 600;
+  border-bottom: 2px solid var(--ochre-light);
+}
+
+[data-bs-theme="dark"] th {
+  background-color: #2d2820;
+  border-bottom-color: var(--ochre-deep);
+}
+
+/* Navbar accent */
+.navbar {
+  border-bottom: 3px solid var(--ochre-gold);
+}
+
+/* Selection highlight */
+::selection {
+  background-color: var(--ochre-light);
+  color: var(--cave-dark);
+}
+/* Column spacing */
+.columns {
+  column-gap: 3rem;  /* adjust as needed */
+}
+
+.columns .column {
+  padding: 0 0.5rem;
+}
+.columns .column h3 {
+  text-align: center;
+}

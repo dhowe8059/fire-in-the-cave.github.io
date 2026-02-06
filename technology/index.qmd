@@ -1,0 +1,25 @@
+---
+title: "Technology"
+---
+
+Tools for pattern recognition—and sovereignty over your own thinking.
+
+## The Problem
+
+Most AI tools are designed to extract value from you. Your prompts train their models. Your documents feed their datasets. Your attention is the product.
+
+The same pattern recognition that reveals personal standing waves reveals this too: if the tool is free, you're the resource being mined.
+
+## The Approach
+
+I use technology to extend my pattern recognition—but on my terms:
+
+**Local-first** — Models that run on my hardware, not someone else's cloud. My intellectual property stays mine.
+
+**Owned infrastructure** — This site runs on Quarto and GitHub Pages. I could move it tomorrow if I needed to. No platform dependency.
+
+**AI as collaborator, not oracle** — LLMs are statistical fits, not truth machines. Useful for extending thinking, dangerous if you mistake the output for reality.
+
+---
+
+*The goal isn't to avoid technology. It's to use it without being used by it.*

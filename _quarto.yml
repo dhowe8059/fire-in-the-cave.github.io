@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Fire in the Cave"
@@ -11,42 +11,43 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: methodology/index.qmd
-        text: Methodology
-      - href: blog/index.qmd
-        text: Articles
-      - href: destination/index.qmd
-        text: Destination
+      - href: n1-experiment/index.qmd
+        text: N=1 Experiment
+      - href: pattern-recognition/index.qmd
+        text: Pattern Recognition
+      - href: technology/index.qmd
+        text: Technology
       - href: about.qmd
         text: About
     right:
-      - icon: rss
-        href: blog/index.xml
       - icon: youtube
         href: https://youtube.com/@fireinthecave
       - text: "Substack"
         href: https://fireinthecave.substack.com
 
   sidebar:
-    - title: "Methodology"
+    - title: "N=1 Experiment"
       style: docked
       background: light
       contents:
-        - methodology/index.qmd
-        - methodology/competence-trap.qmd
-        - methodology/invisible-gorilla.qmd
-        - methodology/biomarkers.qmd
-        - methodology/n-equals-one.qmd
+        - n1-experiment/index.qmd
+        - n1-experiment/competence-trap.qmd
+        - n1-experiment/invisible-gorilla.qmd
+        - n1-experiment/biomarkers.qmd
+        - n1-experiment/n-equals-one.qmd
     
-    - title: "The Shift"
+    - title: "Pattern Recognition"
       contents:
-        - blog/posts/global-opt-out/index.qmd
+        - pattern-recognition/index.qmd
+        - pattern-recognition/silver-signal.qmd
+        - text: "Lying Flat"
+          href: pattern-recognition/lying-flat.qmd
     
-    - title: "Destination"
+    - title: "Technology"
       contents:
-        - destination/index.qmd
-        - destination/aquarian-model.qmd
-        - destination/living-books.qmd
+        - technology/index.qmd
+        - technology/local-ai-sovereignty.qmd
+
 
   page-footer:
     left: "© 2026 David Howe"

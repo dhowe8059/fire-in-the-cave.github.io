@@ -1,19 +1,19 @@
 ---
 title: "Fire in the Cave"
-subtitle: "Pattern recognition as survival technology"
+subtitle: "Pattern recognition for personal fulfillment"
 ---
 
-![](images/banner.png){width=100%}
+![](images/banner.jpg){width=100%}
 
 ## Welcome
 
-I've spent most of my career in pharmaceutical companies modeling biological systems—teaching myself to see patterns in data that predict how potential drugs behave in patients. Recently, I turned that same training on my own life to discover why, despite outward success, I didn't feel happy or fulfilled. Along the way, I found that these pattern recognition skills work just as well for seeing through systemic illusions.
+I've spent most of my career in pharmaceutical companies modeling biological systems—teaching myself to see patterns in data that predict how potential drugs behave in patients. Recently, I turned that same training on my own life to discover why, despite outward success, I didn't feel happy or fulfilled. Along the way, I found that these pattern recognition skills work just as well for identifying what makes me happy.
 
 You may wonder why the title *Fire in the Cave*.
 
 The image holds multiple fractals:
 
-**Paleolithic star-painters** — In her book *The Human Cosmos*, Jo Marchant describes how cave paintings may not just depict animals important to survival, but stars that tracked when the herds would come. Pattern recognition as survival technology, passed down across generations.
+**Paleolithic star-painters** — In her book *The Human Cosmos*, Jo Marchant describes how cave paintings may not just depict animals important to survival, but stars that tracked when the herds would arrive. Perhaps evidence for early pattern recognition in humans which was passed down across generations.
 
 **Plato's prisoners** — Chained in a cave, taught the world via shadows controlled by their jailers. One escaped to the outside, discovered the lies, returned to free the others—and faced their disbelief.
 
@@ -25,27 +25,17 @@ Hence, the atmosphere of the fire in the cave. Looking for truth not from the sh
 
 ## What You'll Find Here
 
-:::{.columns}
+### [N=1 Experiment](n1-experiment/index.qmd)
 
-:::{.column width="33%"}
-### [Methodology](methodology/index.qmd)
+My personal journey and investigation into my own battles trying to find what inspires and motivates me. How I started using my pattern recognition and story framing in both my professional and personal lives and my N=1 approach.
 
-The detection system—how to see patterns you don't yet know to look for. Biomarkers, n=1 experiments, convergent evidence.
-:::
+### [Pattern Recognition](pattern-recognition/index.qmd)
 
-:::{.column width="33%"}
-### [Articles](blog/index.qmd)
+Applying pattern recognition to navigate the world — finance, health, systems, decisions — while pursuing what actually fulfills me. 
 
-Real-time pattern recognition as 2026 unfolds. The Global Opt Out, higher ed collapse, silver signals, and systemic shifts.
-:::
+### [Technology](technology/index.qmd)
 
-:::{.column width="33%"}
-### [Destination](destination/index.qmd)
-
-Where this points. The Aquarian model—decentralized, nodes, freedom. Living Books and what comes next.
-:::
-
-:::
+Examples of the use of technology including AI to improve pattern recognition and maintain sovereignty over my own data and thinking.
 
 ---
 
@@ -62,6 +52,8 @@ Where many of us find ourselves:
 
 I originally thought, like many, that old systems were simply breaking down and forcing us toward something new. But crossroads were built by Romans and kings long dead. When you only get to choose between paths others have laid, it may look like change—but you're still a user on someone else's platform.
 
+The other possibility is what I have been calling is a standing wave. You are caught in all of your internal and external pressures that are stopping you from really finding your happy self. When you look out, you can see all of the possibility but you cannot get there.
+
 The choice isn't between two manufactured paths. It's between accepting someone else's design or learning to recognize your own patterns—and following where they lead.
 
 ![](images/the_image_depicts_a_man.png){width=100%}
@@ -74,4 +66,4 @@ If you're feeling the gap between what the system promised and what it delivered
 
 - **[Subscribe on Substack](https://fireinthecave.substack.com)** — articles as they publish
 - **[YouTube](https://youtube.com/@fireinthecave)** — video content
-- **[Contact](mailto:alchemist@fireinthecave.com)** — alchemist@fireinthecave.co
+- **[Contact](mailto:alchemist@fireinthecave.com)** — alchemist@fireinthecave.com

@@ -1,0 +1,25 @@
+---
+title: "N=1 Experiments"
+subtitle: "Running your own trials"
+date: 2026-02-01
+categories: [methodology, experiments, self-study]
+draft: true
+---
+
+*Coming soon.*
+
+In pharmaceutical development, we run trials to find patterns. N=1 experiments apply that rigor to your own life.
+
+This isn't "journaling" or "self-reflection" in the fuzzy sense. It's systematic:
+
+- Define the question
+- Identify measurable outcomes
+- Track consistently
+- Look for convergent evidence
+
+This article will cover:
+
+- How to design personal experiments
+- What to measure and how
+- Distinguishing signal from noise
+- Real examples from my own n=1 studies

@@ -1,5 +1,4 @@
 # Quarto output
-_site/
 _book/
 _freeze/
 .quarto/

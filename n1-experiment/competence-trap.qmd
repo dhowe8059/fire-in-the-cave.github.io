@@ -1,0 +1,114 @@
+---
+title: "The Competence Trap"
+subtitle: "When success becomes the problem"
+date: 2026-01-15
+categories: [methodology, career, alignment]
+---
+
+## Competent and Drained
+
+By most standards, I was on a successful career arc.
+
+I had held leadership positions in pharmaceutical companies where I led teams that assessed metabolism and pharmacokinetics/pharmacodynamics (PK/PD) modeling—this is a mouthful but essentially means I brought together different types of data to predict how drugs would behave in people. How they might move through the body, how they might act, where they might cause problems.
+
+My job was finding patterns and projecting the story: what dosage works, where it's safe, how often to give the drug.
+
+I was good at it.
+
+Companies still bring me on to consult and model their potential drugs. My skills are sharp. The compensation is generous. I have competitors, sure, but I've found my niche. I land more than enough work through my network alone. Every recent project has come just from people who know what I can do.
+
+And every time I do it, I feel the same thing: competent... and drained.
+
+Not tired. **Drained.**
+
+Like something in me is being consumed with each hour I give to work I'm good at but not meant for.
+
+## The Difference Between Tired and Drained
+
+Tired is what you feel after a hard day that mattered. You're spent, but there's a fullness to it. You did something. You moved something forward. Rest refills you.
+
+Drained is different.
+
+Drained is when the work itself—no matter how well you do it, no matter how much people value it—pulls something out of you that sleep can't replace. You wake up already behind. You finish projects successfully and feel... nothing. Or worse than nothing. Hollow.
+
+I'd integrated disparate data for years. Blood levels, tissue exposure, receptor binding, pharmacology—all woven into coherent models that predicted drug behavior from discovery setting to the clinic. Multiple data sources combined with pattern recognition to hopefully lead to convergent evidence.
+
+I was applying rigorous methodology to molecules while ignoring the most obvious signal in my own data: **this is draining you.**
+
+## The Competence Trap Explained
+
+Here's the trap: when you're good at something, everyone—including you—assumes that's your path.
+
+Your expertise is validated. People pay you well. Your calendar fills up. You develop a reputation. The system rewards you for continuing. And because you're competent, you can keep doing it almost indefinitely.
+
+But **competence and alignment are not the same thing.**
+
+I could model drug behavior in my sleep. I still can. The methodology is second nature—building compartmental models, integrating exposure-response relationships, projecting clinical outcomes from preclinical data. It's intellectually satisfying in the moment. The problem-solving lights up certain pathways.
+
+But when I stepped back and asked myself the simplest question—*Am I happy doing this?*—the answer was so obviously no that I'd been avoiding asking it for years.
+
+## When Success Becomes the Problem
+
+The harder part was this: I had everything I thought I wanted.
+
+Leadership position. Excellent pay. Steady climb up the ladder. I'd acquired every skill I thought mattered. All the pieces were finally in place.
+
+I get to spend more time with my family now. I have flexibility. I have financial security.
+
+So why was I so miserable—or maybe that is a bit harsh—but hollow?
+
+That question haunted me. Because if you've achieved what you set out to achieve and you're still hollow, what do you do with that? Where do you even start?
+
+Most people would say: "You're just burned out. Take a vacation. Find work-life balance. Practice gratitude. You make great money, what is your problem?"
+
+I tried all of that. It didn't work.
+
+Because the problem wasn't that I was working too hard. The problem was that I was working on the **wrong thing**—and I'd gotten very, very good at it.
+
+## The Moment of Recognition
+
+I started looking for the next thing. Some new technology like AI, approach, or new environment within PK/PD that would light me up again. I thought maybe I just needed a fresh challenge in the same domain.
+
+But to my surprise, I found myself treating my own life as the next modeling project—an n=1 study.
+
+If I could find the "why"—why this drains me, what specifically about it misaligns with how I'm built—maybe I could find the next activity that restored energy instead of consuming it.
+
+That's when I realized: my modeling skills weren't just useful in drug discovery.
+
+**They were the key to discovering my life.**
+
+The same methodology I used to decode molecular behavior could decode the behavior of my own meaning. Multiple data sources. Pattern recognition. Convergent evidence. Quantified tracking. Following the signal even when I didn't know what I was looking for yet.
+
+## What I Didn't Realize Then
+
+What I didn't realize then was that I was about to apply the same methodology to a far more important question:
+
+Not "How does this drug work?"
+
+But **"How do I work?"**
+
+What drives my happiness? What drains me despite outward success? What would it feel like to wake up energized by what I'm doing instead of drained by what I'm completing? What can I do that does not feel like a job, but a calling?
+
+I didn't have answers yet. But I had something more valuable: **a methodology for finding them.**
+
+Because here's what I've learned: being told what makes you happy doesn't work. Your parents can't tell you. Your boss can't. Career counselors can't.
+
+Not because they don't care. But because your alignment is uniquely yours.
+
+Your biomarkers—or happiness markers—are different from theirs. What energizes you might drain someone else completely.
+
+The only way out is developing the capacity to see it yourself—to build your own detection system for signals you don't yet know how to recognize.
+
+## Where This Goes Next
+
+I'm not going to tell you to quit your job. I'm not going to tell you what your path should be.
+
+I'm going to show you how I built the detection system that revealed mine—even when I didn't know what I was detecting yet.
+
+Because the competence trap is real. And if you're reading this, you might already be in it.
+
+Next time, I'll tell you about [the invisible gorilla](invisible-gorilla.qmd)—and why the most important patterns in your life might be the ones you've been trained not to see.
+
+---
+
+*This is part of an ongoing series on developing internal navigation rather than following external maps.*
