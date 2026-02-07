@@ -1,9 +1,11 @@
 ---
 title: "The Competence Trap"
-subtitle: "When success becomes the problem"
+subtitle: "Competent and Drained"
 date: 2026-01-15
 categories: [methodology, career, alignment]
 ---
+
+![](images/competence-trap.jpg){width=100%}
 
 ## Competent and Drained
 
