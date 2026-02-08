@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://fireinthecave.com/how-this-works/index.html</loc>
+    <lastmod>2026-02-08T00:54:53.756Z</lastmod>
+  </url>
+  <url>
     <loc>https://fireinthecave.com/pattern-recognition/silver-signal.html</loc>
     <lastmod>2026-02-06T00:51:03.247Z</lastmod>
   </url>
@@ -38,6 +42,10 @@
   </url>
   <url>
     <loc>https://fireinthecave.com/pattern-recognition/index.html</loc>
-    <lastmod>2026-02-06T00:51:13.399Z</lastmod>
+    <lastmod>2026-02-08T00:49:45.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fireinthecave.com/how-this-works/tools.html</loc>
+    <lastmod>2026-02-08T00:55:38.092Z</lastmod>
   </url>
 </urlset>

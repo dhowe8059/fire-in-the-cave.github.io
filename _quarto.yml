@@ -21,6 +21,8 @@ website:
         text: Technology
       - href: about.qmd
         text: About
+      - href: how-this-works/index.qmd
+        text: How this Works
     right:
       - icon: youtube
         href: https://youtube.com/@fireinthecave

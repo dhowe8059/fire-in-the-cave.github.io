@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "how-this-works/index.html",
+    "href": "how-this-works/index.html",
+    "title": "How this Works",
+    "section": "",
+    "text": "I built two websites this week. Not because I needed a prettier blog (though it doesn’t hurt) — Substack works fine for that. I built them for transparency, organization and independence of the messages.\nIf Fire in the Cave is about developing your own pattern recognition, building your own detection systems, and reducing dependence on platforms you don’t control — then publishing exclusively on someone else’s platform is a contradiction I couldn’t keep ignoring.\nSo here’s what’s live: fireinthecave.com — the primary site. Built with Quarto, hosted on GitHub Pages. Every post from Substack will be organized here by topic and connection rather than just chronology. On Substack, you see dispatches in the order I write them. On the site, you see how they connect.\nfireinthecave.x — the decentralized mirror. Hosted on IPFS through Pinata, resolved through Unstoppable Domains. No central server. No registrar with a kill switch. Teaching materials and content that might attract censorship pressure live here. If GitHub changes its terms of service tomorrow, this site still exists. With the changes coming with the Genius Act and crypto usage, this gives you a chance to play and interact with blockchain tools.\nI’ll continue posting to Substack. Nothing changes there. But the websites add two things Substack can’t provide: topical organization and platform independence."
+  },
+  {
+    "objectID": "how-this-works/index.html#the-medium-is-the-methodology",
+    "href": "how-this-works/index.html#the-medium-is-the-methodology",
+    "title": "How this Works",
+    "section": "",
+    "text": "I built two websites this week. Not because I needed a prettier blog (though it doesn’t hurt) — Substack works fine for that. I built them for transparency, organization and independence of the messages.\nIf Fire in the Cave is about developing your own pattern recognition, building your own detection systems, and reducing dependence on platforms you don’t control — then publishing exclusively on someone else’s platform is a contradiction I couldn’t keep ignoring.\nSo here’s what’s live: fireinthecave.com — the primary site. Built with Quarto, hosted on GitHub Pages. Every post from Substack will be organized here by topic and connection rather than just chronology. On Substack, you see dispatches in the order I write them. On the site, you see how they connect.\nfireinthecave.x — the decentralized mirror. Hosted on IPFS through Pinata, resolved through Unstoppable Domains. No central server. No registrar with a kill switch. Teaching materials and content that might attract censorship pressure live here. If GitHub changes its terms of service tomorrow, this site still exists. With the changes coming with the Genius Act and crypto usage, this gives you a chance to play and interact with blockchain tools.\nI’ll continue posting to Substack. Nothing changes there. But the websites add two things Substack can’t provide: topical organization and platform independence."
+  },
+  {
+    "objectID": "how-this-works/index.html#why-this-matters-beyond-my-content",
+    "href": "how-this-works/index.html#why-this-matters-beyond-my-content",
+    "title": "How this Works",
+    "section": "Why This Matters Beyond My Content",
+    "text": "Why This Matters Beyond My Content\nI’m not announcing these sites to impress anyone with technical skill. I’m announcing them because the entire stack is free, open-source, and available to you right now.\nThe sites were built with Quarto — a publishing system designed for data scientists. It’s not WordPress. It’s not Squarespace. It was built for people who need to embed live calculations, reproducible analyses, and model outputs directly into their reports. When I show you silver price data or market structure analysis, the calculations aren’t screenshots pasted into a blog post. They’re executable code that updates when the data changes. The same rigor I apply to PK/PD modeling — show the math, let others audit it — applies to everything published here.\nThe toolchain behind it — Positron, VS Code, R Studio — is the same software I use for running local large language models, building predictive models for pharmaceutical clients, and generating figures. The publishing tool and the analysis tool are the same tool. No separate “content creation” subscription. Able to start generating content at no to low cost.\nThe decentralized site runs through Pinata (IPFS hosting) and Unstoppable Domains (blockchain-resolved .x domain). IPFS distributes content across a network of nodes rather than a single server. The domain resolves through blockchain rather than ICANN. This means no single entity — no hosting company, no domain registrar, no government agency — can take the site offline by flipping one switch.\nIf you are not familiar with IPFS hosting, I use Brave browser to load IPFS websites. I highly recommend using Brave in order to also help to control your viewing history, block ads, integrated VPN potential and able to link crypto wallet. I do not use that feature, but it is there.\nI’m spelling this out because it demonstrates something I’ll keep coming back to: the tools for sovereignty already exist. You don’t need permission. You don’t need venture capital. You don’t need a computer science degree. You need willingness to learn tools that weren’t designed to extract your attention — they were designed to extend your capability. These tools are also supported by Gemini, Claude and ChatGPT in order to get running and learning easier."
+  },
+  {
+    "objectID": "how-this-works/index.html#a-note-on-how-posts-will-work-going-forward",
+    "href": "how-this-works/index.html#a-note-on-how-posts-will-work-going-forward",
+    "title": "How this Works",
+    "section": "A Note on How Posts Will Work Going Forward",
+    "text": "A Note on How Posts Will Work Going Forward\nPosts on Substack may jump around in topic. One week might be silver market structure. The next might be the competence trap. The next might be phenotypic assessment methodology or a dispatch on global youth disengagement patterns.\nThis is deliberate. Pattern recognition doesn’t happen in a single lane. You don’t discover convergent evidence by staying neatly inside one domain. The silver piece connected precious metals markets to chip manufacturing to geopolitical operations in Venezuela. The competence trap piece connected pharmaceutical modeling to personal fulfillment to biomarker detection. The connections between seemingly unrelated posts are where the signal lives.\nSubstack shows you the chronological stream — the raw dispatches as they happen. The websites show you the topology — how the dispatches connect across domains.\nThink of it as the difference between reading lab notebooks in the order they were written versus seeing the completed model that emerged from them. Both are useful. The notebook shows you the process. The model shows you the pattern."
+  },
+  {
+    "objectID": "how-this-works/index.html#whats-next",
+    "href": "how-this-works/index.html#whats-next",
+    "title": "How this Works",
+    "section": "What’s Next",
+    "text": "What’s Next\nThe sites are live. Content is being organized. I’ll be migrating existing Substack posts and adding new material as the methodology continues to develop in real time.\nIf you want to follow the dispatches as they publish, stay subscribed here on Substack.\nIf you want to see the connections between them — or explore the teaching materials — visit fireinthecave.com or fireinthecave.x.\nSame fire. Now with more walls to paint on."
+  },
+  {
+    "objectID": "how-this-works/index.html#in-this-section",
+    "href": "how-this-works/index.html#in-this-section",
+    "title": "How this Works",
+    "section": "In This Section",
+    "text": "In This Section"
+  },
+  {
     "objectID": "pattern-recognition/silver-signal.html",
     "href": "pattern-recognition/silver-signal.html",
     "title": "How Silver Price Volatility Revealed What Was Coming",
