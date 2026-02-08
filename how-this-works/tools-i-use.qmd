@@ -1,0 +1,63 @@
+# Tools I Use
+
+### The Fire in the Cave Stack
+
+Everything here is free or low-cost. Nothing requires a computer science degree. I use these tools daily — for research, analysis, writing, publishing, and running local AI models. The stack is the methodology in practice.
+
+---
+
+##### Publishing & Websites
+
+**Quarto** — Open-source scientific publishing system. Renders markdown into websites, books, presentations, and reports (word documents and PDFs). Embeds live Python and R code so calculations stay current. This is what data scientists use for reproducible research. It's what I use to publish everything you read here.
+
+**GitHub Pages** — Free static site hosting through GitHub. The fireinthecave.com site lives here. Version-controlled, meaning every edit is tracked and reversible. No hosting fees. No ads. No platform algorithm deciding who sees your content.
+
+**Pinata** — IPFS pinning service. Hosts files on a distributed network rather than a single server. The fireinthecave.x site runs through Pinata. Content persists across multiple nodes — no single point of failure.
+
+**Unstoppable Domains** — Blockchain-based domain registration. The .x domain resolves through blockchain rather than traditional DNS. No registrar can revoke it. You own the domain outright — one purchase, no renewal fees.
+
+##### Writing & Research
+
+**Obsidian** — Local-first knowledge management. All notes stored as plain markdown files on your machine — no cloud dependency. The wikilink system lets you build connections between ideas the way your brain actually works. My research vault connects silver market data to Vedic astrology frameworks to Fourth Turning cycle analysis. The links reveal patterns that linear note-taking hides.
+
+**Novelcrafter** — Writing tool with a built-in Codex system for world-building. I use it to maintain cross-references across the entire Fire in the Cave framework — characters, concepts, timelines, methodology entries. Every term that appears in my writing has a Codex entry with analytical edges, narrative edges, and relational links. The Codex is the spine of the project.
+
+**Zotero** — Free, open-source reference manager. Captures citations from the web, organizes sources, generates bibliographies. Essential for maintaining the evidentiary standard. If I cite a BLS report or a Cabinet Office survey, Zotero keeps the receipt.
+
+##### Development & Analysis
+
+**Positron** — IDE (integrated development environment) from Posit, the company behind RStudio. Handles both Python and R in a single environment. This is where Quarto projects get built and where analytical code runs before publication.
+
+**VS Code** — Microsoft's free code editor. Handles everything from markdown editing to Git operations to terminal commands. If Positron is the laboratory, VS Code is the workshop.
+
+**R Studio** — The original IDE for R statistical computing. Still useful for specific R-based analyses and Quarto rendering.
+
+**Python / R** — The two languages behind every calculation, chart, and model on these sites. Python handles the heavy lifting (PyHora for Vedic chart calculations, data manipulation, API calls). R handles statistical modeling and visualization. Both are used for producing visualizations.
+
+##### AI & Local Models
+
+**Mac Studio (M3, 96GB)** — The hardware. Unified memory architecture means large language models that won't fit on a GPU's VRAM run comfortably here. This is the machine from the December positioning story — bought ahead of silver-driven supply chain disruption.
+
+**Local LLMs** — Models running on-device rather than through cloud APIs. No data leaves the machine. No usage fees per query. No terms of service changes that could cut access. The same sovereignty principle that applies to publishing applies to AI: if you don't control the infrastructure, you don't control the capability.
+
+**Proprietary LLMs** — Cloud APIs are used. These include Claude, Gemini, NotebookLM and Perplexity. I am developing Local LLMs and looking at how to include Cloud APIs to get the best of both worlds. This is an experiment in progress and will provide updates and how I use the models including prompting. All outputs are stored in Obsidian for knowledge base and further utilization.
+
+##### Phenotypic Assessment
+
+**PyHora** — Python library for Vedic astrological chart calculations. Generates divisional chart data (vargas) as structured JSON output. This is the computational engine behind the phenotypic assessment system — not a horoscope generator, but a pattern-mapping tool that I test rigorously against observable outcomes.
+
+---
+
+##### The Principle Behind the Stack
+
+Every tool listed here shares three properties:
+
+1. **You own the output.** No platform lock-in. Files are markdown, JSON, plain text. If any tool disappears tomorrow, your work survives.
+2. **The cost barrier is near zero.** Most of this is free. The Mac Studio was a one-time hardware purchase. There are no monthly subscriptions gating your ability to publish, analyze, or think.
+3. **No permission required.** You don't need an editor to approve your post. You don't need a hosting company to keep your site live. You don't need a cloud provider to run your models. The tools serve you. You don't serve the tools.
+
+This isn't a flex. It's a proof of concept. If a PK/PD modeler who grew up on a farm can build this stack, so can you. You are not on your own. I was able to set up using Cloud API LLMs. I cannot stress this enough. You have access to help to set up these tools. This help is getting better and better over time. The tools exist.
+
+The barrier isn't technical — it's the assumption that you need someone else's platform to do serious work.
+
+You don't.

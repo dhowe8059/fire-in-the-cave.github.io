@@ -55,3 +55,5 @@ Same fire. Now with more walls to paint on.
 ---
 
 ## In This Section
+
+- [Tools I Use](tools-i-use.qmd) - Tools I Use
