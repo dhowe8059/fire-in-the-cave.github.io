@@ -47,6 +47,7 @@ website:
         - section: "Global Opt Out"
           contents:
             - pattern-recognition/global-opt-out-series/lying-flat.qmd
+            - pattern-recognition/global-opt-out-series/the-global-pattern.qmd
 
     
     - title: "Technology"
