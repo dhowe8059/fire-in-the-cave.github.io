@@ -44,8 +44,10 @@ website:
       contents:
         - pattern-recognition/index.qmd
         - pattern-recognition/silver-signal.qmd
-        - text: "Lying Flat"
-          href: pattern-recognition/lying-flat.qmd
+        - section: "Global Opt Out"
+          contents:
+            - pattern-recognition/global-opt-out-series/lying-flat.qmd
+
     
     - title: "Technology"
       contents:
