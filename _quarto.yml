@@ -8,6 +8,8 @@ website:
   title: "Fire in the Cave"
   description: "Pattern recognition as survival technology"
   site-url: https://fireinthecave.com
+  google-analytics: "G-WBL5JM3FH2"
+
   
   navbar:
     left:
