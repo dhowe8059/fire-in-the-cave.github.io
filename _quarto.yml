@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Fire in the Cave"
-  description: "Pattern recognition as survival technology. A PhD medicinal chemist applies cross-domain signal detection to finance, generational shifts, AI, and personal fulfillment."
+  description: "Applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools and frameworks for navigating what comes next — from a PhD pharmacologist."
   site-url: https://fireinthecave.com
   google-analytics: "G-WBL5JM3FH2"
 # This generates Open Graph and Twitter cards automatically
@@ -22,7 +22,7 @@ website:
   # google-scholar: true
   
   # Default image for pages that don't specify one
-  image: images/banner.jpg
+  #image: images/banner.jpg
   
   navbar:
     left:

@@ -1,11 +1,11 @@
 ---
 title: "Fire in the Cave"
 subtitle: "Pattern recognition for personal fulfillment"
-description: "applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools for navigating what comes next."
-image: images/banner.jpg
+description: "Applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools and frameworks for navigating what comes next — from a PhD pharmacologist."
+#image: images/banner.jpg
 ---
 
-![fire painting on cave wall](images/banner.jpg){width=100%}
+![Fire painting on cave wall — pattern recognition across time](images/banner.jpg){width=100%}
 
 ## Welcome
 
@@ -43,7 +43,7 @@ Examples of the use of technology including AI to improve pattern recognition an
 
 ## The Standing Wave
 
-![man pulling heavy weights](images/yoke%20weight.png){width=100%}
+![Man pulling heavy weights — the standing wave trap](images/yoke weight.png){width=100%}
 
 Where many of us find ourselves:
 
@@ -58,7 +58,7 @@ The other possibility is what I have been calling is a standing wave. You are ca
 
 The choice isn't between two manufactured paths. It's between accepting someone else's design or learning to recognize your own patterns—and following where they lead.
 
-![standing wave](images/the_image_depicts_a_man.png){width=100%}
+![Figure caught in a standing wave — the illusion of motion](images/the_image_depicts_a_man.png){width=100%}
 
 That's why I started Fire in the Cave. Because there's a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else's options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one.
 

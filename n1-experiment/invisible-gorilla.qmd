@@ -7,7 +7,7 @@ author: "David Howe"
 categories: [n1-experiment, methodology, pattern-recognition]
 ---
 
-![cave painting](images/Gemini_Generated_Image_81pln981pln981pl.png){width="100%"}
+![cave painting buffalo](images/Gemini_Generated_Image_81pln981pln981pl.png){width="100%"}
 
 ## A Look Back 
 
