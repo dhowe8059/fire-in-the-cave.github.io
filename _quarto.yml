@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Fire in the Cave"
-  description: "Applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools and frameworks for navigating what comes next — from a PhD pharmacologist."
+  description: "Applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools and frameworks for navigating what comes next."
   site-url: https://fireinthecave.com
   google-analytics: "G-WBL5JM3FH2"
 # This generates Open Graph and Twitter cards automatically
