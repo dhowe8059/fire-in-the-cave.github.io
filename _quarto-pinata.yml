@@ -1,0 +1,6 @@
+project:
+  output-dir: _site-pinata
+
+website:
+  google-analytics: "null"
+  site-url: https://fireinthecave.x

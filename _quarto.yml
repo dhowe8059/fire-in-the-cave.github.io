@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Fire in the Cave"
-  description: "Pattern recognition as survival technology"
+  description: "Pattern recognition as survival technology. A PhD medicinal chemist applies cross-domain signal detection to finance, generational shifts, AI, and personal fulfillment."
   site-url: https://fireinthecave.com
   google-analytics: "G-WBL5JM3FH2"
 # This generates Open Graph and Twitter cards automatically
@@ -87,8 +87,27 @@ format:
     css: custom.css
     toc: true
     code-fold: true
+    include-in-header:
+      - text: |
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "David Howe",
+            "url": "https://fireinthecave.com",
+            "description": "PhD pharmacologist and cross-domain pattern recognition practitioner",
+            "sameAs": [
+              "https://fireinthecave.substack.com",
+              "https://youtube.com/@fireinthecave"
+            ]
+          }
+          </script>
 
 bibliography: references.bib
 
 execute:
   freeze: auto
+  
+profile:
+  group:
+    - [default, pinata]
