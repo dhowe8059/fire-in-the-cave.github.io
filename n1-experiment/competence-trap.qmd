@@ -1,8 +1,10 @@
 ---
 title: "The Competence Trap"
 subtitle: "Competent and Drained"
-date: 2026-01-15
-categories: [methodology, career, alignment]
+description: "When expertise becomes a cage. How professional competence can trap you in systems that no longer serve you — and how to recognize the pattern."
+date: "2026-02-06"
+author: "David Howe"
+categories: [n1-experiment, methodology, career]
 ---
 
 ![](images/competence-trap.jpg){width=100%}

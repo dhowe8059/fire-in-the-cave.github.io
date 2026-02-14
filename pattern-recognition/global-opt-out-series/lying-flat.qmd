@@ -1,8 +1,10 @@
 ---
 title: "Lying Flat"
 subtitle: "Sign of Things to Come?"
-date: 2026-02-01
-categories: [culture, economics, World Affairs]
+description: "33 hours on a mattress. 10 million viewers. China's lying flat movement isn't laziness — it's the output of an equation. A pattern recognition analysis of youth disengagement."
+date: "2026-02-10"
+author: "David Howe"
+categories: [pattern-recognition, global-opt-out, china, tangping, fourth-turning]
 ---
 
 ![](lying_flat_Image_substack.png){width="100%"}

@@ -8,21 +8,7 @@ website:
   title: "Fire in the Cave"
   description: "Pattern recognition as survival technology"
   site-url: https://fireinthecave.com
-  google-analytics: "G-WBL5JM3FH2"
-# This generates Open Graph and Twitter cards automatically
-  open-graph: true
-  twitter-card:
-    site: "@fireinthecave"    # create this handle if you haven't
-    card-style: summary_large_image
-  
-  # Favicon (if you have one)
-  # favicon: images/favicon.png
-  
-  # Search engine verification (get these from Google Search Console and Bing Webmaster Tools)
-  # google-scholar: true
-  
-  # Default image for pages that don't specify one
-  image: images/banner.jpg
+
   
   navbar:
     left:

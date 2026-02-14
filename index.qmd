@@ -1,6 +1,8 @@
 ---
 title: "Fire in the Cave"
 subtitle: "Pattern recognition for personal fulfillment"
+description: "A PhD medicinal chemist applies pattern recognition to broken systems — finance, generational shifts, AI, and personal fulfillment. Tools for navigating what comes next."
+image: images/banner.jpg
 ---
 
 ![](images/banner.jpg){width=100%}

@@ -1,8 +1,11 @@
 ---
 title: "How Silver Price Volatility Revealed What Was Coming"
 subtitle: "And Why I Bought a Mac Instead of Waiting"
-date: 2026-01-05
-categories: [pattern-recognition, markets, real-time]
+description: "Detecting a mineral supply chain disruption before the Venezuela operation through silver market anomalies, LBMA-COMEX-SMM spread analysis, and convergent evidence methodology."
+date: "2026-01-05"
+author: "David Howe"
+categories: [pattern-recognition, markets, silver, supply-chain, convergent-evidence]
+image: images/silver-price-chart.jpg  # or whatever image you have
 ---
 
 **What happened:** Detected unusual silver market behavior in November, positioned ahead of supply disruption, Venezuela operation revealed systemic mineral competition.
@@ -11,11 +14,11 @@ categories: [pattern-recognition, markets, real-time]
 
 **What you'll learn:** How to detect systemic pressure before geopolitical events make it obvious.
 
----
+------------------------------------------------------------------------
 
 ## Biomarker
 
-It was late December 2025, and I was watching GPU prices for a new AI workstation. The rational case for waiting was clear: prices were high ($3,500-4,000), supplies were limited, post-holiday sales might come. Every logical analysis said wait.
+It was late December 2025, and I was watching GPU prices for a new AI workstation. The rational case for waiting was clear: prices were high (\$3,500-4,000), supplies were limited, post-holiday sales might come. Every logical analysis said wait.
 
 But the nervousness persisted. And I’ve learned not to ignore that signal.
 
@@ -29,13 +32,13 @@ Data centers, solar panels, EVs and batteries like Samsung’s new solid state b
 
 ## Market Structure Tells a Story
 
-LBMA prices were higher than COMEX with SMM prices greater than LBMA. The spreads or differences were $4.00 or higher for SMM versus LBMA over this time. This implies that physical metal buying is driving the price and not investment products. I did not understand the mechanics behind this, but silver is a need for electrical and computer components among other important products like AI data centers, batteries, green energy technologies, electrical infrastructure. Why all of a sudden the increase in physical buying. The silver price has been gradually increasing since September 2025 going from approximately $40 to $50 over the month. For the month of November it increased another $10 over the month. From Christmas Eve to the day after Christmas, Silver price increased $8 dollars. The SMM and other exchanges had large premiums as compared to COMEX and LBMA.
+LBMA prices were higher than COMEX with SMM prices greater than LBMA. The spreads or differences were \$4.00 or higher for SMM versus LBMA over this time. This implies that physical metal buying is driving the price and not investment products. I did not understand the mechanics behind this, but silver is a need for electrical and computer components among other important products like AI data centers, batteries, green energy technologies, electrical infrastructure. Why all of a sudden the increase in physical buying. The silver price has been gradually increasing since September 2025 going from approximately \$40 to \$50 over the month. For the month of November it increased another \$10 over the month. From Christmas Eve to the day after Christmas, Silver price increased \$8 dollars. The SMM and other exchanges had large premiums as compared to COMEX and LBMA.
 
 **Figure 1. Daily COMEX Silver Prices from February 2024 through January 5, 2026**
 
-![](images/Comex silver price.jpg){width=100%}
+![](images/Comex%20silver%20price.jpg){width="100%"}
 
-**Note the unusual volatility beginning in November and the $8 spike over Christmas - behavior unlike anything in the previous 10 years.**
+**Note the unusual volatility beginning in November and the \$8 spike over Christmas - behavior unlike anything in the previous 10 years.**
 
 One has to be careful with interpreting price moves over the holidays since there are fewer traders, but the SMM still had metals being purchased and driving prices up at the SMM. Normally, this would not last because someone would purchase from COMEX and LBMA and sell at the SMM to take advantage of the price differential. This was not happening. Even on the days that extreme selling seem to be happening. The price at the SMM was reduced, but still higher than either the COMEX or LBMA.
 
@@ -43,15 +46,13 @@ One has to be careful with interpreting price moves over the holidays since ther
 
 I decided that at that point it was time to buy. I was not sure what was occurring, but knew that silver is needed for chip manufacturing. I was monitoring GPU prices and availability at a few sites. Prices did not drop after Christmas and no new supplies coming in yet. I just got lucky and an article came out in Medium. I did not read it, but the title suggested that the article was geared towards picking right LLM (Large language models) to run on your Mac. I looked at the computers that were available at the local Mac store and found an M3 Mac Studio with 96 GB memory. It is not the fastest at fine tuning new models, but for initial training it can run much bigger models than the RTX5090 can do. Also, the price for the computer was the same price as just the RTX5090 GPU. Went out and bought it.
 
-
-
 ## The Signal I Didn't Yet Understand
 
 I made this purchase on December 26th - smart positioning based on the pattern I could see in silver markets. But I didn’t yet understand what that pattern was revealing about the system itself.
 
 The full picture emerged over the next week.
 
-First, more details about China’s silver policy became clear: companies needed capacity for 80+ tons annually, credit lines exceeding $30M, state approval for all exports. Combined with the US listing silver as a Critical Mineral on November 7th, industrial users were scrambling.
+First, more details about China’s silver policy became clear: companies needed capacity for 80+ tons annually, credit lines exceeding \$30M, state approval for all exports. Combined with the US listing silver as a Critical Mineral on November 7th, industrial users were scrambling.
 
 Then on January 3rd, the geopolitical driver became visible: US military conducted special operations in Venezuela, removing President Maduro and his wife. The stated justification: drug trafficking, democracy, cartel operations.
 
@@ -75,8 +76,7 @@ You might think this is doom scrolling. Overreacting. ‘Everything will be fine
 
 Silver is used in a wide variety of products. Silver is a important metal for EVs, solar panels, batteries, electrical connections in AI data centers. High quality silver paste is used high end chip production at the final stage. With both China and US military limiting silver access, here are some other areas possibly affected.
 
-1. Silver Usage in AI & Legacy Chips
-Advanced Packaging (CoWoS)
+1.  Silver Usage in AI & Legacy Chips Advanced Packaging (CoWoS)
 
 The Material: Die Attach Paste (80%+ Silver)
 
@@ -108,8 +108,7 @@ The Function: Silver-filled epoxies that sit between the chip and the metal heat
 
 The Choke Point: Silver has the highest thermal conductivity of any metal. Without it, AI chips would overheat and throttle instantly.
 
-2. Silver Usage in Automobiles & Appliances
-User Interface
+2.  Silver Usage in Automobiles & Appliances User Interface
 
 The Material: Membrane Switches (Silver Ink)
 
@@ -235,27 +234,27 @@ My biomarker detected this building pressure months before the geopolitical move
 
 ## On Personal Navigation:
 
-- What biomarker signals are you currently dismissing as “irrational”?
+-   What biomarker signals are you currently dismissing as “irrational”?
 
-- Where is your intuition telling you to move, even without logical explanation?
+-   Where is your intuition telling you to move, even without logical explanation?
 
-- What unusual price behavior are you noticing but not yet understanding?*
+-   What unusual price behavior are you noticing but not yet understanding?\*
 
 ## On Systemic Positioning:
 
-- What essential infrastructure are you assuming will remain continuously available?
+-   What essential infrastructure are you assuming will remain continuously available?
 
-- If rare earth/silver supply chains fragment for 3-5 years, what becomes scarce?
+-   If rare earth/silver supply chains fragment for 3-5 years, what becomes scarce?
 
-- Where could you position now, ahead of constraints becoming obvious to everyone?
+-   Where could you position now, ahead of constraints becoming obvious to everyone?
 
 ## On Methodology:
 
-- What multiple independent data sources could you track for convergent evidence?
+-   What multiple independent data sources could you track for convergent evidence?
 
-- How do you distinguish signal from noise when the pattern isn’t yet clear?
+-   How do you distinguish signal from noise when the pattern isn’t yet clear?
 
-- When was the last time you followed a biomarker before having full rational justification?
+-   When was the last time you followed a biomarker before having full rational justification?
 
 ## Welcome to the Cave
 

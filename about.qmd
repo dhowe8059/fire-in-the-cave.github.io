@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About — David Howe"
+description: "PhD medicinal chemist, DMPK modeler, and cross-domain pattern recognition practitioner. 20+ years in drug development, now applying signal detection to systems that shape our lives."
 ---
 
 ## Who I Am

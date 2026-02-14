@@ -1,10 +1,10 @@
 ---
 title: "Signal in the Silence: Why You Miss Your Own Gorilla"
 subtitle: "A methodology for seeing what you don't even know to look for."
-date: 2026-01-22
+description: "How selective attention blinds us to patterns hiding in plain sight — and what a famous psychology experiment reveals about navigating complex systems."
+date: "2026-02-06"
 author: "David Howe"
-categories: [methodology, pattern-recognition, intuition]
-bibliography: ../references.bib
+categories: [n1-experiment, methodology, pattern-recognition]
 ---
 
 ![](images/Gemini_Generated_Image_81pln981pln981pl.png){width="100%"}

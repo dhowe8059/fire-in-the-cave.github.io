@@ -1,8 +1,9 @@
 ---
-title: "The Global Pattern"
-subtitle: "Japan, S. Korea, EU and US"
-date: 2026-02-09
-categories: [society, economics, World Affair]
+title: "The Global Pattern — Five Countries, One Equation"
+description: "Tangping. Hikikomori. Satori. NEET. Quiet Quitting. Five countries, five languages, five governments — same math. Why youth worldwide are reaching the same conclusion simultaneously."
+date: "2026-02-10"
+author: "David Howe"
+categories: [pattern-recognition, global-opt-out, japan, korea, europe, united-states, fourth-turning]
 ---
 
 ![](global-pattern.png){fig-align="center"}
