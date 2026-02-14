@@ -6,7 +6,7 @@ author: "David Howe"
 categories: [pattern-recognition, global-opt-out, japan, korea, europe, united-states, fourth-turning]
 ---
 
-![](global-pattern.png){fig-align="center"}
+![japan-korea-US global opt out](global-pattern.png){fig-align="center"}
 
 ## The Global Pattern
 

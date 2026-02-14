@@ -36,7 +36,7 @@ LBMA prices were higher than COMEX with SMM prices greater than LBMA. The spread
 
 **Figure 1. Daily COMEX Silver Prices from February 2024 through January 5, 2026**
 
-![](images/Comex%20silver%20price.jpg){width="100%"}
+![silver price](images/Comex%20silver%20price.jpg){width="100%"}
 
 **Note the unusual volatility beginning in November and the \$8 spike over Christmas - behavior unlike anything in the previous 10 years.**
 

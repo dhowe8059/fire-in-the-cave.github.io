@@ -7,6 +7,18 @@
     "text": "Tools I Use\n\nThe Fire in the Cave Stack\nEverything here is free or low-cost. Nothing requires a computer science degree. I use these tools daily — for research, analysis, writing, publishing, and running local AI models. The stack is the methodology in practice.\n\n\nPublishing & Websites\nQuarto — Open-source scientific publishing system. Renders markdown into websites, books, presentations, and reports (word documents and PDFs). Embeds live Python and R code so calculations stay current. This is what data scientists use for reproducible research. It’s what I use to publish everything you read here.\nGitHub Pages — Free static site hosting through GitHub. The fireinthecave.com site lives here. Version-controlled, meaning every edit is tracked and reversible. No hosting fees. No ads. No platform algorithm deciding who sees your content.\nPinata — IPFS pinning service. Hosts files on a distributed network rather than a single server. The fireinthecave.x site runs through Pinata. Content persists across multiple nodes — no single point of failure.\nUnstoppable Domains — Blockchain-based domain registration. The .x domain resolves through blockchain rather than traditional DNS. No registrar can revoke it. You own the domain outright — one purchase, no renewal fees.\n\n\nWriting & Research\nObsidian — Local-first knowledge management. All notes stored as plain markdown files on your machine — no cloud dependency. The wikilink system lets you build connections between ideas the way your brain actually works. My research vault connects silver market data to Vedic astrology frameworks to Fourth Turning cycle analysis. The links reveal patterns that linear note-taking hides.\nNovelcrafter — Writing tool with a built-in Codex system for world-building. I use it to maintain cross-references across the entire Fire in the Cave framework — characters, concepts, timelines, methodology entries. Every term that appears in my writing has a Codex entry with analytical edges, narrative edges, and relational links. The Codex is the spine of the project.\nZotero — Free, open-source reference manager. Captures citations from the web, organizes sources, generates bibliographies. Essential for maintaining the evidentiary standard. If I cite a BLS report or a Cabinet Office survey, Zotero keeps the receipt.\n\n\nDevelopment & Analysis\nPositron — IDE (integrated development environment) from Posit, the company behind RStudio. Handles both Python and R in a single environment. This is where Quarto projects get built and where analytical code runs before publication.\nVS Code — Microsoft’s free code editor. Handles everything from markdown editing to Git operations to terminal commands. If Positron is the laboratory, VS Code is the workshop.\nR Studio — The original IDE for R statistical computing. Still useful for specific R-based analyses and Quarto rendering.\nPython / R — The two languages behind every calculation, chart, and model on these sites. Python handles the heavy lifting (PyHora for Vedic chart calculations, data manipulation, API calls). R handles statistical modeling and visualization. Both are used for producing visualizations.\n\n\nAI & Local Models\nMac Studio (M3, 96GB) — The hardware. Unified memory architecture means large language models that won’t fit on a GPU’s VRAM run comfortably here. This is the machine from the December positioning story — bought ahead of silver-driven supply chain disruption.\nLocal LLMs — Models running on-device rather than through cloud APIs. No data leaves the machine. No usage fees per query. No terms of service changes that could cut access. The same sovereignty principle that applies to publishing applies to AI: if you don’t control the infrastructure, you don’t control the capability.\nProprietary LLMs — Cloud APIs are used. These include Claude, Gemini, NotebookLM and Perplexity. I am developing Local LLMs and looking at how to include Cloud APIs to get the best of both worlds. This is an experiment in progress and will provide updates and how I use the models including prompting. All outputs are stored in Obsidian for knowledge base and further utilization.\n\n\nPhenotypic Assessment\nPyHora — Python library for Vedic astrological chart calculations. Generates divisional chart data (vargas) as structured JSON output. This is the computational engine behind the phenotypic assessment system — not a horoscope generator, but a pattern-mapping tool that I test rigorously against observable outcomes.\n\n\n\nThe Principle Behind the Stack\nEvery tool listed here shares three properties:\n\nYou own the output. No platform lock-in. Files are markdown, JSON, plain text. If any tool disappears tomorrow, your work survives.\nThe cost barrier is near zero. Most of this is free. The Mac Studio was a one-time hardware purchase. There are no monthly subscriptions gating your ability to publish, analyze, or think.\nNo permission required. You don’t need an editor to approve your post. You don’t need a hosting company to keep your site live. You don’t need a cloud provider to run your models. The tools serve you. You don’t serve the tools.\n\nThis isn’t a flex. It’s a proof of concept. If a PK/PD modeler who grew up on a farm can build this stack, so can you. You are not on your own. I was able to set up using Cloud API LLMs. I cannot stress this enough. You have access to help to set up these tools. This help is getting better and better over time. The tools exist.\nThe barrier isn’t technical — it’s the assumption that you need someone else’s platform to do serious work.\nYou don’t."
   },
   {
+    "objectID": "pattern-recognition/global-opt-out-series/lying-flat.html",
+    "href": "pattern-recognition/global-opt-out-series/lying-flat.html",
+    "title": "Lying Flat",
+    "section": "",
+    "text": "lying flat on mattresses",
+    "crumbs": [
+      "Pattern Recognition",
+      "Global Opt Out",
+      "Lying Flat"
+    ]
+  },
+  {
     "objectID": "pattern-recognition/global-opt-out-series/lying-flat.html#the-global-pattern-lying-flat",
     "href": "pattern-recognition/global-opt-out-series/lying-flat.html#the-global-pattern-lying-flat",
     "title": "Lying Flat",
@@ -45,7 +57,7 @@
     "href": "pattern-recognition/silver-signal.html#market-structure-tells-a-story",
     "title": "How Silver Price Volatility Revealed What Was Coming",
     "section": "Market Structure Tells a Story",
-    "text": "Market Structure Tells a Story\nLBMA prices were higher than COMEX with SMM prices greater than LBMA. The spreads or differences were $4.00 or higher for SMM versus LBMA over this time. This implies that physical metal buying is driving the price and not investment products. I did not understand the mechanics behind this, but silver is a need for electrical and computer components among other important products like AI data centers, batteries, green energy technologies, electrical infrastructure. Why all of a sudden the increase in physical buying. The silver price has been gradually increasing since September 2025 going from approximately $40 to $50 over the month. For the month of November it increased another $10 over the month. From Christmas Eve to the day after Christmas, Silver price increased $8 dollars. The SMM and other exchanges had large premiums as compared to COMEX and LBMA.\nFigure 1. Daily COMEX Silver Prices from February 2024 through January 5, 2026\n\nNote the unusual volatility beginning in November and the $8 spike over Christmas - behavior unlike anything in the previous 10 years.\nOne has to be careful with interpreting price moves over the holidays since there are fewer traders, but the SMM still had metals being purchased and driving prices up at the SMM. Normally, this would not last because someone would purchase from COMEX and LBMA and sell at the SMM to take advantage of the price differential. This was not happening. Even on the days that extreme selling seem to be happening. The price at the SMM was reduced, but still higher than either the COMEX or LBMA.",
+    "text": "Market Structure Tells a Story\nLBMA prices were higher than COMEX with SMM prices greater than LBMA. The spreads or differences were $4.00 or higher for SMM versus LBMA over this time. This implies that physical metal buying is driving the price and not investment products. I did not understand the mechanics behind this, but silver is a need for electrical and computer components among other important products like AI data centers, batteries, green energy technologies, electrical infrastructure. Why all of a sudden the increase in physical buying. The silver price has been gradually increasing since September 2025 going from approximately $40 to $50 over the month. For the month of November it increased another $10 over the month. From Christmas Eve to the day after Christmas, Silver price increased $8 dollars. The SMM and other exchanges had large premiums as compared to COMEX and LBMA.\nFigure 1. Daily COMEX Silver Prices from February 2024 through January 5, 2026\n\n\n\nsilver price\n\n\nNote the unusual volatility beginning in November and the $8 spike over Christmas - behavior unlike anything in the previous 10 years.\nOne has to be careful with interpreting price moves over the holidays since there are fewer traders, but the SMM still had metals being purchased and driving prices up at the SMM. Normally, this would not last because someone would purchase from COMEX and LBMA and sell at the SMM to take advantage of the price differential. This was not happening. Even on the days that extreme selling seem to be happening. The price at the SMM was reduced, but still higher than either the COMEX or LBMA.",
     "crumbs": [
       "Pattern Recognition",
       "How Silver Price Volatility Revealed What Was Coming"
@@ -233,6 +245,17 @@
     ]
   },
   {
+    "objectID": "n1-experiment/invisible-gorilla.html",
+    "href": "n1-experiment/invisible-gorilla.html",
+    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
+    "section": "",
+    "text": "cave painting",
+    "crumbs": [
+      "N=1 Experiment",
+      "Signal in the Silence: Why You Miss Your Own Gorilla"
+    ]
+  },
+  {
     "objectID": "n1-experiment/invisible-gorilla.html#a-look-back",
     "href": "n1-experiment/invisible-gorilla.html#a-look-back",
     "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
@@ -296,6 +319,17 @@
     "crumbs": [
       "N=1 Experiment",
       "N=1 Experimentation"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html",
+    "href": "n1-experiment/competence-trap.html",
+    "title": "The Competence Trap",
+    "section": "",
+    "text": "work and cave",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
     ]
   },
   {
@@ -376,6 +410,13 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fire in the Cave",
+    "section": "",
+    "text": "fire in the cave"
+  },
+  {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Fire in the Cave",
@@ -394,7 +435,7 @@
     "href": "index.html#the-standing-wave",
     "title": "Fire in the Cave",
     "section": "The Standing Wave",
-    "text": "The Standing Wave\n\nWhere many of us find ourselves:\n\nExpenses and costs that have made it difficult to afford what previous generations took for granted\nFollowing the rules of the system, but promises not kept\nSystems gamifying your attention—keeping you engaged but not empowered\nCollective changes causing anxiety and uncertainty about your future\n\nI originally thought, like many, that old systems were simply breaking down and forcing us toward something new. But crossroads were built by Romans and kings long dead. When you only get to choose between paths others have laid, it may look like change—but you’re still a user on someone else’s platform.\nThe other possibility is what I have been calling is a standing wave. You are caught in all of your internal and external pressures that are stopping you from really finding your happy self. When you look out, you can see all of the possibility but you cannot get there.\nThe choice isn’t between two manufactured paths. It’s between accepting someone else’s design or learning to recognize your own patterns—and following where they lead.\n\nThat’s why I started Fire in the Cave. Because there’s a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else’s options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one."
+    "text": "The Standing Wave\n\nWhere many of us find ourselves:\n\nExpenses and costs that have made it difficult to afford what previous generations took for granted\nFollowing the rules of the system, but promises not kept\nSystems gamifying your attention—keeping you engaged but not empowered\nCollective changes causing anxiety and uncertainty about your future\n\nI originally thought, like many, that old systems were simply breaking down and forcing us toward something new. But crossroads were built by Romans and kings long dead. When you only get to choose between paths others have laid, it may look like change—but you’re still a user on someone else’s platform.\nThe other possibility is what I have been calling is a standing wave. You are caught in all of your internal and external pressures that are stopping you from really finding your happy self. When you look out, you can see all of the possibility but you cannot get there.\nThe choice isn’t between two manufactured paths. It’s between accepting someone else’s design or learning to recognize your own patterns—and following where they lead.\n\n\n\nstanding wave\n\n\nThat’s why I started Fire in the Cave. Because there’s a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else’s options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one."
   },
   {
     "objectID": "index.html#join-the-fire",
@@ -421,6 +462,18 @@
     "text": "In This Section\n\nHow Silver Price Volatility Revealed What Was Coming — Why I Bought a Mac Instead of Waiting\nLying Flat — Sign of Things to Come?\nGlobal Pattern - Global pattern established.",
     "crumbs": [
       "Pattern Recognition"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/global-opt-out-series/the-global-pattern.html",
+    "href": "pattern-recognition/global-opt-out-series/the-global-pattern.html",
+    "title": "The Global Pattern — Five Countries, One Equation",
+    "section": "",
+    "text": "japan-korea-US global opt out",
+    "crumbs": [
+      "Pattern Recognition",
+      "Global Opt Out",
+      "The Global Pattern — Five Countries, One Equation"
     ]
   },
   {

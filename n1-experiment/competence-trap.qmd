@@ -7,7 +7,7 @@ author: "David Howe"
 categories: [n1-experiment, methodology, career]
 ---
 
-![](images/competence-trap.jpg){width=100%}
+![work and cave](images/competence-trap.jpg){width=100%}
 
 ## Competent and Drained
 

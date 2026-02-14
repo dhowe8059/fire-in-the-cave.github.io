@@ -1,11 +1,11 @@
 ---
 title: "Fire in the Cave"
 subtitle: "Pattern recognition for personal fulfillment"
-description: "A PhD medicinal chemist applies pattern recognition to broken systems — finance, generational shifts, AI, and personal fulfillment. Tools for navigating what comes next."
+description: "applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools for navigating what comes next."
 image: images/banner.jpg
 ---
 
-![](images/banner.jpg){width=100%}
+![fire in the cave](images/banner.jpg){width=100%}
 
 ## Welcome
 
@@ -58,7 +58,7 @@ The other possibility is what I have been calling is a standing wave. You are ca
 
 The choice isn't between two manufactured paths. It's between accepting someone else's design or learning to recognize your own patterns—and following where they lead.
 
-![](images/the_image_depicts_a_man.png){width=100%}
+![standing wave](images/the_image_depicts_a_man.png){width=100%}
 
 That's why I started Fire in the Cave. Because there's a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else's options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one.
 

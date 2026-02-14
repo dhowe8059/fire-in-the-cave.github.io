@@ -7,7 +7,7 @@ author: "David Howe"
 categories: [pattern-recognition, global-opt-out, china, tangping, fourth-turning]
 ---
 
-![](lying_flat_Image_substack.png){width="100%"}
+![lying flat on mattresses](lying_flat_Image_substack.png){width="100%"}
 
 ## The Global Pattern — Lying Flat
 
