@@ -5,7 +5,7 @@ description: "Detecting a mineral supply chain disruption before the Venezuela o
 date: "2026-01-05"
 author: "David Howe"
 categories: [pattern-recognition, markets, silver, supply-chain, convergent-evidence]
-image: images/silver-price-chart.jpg  # or whatever image you have
+
 ---
 
 **What happened:** Detected unusual silver market behavior in November, positioned ahead of supply disruption, Venezuela operation revealed systemic mineral competition.

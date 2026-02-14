@@ -5,7 +5,7 @@ description: "applying pattern recognition to finance, generational shifts, AI, 
 image: images/banner.jpg
 ---
 
-![fire in the cave](images/banner.jpg){width=100%}
+![fire painting on cave wall](images/banner.jpg){width=100%}
 
 ## Welcome
 
@@ -43,7 +43,7 @@ Examples of the use of technology including AI to improve pattern recognition an
 
 ## The Standing Wave
 
-![](images/yoke%20weight.png){width=100%}
+![man pulling heavy weights](images/yoke%20weight.png){width=100%}
 
 Where many of us find ourselves:
 
