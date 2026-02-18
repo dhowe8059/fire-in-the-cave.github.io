@@ -7,7 +7,10 @@ project:
 website:
   title: "Fire in the Cave"
   description: "Applying pattern recognition to finance, generational shifts, AI, and personal fulfillment. Tools and frameworks for navigating what comes next."
-  site-url: https://fireinthecave.com
+  site-url: "https://fireinthecave.com"
+  site-path: "/"
+  search: true
+  reader-mode: true
   google-analytics: "G-WBL5JM3FH2"
 # This generates Open Graph and Twitter cards automatically
   open-graph: true
@@ -43,7 +46,9 @@ website:
         href: https://youtube.com/@fireinthecave
       - text: "Substack"
         href: https://fireinthecave.substack.com
-
+        
+  sitemap: true
+  
   sidebar:
     - title: "N=1 Experiment"
       style: docked
