@@ -47,7 +47,6 @@ website:
       - text: "Substack"
         href: https://fireinthecave.substack.com
         
-  sitemap: true
   
   sidebar:
     - title: "N=1 Experiment"
