@@ -58,6 +58,7 @@ message(paste0("  Upload complete."))
 message(paste0("  CID: ", cid))
 message(paste0("  Preview: https://gateway.pinata.cloud/ipfs/", cid))
 
+
 # ── Step 3: Update Unstoppable Domains ───────────────────────────────────────
 message("Updating Unstoppable Domains...")
 
@@ -81,7 +82,8 @@ if (nchar(ud_api_key) == 0) {
   
   message(paste0("  UD status: ", resp_status(ud_response)))
   message(resp_body_string(ud_response))
-}
+} 
+
 # ── Step 4: Git push to GitHub Pages ─────────────────────────────────────────
 message("Pushing to GitHub...")
 system(paste0("cd ", path.expand(project_path), " && git add ."))
