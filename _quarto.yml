@@ -67,6 +67,7 @@ website:
           contents:
             - pattern-recognition/global-opt-out-series/lying-flat.qmd
             - pattern-recognition/global-opt-out-series/the-global-pattern.qmd
+            - pattern-recognition/global-opt-out-series/global_opt_out_economics.qmd
 
     
     - title: "Technology"
