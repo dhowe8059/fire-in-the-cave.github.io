@@ -91,6 +91,8 @@ format:
     css: custom.css
     toc: true
     code-fold: true
+    fig-format: svg
+    fig-responsive: true
     include-in-header:
       - text: |
           <script type="application/ld+json">
