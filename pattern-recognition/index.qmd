@@ -12,5 +12,6 @@ The same methodology that reveals personal standing waves also reveals systemic 
 - [Lying Flat](global-opt-out-series/lying-flat.qmd) — Sign of Things to Come?
 - [Global Pattern](global-opt-out-series/the-global-pattern.qmd) - Global pattern established.
 - [Global Pattern The Economics](global-opt-out-series/global_opt_out_economics.qmd) - Global pattern economics.
+- [AI Thread in War](ai_thread_in_war.qmd) - A Timeline, A Mechanism, and a Question Nobody Is Asking
 
 ---

@@ -63,6 +63,7 @@ website:
       contents:
         - pattern-recognition/index.qmd
         - pattern-recognition/silver-signal.qmd
+        - pattern-recognition/ai_thread_in_war.qmd
         - section: "Global Opt Out"
           contents:
             - pattern-recognition/global-opt-out-series/lying-flat.qmd
