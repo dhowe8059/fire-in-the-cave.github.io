@@ -1,0 +1,106 @@
+project:
+  type: website
+  output-dir: _site-internal
+  render: 
+    - "*.qmd"
+    - "lab_work/*"
+    - "fragments/*.qmd"
+    - "live_books/*"
+    - "article_drafts/*"
+    - "data/*"
+    - "n1-experiment/"
+    - "pattern-recognition/"
+    - "technology/"
+    - "resources/"
+  resources:
+    - "data/*"
+
+website:
+  title: "Fire in the Cave — INTERNAL LAB"
+  site-url: "https://fireinthecave.com"
+  description: "Internal research and draft environment."
+  search: true
+  
+  navbar:
+    background: "#0d0202"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lab_work/index.qmd
+        text: Lab Work
+      - href: n1-experiment/index.qmd
+        text: N=1 Experiment
+      - href: pattern-recognition/index.qmd
+        text: Pattern Recognition
+      - href: technology/index.qmd
+        text: Technology
+      - href: about.qmd
+        text: About
+    right:
+      - icon: youtube
+        href: https://youtube.com/@fireinthecave
+      - text: "Substack"
+        href: https://fireinthecave.substack.com
+
+  sidebar:
+    - id: internal-workplace
+      title: "INTERNAL WORKPLACE"
+      style: docked
+      collapse-level: 1 # Keeps it tidy; click to expand sections
+      contents:
+        - section: "The Living Book"
+          contents:
+            - live_books/index.qmd
+            - section: live_books/books/memoir/index.qmd
+            - glob: "live_books/books/memoir/*.qmd"
+        - section: "Article Drafts"
+          contents:
+            - article_drafts/index.qmd
+            - glob: "article_drafts/*.qmd"
+        - section: "Raw Fragments"
+          contents:
+            - fragments/index.qmd
+            - glob: "fragments/*.qmd"
+        - section: "Data & Resources"
+          contents:
+            - glob: "data/*.csv"
+            - glob: "data/*.json"
+
+    - title: "N=1 Experiment"
+      style: docked
+      contents:
+        - n1-experiment/index.qmd
+        - n1-experiment/competence-trap.qmd
+        - n1-experiment/invisible-gorilla.qmd
+        - n1-experiment/biomarkers.qmd
+        - n1-experiment/n-equals-one.qmd
+
+    - title: "Pattern Recognition"
+      contents:
+        - pattern-recognition/index.qmd
+        - pattern-recognition/silver-signal.qmd
+        - section: "Global Opt Out"
+          contents:
+            - pattern-recognition/global-opt-out-series/lying-flat.qmd
+            - pattern-recognition/global-opt-out-series/the-global-pattern.qmd
+            
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    # MOVED CSS HERE:
+    css: 
+      - custom.css
+      - internal.css
+    reader-mode: true
+    toc: true
+    code-fold: true
+    include-in-header:
+      - text: |
+          <style>
+            .navbar { border-bottom: 2px solid #3e0e0e; }
+          </style>
+
+execute:
+  freeze: auto

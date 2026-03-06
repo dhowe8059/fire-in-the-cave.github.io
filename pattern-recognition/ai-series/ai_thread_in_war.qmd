@@ -120,7 +120,7 @@ The sensor-to-shooter timeline is not just compressing. The scope of what can be
 
 In my world view or in pharmacokinetic terms: this is a formulation effect. The ingredients were put together to increase how much drug enters the body. A huge increase was achieved. That is a phase transition.
 
-![A comparison showing how AI fuses the 'Observe' and 'Orient' stages (right), compressing human 'Decision-Making' (2003, left) into a time-pressured 'Authorization' that formalizes the machine's optimal recommendation in under three minutes.](images/human_centric_ooda_loop.png) 
+![A comparison showing how AI fuses the 'Observe' and 'Orient' stages (right), compressing human 'Decision-Making' (2003, left) into a time-pressured 'Authorization' that formalizes the machine's optimal recommendation in under three minutes.](images/human_centric_ooda_loop.png)
 
 ## IV. The Agentic Progression
 
@@ -182,7 +182,7 @@ One company just demonstrated what saying no looks like. And what it costs.
 
 Palantir Technologies builds the classified infrastructure that connects sensors to shooters. Their platforms integrate satellite imagery, signals intelligence, human intelligence, and open-source data into a single fused operational picture — processed in real time using machine learning algorithms that identify patterns and predict threats.
 
-Their flagship military product is the Maven Smart System. It uses AI algorithms and machine learning to scan, identify, and prioritize targets by fusing data from every available intelligence source. The Pentagon raised the Maven contract ceiling to nearly $1.3 billion through 2029. All five branches of the U.S. military now have access.
+Their flagship military product is the Maven Smart System. It uses AI algorithms and machine learning to scan, identify, and prioritize targets by fusing data from every available intelligence source. The Pentagon raised the Maven contract ceiling to nearly \$1.3 billion through 2029. All five branches of the U.S. military now have access.
 
 Their tactical system, TITAN — the Tactical Intelligence Targeting Access Node — is designed, in the Pentagon's own language, to "enhance the automation of target recognition and geolocation from multiple sensors to reduce the sensor-to-shooter timelines."
 
@@ -214,7 +214,7 @@ Sharma wrote: "Throughout my time here, I've repeatedly seen how hard it is to t
 
 A man who built defenses against bioterrorism concluded that the most important thing he could do was learn to speak with honesty and courage.
 
-And then, two weeks later, the company he left proved him right — by refusing $200 million and the entire federal government rather than let go of that thread.
+And then, two weeks later, the company he left proved him right — by refusing \$200 million and the entire federal government rather than let go of that thread.
 
 ## VIII. The Structural Break
 
@@ -256,7 +256,7 @@ Or — we are told it worked.
 
 Now, this brings us back to Sharma's findings. The disempowerment patterns where AI interactions risk leading users to form distorted perceptions of reality or act in ways misaligned with their own values. This adds more complexity to the situation. Not just that there is certainty projected by the LLM. The way that the output is formatted and the delivery puts an explanation point to the user. Even with a human in the loop, the output is such that it projects onto the user what they are expecting. It is designed that way.
 
-On top of that one must also acknowledge that there version that is used has a ton of memory from servers dedicated to the military and the AI model was fed classified materials, plans, other intelligence as needed. So, the AI is conversant in the language of the user. During this time, there were rumblings that President Trump was not happy with military plans. I do not know for sure, but that implies that the AI was probed over and over for plans. As this is done and memory of the interactions retained, the answers converge on what the questioner is looking for. I will cover this more in other posts. Early on, I was able to prompt in directions to direct where the answers were going with not as much history retained in memory.
+On top of that one must also acknowledge that the version that is used has a ton of memory from servers dedicated to the military and the AI model was fed classified materials, plans, other intelligence as needed. So, the AI is conversant in the language of the user. During this time, there were rumblings that President Trump was not happy with military plans. I do not know for sure, but that implies that the AI was probed over and over for plans. As this is done and memory of the interactions retained, the answers converge on what the questioner is looking for. I will cover this more in other posts. Early on, I was able to prompt to direct where the answers were going with not as much history retained in memory.
 
 The other more dangerous thing in this configuration is that this defines all of the probabilities available for the AI. It will model to this with different versions and iterations with gaming out the possibilities, but restrained by the data entered.
 

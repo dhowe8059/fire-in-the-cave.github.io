@@ -1,0 +1,11 @@
+---
+title: "The Living Books"
+subtitle: "A sovereign record of accretion"
+listing:
+  contents: "*.qmd"
+  type: grid
+  sort: "date desc"
+sidebar: internal-workplace
+---
+
+This is the central ledger for my long-form writing.
