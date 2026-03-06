@@ -23,43 +23,52 @@ message("Rendering Quarto site...")
 render_result <- system("quarto render")
 if (render_result != 0) stop("Quarto render failed. Aborting.")
 
-# ── Step 2: Upload docs/ folder to Pinata ───────────────────────────────────
+# ── Step 2: Upload docs/ folder to Pinata (Modernized) ──────────────────────
 message("Uploading to Pinata...")
+
+# Use httr2 to build a multi-part request for the directory
+req_pinata <- request("https://api.pinata.cloud/pinning/pinFileToIPFS") %>%
+  req_headers(
+    pinata_api_key = pinata_key,
+    pinata_secret_api_key = pinata_secret
+  )
+
+# Gather files
 all_files <- list.files(docs_path, recursive = TRUE, full.names = TRUE)
 rel_paths  <- substring(all_files, nchar(docs_path) + 2)
 
-if (length(all_files) == 0) stop("docs/ folder is empty. Aborting.")
-message(paste0("  Found ", length(all_files), " files to upload..."))
+# Create the body list
+body_list <- list()
 
-# Build curl command — all files prefixed with "site/" as common root
-file_args <- paste(sapply(seq_along(all_files), function(i) {
-  paste0('--form "file=@', all_files[i], 
-         ';filename=site/', rel_paths[i], '"')
-}), collapse = " ")
+# Add the metadata and options
+body_list[["pinataMetadata"]] <- jsonlite::toJSON(list(name = "fireinthecave-site"), auto_unbox = TRUE)
+body_list[["pinataOptions"]]  <- jsonlite::toJSON(list(cidVersion = 1), auto_unbox = TRUE)
 
-cmd <- paste0(
-  'curl -s -X POST "https://api.pinata.cloud/pinning/pinFileToIPFS" ',
-  '-H "pinata_api_key: ', pinata_key, '" ',
-  '-H "pinata_secret_api_key: ', pinata_secret, '" ',
-  file_args, ' ',
-  '--form "pinataMetadata={\\"name\\":\\"fireinthecave-site\\"}" ',
-  '--form "pinataOptions={\\"wrapWithDirectory\\":false}"'
-)
-
-response_json <- system(cmd, intern = TRUE)
-result <- jsonlite::fromJSON(paste(response_json, collapse = ""))
-
-if (is.null(result$IpfsHash)) {
-  stop(paste0("Pinata upload failed: ", paste(response_json, collapse = "")))
+# Add each file with its relative path in the directory structure
+# This is what prevents the .zip or "flat file" issues
+for (i in seq_along(all_files)) {
+  body_list[[paste0("file", i)]] <- curl::form_file(all_files[i], type = NULL, name = rel_paths[i])
 }
 
+# Perform the request
+pin_response <- req_pinata %>%
+  req_body_multipart(!!!body_list) %>%
+  req_perform()
+
+result <- resp_body_json(pin_response)
 cid <- result$IpfsHash
-message(paste0("  Upload complete."))
-message(paste0("  CID: ", cid))
-message(paste0("  Preview: https://gateway.pinata.cloud/ipfs/", cid))
 
+message(paste0("  Upload complete. CID: ", cid))
 
-# ── Step 3: Update Unstoppable Domains ───────────────────────────────────────
+# ── Step 3: Update Unstoppable Domains (The "Clean" Update) ──────────────────
+# Ensure the record is set exactly to the CID
+# Note: Some UD domains require /ipfs/ prefix, but usually just the CID
+records_to_update <- list(
+  `dweb.ipfs.hash` = cid,
+  `browser.redirect_url` = paste0("https://gateway.pinata.cloud/ipfs/", cid)
+)
+
+# ... your Step 3 code continues here ...
 message("Updating Unstoppable Domains...")
 
 if (nchar(ud_api_key) == 0) {

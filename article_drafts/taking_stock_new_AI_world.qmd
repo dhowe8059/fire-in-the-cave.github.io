@@ -1,0 +1,74 @@
+---
+title: "Taking Stock in a New AI World"
+subtitle: "How to Maneuver"
+description: "A Gen X pharmacometrician takes stock of AI's real potential — not from the hype, but from 30 years of watching technologies promise everything and deliver less."
+date: 2026-03-06
+author: "David Howe"
+categories: [Artificial Intelligence, Future of Work, pattern-recognition, Gen X, AI Tools, Entrepreneurship,
+Career Transition, Personal Finance, Productivity]
+sidebar: internal-workplace
+---
+
+![Stepping forward: A visualization of looking at the new expanse of potential that AI presents, rather than seeing it as a crossroad of decline. AI-generated. AI in action. That's the point](new_expanse.png){fig-alt="A visualization of looking at the new expanse of potential that AI presents" width="100%"}
+
+## Intro
+
+This was a weird year for me. I started recognizing that we finally inched closer to my younger SciFi future that I grew up envisioning. Iron Man gave us Jarvis — a thinking, reasoning, rational Agentic AI partner. Bucket list checked. Now what?
+
+## How to Maneuver
+
+I find myself stumbling with the question of real value now. Chaos is all around. Geopolitical instability, economic uncertainty and now AI is taking or changing my job. In this new AI world, am I at a new crossroad or am I looking at a new expanse of potential?
+
+At my core, I have always tried to find what makes me fulfilled and happy. In this new and changing world, is it the same or is it evolving?
+
+Thought that I would be done with these thoughts now. Coasting on calm seas into my twilight years, enjoying the fruits of my labor.
+
+We are told what our dreams should be. A career that provides. Family. Friends. Community. A place to belong. A house to call home. This has been the marker for generations. The pursuit of this dream.
+
+Over the years, technology has quietly dismantled this aspirational dream. The attention economy blurs career and family time. Social media hollowing out community. Home ownership becoming a fantasy for an entire generation and threatening future generations. The dream they told us to want, now unobtanium.
+
+The dream was passed to us by our parents and families. Commercialized by others. We were exploited for their dream fulfillment.
+
+Dream erosion is happening worldwide. Cascading through the generations starting in the Japanese economic ice age with another tsunami caused by the Global Financial Crisis. Manifesting differently based on the trauma experienced.
+
+The AI 500-lb gorilla crashing on the scene. AI will take your job. Need to keep pace with AI or become obsolete. AI and automation will run everything. The career advice given now is move to the trades. AI cannot follow.
+
+My father had his own business in the trades. During high school, I worked on sites over summers with my father. My father did great work. He was devastated when I decided to go to college and not fully join the business. My brother stayed. I just felt drawn to a different path which I followed. I thought that my existential choices were done many many years ago with deciding to go down my own path.
+
+Now, 30+ years later. Déjà vu. Here I am again.
+
+The AI 500-lb gorilla affects the millennials and Gen Z. Even Gen X, to my surprise, but from a different angle. The angst felt by millennials and Gen Z is due to the unknown and amplified by news and social media noise. Over my career, there have been many technologies touted that were going to change the field. These technologies brought improvements but never like originally promised.
+
+I started playing with ChatGPT when it came out. Originally, I was very impressed in the chat performance. How the libraries are constructed as fragments and the results is a conversation. Amazing engineering and data science feat. Then all of the warning talk of AI hallucinations. That did not really worry me.
+
+I am a modeler using math to describe biology and predicting drug behavior in humans. I am used to being wrong but directionally correct. That is basically an AI hallucination. The AI companies really did not explain that to everyone. A LLM is modeling software for conversations.
+
+Think about a social gathering. Talking to others. You hear something out there. Do you readily just believe? This is life. Why would a conversational model behave any different?
+
+## What Changed?
+
+I just established that LLMs are basically conversation modeling software. Sounds like I am suggesting that the hype may be over the top. We can use software improvement terms to compare my experiences with LLM introduction. In my career, every technology brought patch or minor improvements. Going from v1.0 to v1.01 or v1.1. When we look at the internet, even that was a minor improvement initially. Enough minor improvements to finally get to a major improvement after all of these years.
+
+For the AI assessment, I just want to give one example that is shaping my beliefs at the moment. I wanted to look at my natal astrology. Stories that the rich use astrology. I wanted to know. Maybe I was cheap and did not go to an astrologer for this.
+
+The answer is I am a modeler and found that LLMs were taught on astrology data, so I wanted to see what was possible. I used astrology software. Generated text files. Worked with the LLM to generate json files for the model. This was so hard and took weeks. Looking over books to get an idea of what I should do. The python coding was difficult for a relatively easy thing to ask.
+
+The LLM gave interpretations over the full data set when I got there, but all of this work to get there. The output was not what I expected. I received reports for all life charts — 22 readings versus the typical 2. Also a summary of the entire reading overall. This would have been a very expensive reading.
+
+I wanted to know why the rich would use astrology, so no stone left unturned. I would have wondered if someone had done the reading. I got to see it all and ask probing questions. In case you are wondering, yes. Everyone should do it. The materials offered new stories about me.
+
+You would think that would be enough for a major upgrade. For me it was, but for the collective the LLM was just going to be a minor upgrade. You had to want it to get the most out of it.
+
+Now. Of course, I had to open my mouth. A few others wanted to know about their astrology. I wanted to look at this now as a data scientist. I switched to Claude. Wow. Generating the python to do all of the calculations. Pulling all of the data into a json file for LLM questions. Took a day or so to get through off and on. Everything put together in seconds. We are only talking about 6 months of time between the experiences. Now Claude Code was introduced — it will do the generation, testing and running code on your computer. The LLM or AI because of the agentic nature just went to a major upgrade. Dependent on the user. But open to all.
+
+## Going Forward
+
+This is just an introduction piece. These are uncertain times and I want to be upfront about it. I do not have inside knowledge. I see what you do. I just saw some very great potential that changes my thinking. I have tried the entrepreneurial path a few times.
+
+The entrepreneurial path kept getting cheaper, but you still needed experts for prototypes, web pages, writing and fund raising. I was able to generate software and my web page with little money. I could test my ideas in ways that I could not before. Finally a way to equalize opportunities.
+
+I invite you to follow me or connect with me as we work our way through this new world. In this series, I will go over more of my thinking in the space. How to take advantage. Use the new tools. Develop your own tools. Make your own business opportunities.
+
+*Everyone is making a choice right now whether they know it or not. Wait and see is also a choice. I have seen enough. For me it is go time.*
+
+*You might call it a reach. I am acting on it.*

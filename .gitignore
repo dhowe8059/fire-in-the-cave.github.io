@@ -1,7 +1,10 @@
 # Quarto output
-_book/
-_freeze/
+fragments/
+books/
+chapters/
+data/
 .quarto/
+_site-internal/
 
 # OS files
 .DS_Store
@@ -29,3 +32,4 @@ __pycache__/
 
 /.quarto/
 **/*.quarto_ipynb
+

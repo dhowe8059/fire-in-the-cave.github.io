@@ -1,0 +1,12 @@
+---
+title: "Article Drafts"
+description: "Active threads for the public porch."
+listing:
+  contents: "*.qmd"
+  type: grid
+  sort: "date desc"
+sidebar: internal-workplace
+---
+
+Pattern recognition as survival technology. Not telling you what to see—methodology for seeing it yourself.
+

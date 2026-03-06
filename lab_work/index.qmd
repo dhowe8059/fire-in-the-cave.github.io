@@ -1,0 +1,11 @@
+---
+title: "Workplace Dashboard"
+listing:
+  contents:
+    - "../live_books/index.qmd"
+    - "../article_drafts/index.qmd"
+    - "../fragments/index.qmd"
+  type: grid
+---
+
+This is the central ledger for my long-form writing.

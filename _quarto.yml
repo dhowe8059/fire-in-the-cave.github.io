@@ -69,6 +69,10 @@ website:
             - pattern-recognition/global-opt-out-series/lying-flat.qmd
             - pattern-recognition/global-opt-out-series/the-global-pattern.qmd
             - pattern-recognition/global-opt-out-series/global_opt_out_economics.qmd
+        - section: "AI Series"
+          contents:
+            - pattern-recognition/ai-series/ai_thread_in_war.qmd
+            - pattern-recognition/ai-series/taking_stock_new_AI_world.qmd
 
     
     - title: "Technology"
