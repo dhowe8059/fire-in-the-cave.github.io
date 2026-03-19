@@ -6,7 +6,6 @@ date: 2026-03-06
 author: "David Howe"
 categories: [Artificial Intelligence, Future of Work, pattern-recognition, Gen X, AI Tools, Entrepreneurship,
 Career Transition, Personal Finance, Productivity]
-sidebar: internal-workplace
 ---
 
 ![Stepping forward: A visualization of looking at the new expanse of potential that AI presents, rather than seeing it as a crossroad of decline. AI-generated. AI in action. That's the point](images/new_expanse.png){fig-alt="A visualization of looking at the new expanse of potential that AI presents" width="100%"}

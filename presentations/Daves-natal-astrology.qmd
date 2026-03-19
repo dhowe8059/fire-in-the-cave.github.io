@@ -1,0 +1,16 @@
+---
+title: "Daves-natal-astrology"
+format: revealjs
+---
+
+## Natal Astrology D1
+
+::::: columns
+::: {.column width="75%"}
+![](dhowe_astro_images/natal-gravity-map-dave-20260305_D1.png)
+:::
+
+::: {.column width="25%"}
+Test
+:::
+:::::

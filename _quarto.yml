@@ -73,8 +73,8 @@ website:
           contents:
             - pattern-recognition/ai-series/ai_thread_in_war.qmd
             - pattern-recognition/ai-series/taking_stock_new_AI_world.qmd
+            - pattern-recognition/ai-series/recovery_that_doesnt_rehire.qmd
 
-    
     - title: "Technology"
       contents:
         - technology/index.qmd
