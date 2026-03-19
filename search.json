@@ -93,9 +93,328 @@
     "href": "pattern-recognition/index.html#in-this-section",
     "title": "Pattern Recognition",
     "section": "In This Section",
-    "text": "In This Section\n\nHow Silver Price Volatility Revealed What Was Coming — Why I Bought a Mac Instead of Waiting\nLying Flat — Sign of Things to Come?\nGlobal Pattern - Global pattern established.\nGlobal Pattern The Economics - Global pattern economics.\nAI Thread in War - A Timeline, A Mechanism, and a Question Nobody Is Asking\nTaking Stock in New AI World - Welcome to AI SciFi",
+    "text": "In This Section\n\nHow Silver Price Volatility Revealed What Was Coming — Why I Bought a Mac Instead of Waiting\nLying Flat — Sign of Things to Come?\nGlobal Pattern - Global pattern established.\nGlobal Pattern The Economics - Global pattern economics.\nAI Thread in War - A Timeline, A Mechanism, and a Question Nobody Is Asking\nTaking Stock in New AI World - Welcome to AI SciFi\nThe Recovery that Doesn’t Rehire - Welcome to the new AI",
     "crumbs": [
       "Pattern Recognition"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "",
+    "text": "Figure 1. Rehiring reduced over time after each economic downturn.\nThe current news highlights more and more layoffs. The Bureau of Labor Statistics (BLS) reported a loss of 92,000 jobs in February 2026. More and more AI is being used as the reason for the reported layoffs. The news and influencers keep pounding the message.\nAI is coming for your job.\nI have experienced economic cycles at different times in my career. At my first position, I was young and watched the devastation of those forced into early retirement and I was at companies where nearly everyone was let go. I have been on the surviving side and one of those let go.\nI have also observed the effects of these cycles on my father and his construction business. I have witnessed from very different angles. Personally being battered by events but with opportunities to pull myself back up. Watching my father navigate the turbulence with what he built on his own.\nI want to bring forward something that rarely gets said out loud. Every downturn promises recovery. Every recovery leaves people behind. And each time, the people left behind are the ones who didn’t notice the ground shifting under them.\nThis is the pattern. It started in 1990. Accelerated in 2001. Became undeniable in 2008. And it’s about to happen again — where does AI fit in?",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-pattern",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-pattern",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "The Pattern",
+    "text": "The Pattern\nHere’s what the data actually shows, and it surprised even me.\nBefore 1990, recessions were painful but recoverable. You lost your job, the economy bounced back, you got rehired. The unemployment rate started declining within months of the recession ending. Routine jobs — the backbone of the middle class — came back.\nThen something broke.\nAfter the 1990 recession, employment took 38 months to recover. After 2001, the jobs lost during the recession never fully recovered before the next recession hit. After 2008, employment continued to decline for nearly two years after the recession officially ended.\nThe research puts a number on it: 88% of routine job losses since the mid-1980s happened in concentrated bursts during recessions. Not gradually. Not spread over decades. In sharp, sudden windows — and then those jobs never came back.\nEach recovery rehired differently. Each recovery assumed a new baseline. After 2001, you needed to be digital. After 2008, you needed to be lean, automated, efficient. The companies didn’t rebuild the old org chart. They rebuilt around whatever technology had become infrastructure during the contraction.\nDownturns are becoming one-way doors.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-gap-between-headlines-and-ground",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-gap-between-headlines-and-ground",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "The Gap Between Headlines and Ground",
+    "text": "The Gap Between Headlines and Ground\n\n\n\nFigure 2. The two speeds of the economy.\n\n\nNow let me tell you what the AI landscape actually looks like right now, because the headlines and the ground don’t match.\nThe headlines say 88% of organizations are using AI. Enterprise AI spending hit $37 billion in 2025. Adoption is exploding.\nThe ground says something different. Roughly 1% of companies have mature AI deployments delivering real value. Only 20% are seeing actual revenue gains from their AI investments. Most are stuck in pilot mode — clean data, controlled environments, small teams willing to tolerate glitches. The majority of companies haven’t figured out how to scale beyond the experiment.\nFewer than 30% of AI leaders say their CEOs are satisfied with the returns. Only one in five companies has mature governance for autonomous AI systems.\nWhat does the Bureau of Labor Statistics (BLS) data look like? If AI is taking jobs and entry jobs, you would expect U-6 (unemployed, marginally attached and part-time workers for economic reasons) rates to increase due to grads taking part time jobs. The labor force participation rate (LFPR) to stay stable or rise as young workers continue to look for white-collar entry jobs. LFPR counts employed and unemployed actively seeking work.\nWhat did the latest BLS report show for February 2026?\nLFPR edged down to 62.0% from 62.1% in January 2026. The February LFPR was also lower than the 2025 average range of 62.4–62.7%. Where are the AI jobs?\nU6 decreased to 7.9% in February 2026 from 8.1% in January 2026. Falling LFPR and falling U6. Where are the AI jobs?\nOthers would argue that this is evidence of AI taking jobs. Problem is that this is a common marker observed in the downturns of the 1990s, 2008 and 2020. One would expect solid economic numbers for those companies developing AI.\nRecent rumors and data from the AI hyperscalers are painting a different picture. - Microsoft: Thousands of job cuts in Azure/AI orgs (2025) - Amazon: Thousands of job cuts in AWS + e-comm (2025) - Google: Platforms/Devices buyouts and job cuts (Feb 2025) - Meta: ~5% global cut (~3,600–4,000 roles) (Jan/Feb 2025), ~ 600 job cuts AI/Superintelligence Labs unit (IR, product dev) (Oct 2025)\nRecently, Meta is rumored to be cutting 20% of their workforce (~15,000–16,000 roles from ~79,000 headcount).\nAI hyperscalers reducing headcount in a hot AI market.\nMeanwhile, the broader economy is running at two speeds. White-collar work (middle management, standard reporting) is the specific layer being hollowed out while the “top” (AI architects/investors) accelerates. At the bottom, consumers are financially exhausted. Tariffs are adding inflationary pressure. Real consumer spending is slowing. Unemployment is ticking up.\nI am a modeler. I look at trajectories and observed data for a living. In PK modeling, if you get the direction right but the magnitude wrong, the patient either gets no benefit or a toxic dose. The economy is currently in that ‘lag time’ where the dose has been administered (AI investment), but the systemic toxicity (job displacement) hasn’t fully peaked yet.\nThe projected AI adoption curve and the actual ground-level reality don’t match. I am used to this. In pharmacokinetic modeling, we call it being directionally correct — the trend is right, but the timing and magnitude are what matter.\nThe trend is right. AI will transform work. But the timing? Most companies are not there yet. The magnitude? When it hits, it will hit through the mechanism that has driven every workforce transformation since 1990, but increasing the time for hiring and reducing the number of employees needed in the workforce.\nThe downturn.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#what-really-happens-next",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#what-really-happens-next",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "What Really Happens Next",
+    "text": "What Really Happens Next\nHere is where the pattern and the technology collide.\nCompanies that are currently fumbling with AI pilots — spending $1.9 million on average with unsatisfying returns — will face cost pressure during the next contraction. Budgets will tighten. Headcount will shrink. And the companies that survive will be forced to actually implement the AI workflows they’ve been experimenting with, because they’ll have no choice.\nThis is what happened with digitization in the 1990s. With the internet after 2001. With automation after 2008. The downturn is always the forcing function that compresses the adoption curve.\nAnd when these companies rehire — and they will eventually rehire — they will rehire around AI-augmented workflows as the assumed baseline. The same way post-2001 companies didn’t rehire pre-internet roles. The same way post-2008 companies didn’t rebuild the departments they had automated under pressure.\nThe jobs that disappear during the contraction won’t come back in their old form. New roles will emerge. But they’ll be roles that assume you can work with AI, not roles that assume you can’t.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-trajectory-doesnt-wait",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-trajectory-doesnt-wait",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "The Trajectory Doesn’t Wait",
+    "text": "The Trajectory Doesn’t Wait\n\n\n\nFigure 3. Domain Expertise Meets AI Fluency.\n\n\nNow here is the part that most people are not calibrated for.\nSix months ago, the AI conversation was about coding assistants. Helpful. Impressive even. But bounded — a tool that wrote code for you.\nA drawing tool for Claude was recently released. I had been authoring a report and needed a figure representing the complex biological model. I described the biology. Claude asked clarifying questions about the biology assumptions. Confirmed the biology mechanism and generated the right figure. I do not want to admit it, but the output was better than what I was putting together.\nClaude suggested providing mathematical expressions from the model representation. I thought, why not? The math was generated and correct. That was surprising, but also unsettling. The model was not standard and had to be somewhat derived. This came from three short sentences describing the biology. All parameters that I did not give were included.\nOK. I have to admit. I was impressed up to this point. Now for something really useful, I needed a modification and simplification of the mathematical model. This change requires further derivation and is tricky. I typed two words and asked how does the model change? Claude updated the model incorporating the changes. All in a format that I can just add to the report.\nClaude enabled the setting up of the model. Not to write code about a PK model — to do the actual modeling work. Ordinary differential equations. Compartmental simplifications. System diagrams. The domain reasoning itself. Claude got right that usually takes a human expert significant “pencil-to-paper” time.\nThis is my professional work. Thirty years of training and experience. AI operated at a level that would have been unthinkable a year ago.\nLet me be direct: no one believes this until they test it themselves. I didn’t believe it until I tested it. In my first Substack piece, I talked about the astrology project — weeks of struggle, then breakthrough. That was the minor upgrade. Six months later, the same class of work took a day. Now the AI is doing collaborative domain-level reasoning with me in real time.\nEach jump surprised me. And I was actively testing.\nImagine where people who are not testing think the capability is right now. Their mental model is months or years behind the actual frontier. And the frontier keeps moving.\nThe trajectory is clear: chatbot to reasoning engine to agentic workflow to autonomous project execution. The benchmarks project that by 2028, AI will handle multi-week projects with minimal human oversight. That’s not augmenting a job. That’s replacing the concept of certain jobs.\nThe careers people are training for right now — the five-year degree plan, the professional certification path — the destination may not exist in the same form by the time they arrive. This is not fear-mongering. This is the honest read of where the trajectory goes.\nAnd here is the thing I did not expect: once you work this way, you cannot go back. I am happy building PK models with AI. I hate doing it the old way now. That’s not a preference — it’s a point of no return. And that personal shift is happening to practitioners one by one, right now, before the companies catch up.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#navigating-ai",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#navigating-ai",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "Navigating AI",
+    "text": "Navigating AI\nSo what do you actually do with this?\nThe stable career of the past was built on repeatable execution. Learn a skill. Practice it for decades. Retire. That model assumed the world held still long enough for the bet to pay off.\nThe stable career of the future is built on something different. The ability to think, synthesize, and direct. Domain expertise doesn’t die — it becomes the foundation that makes AI fluency powerful. My thirty years of pharmacokinetic modeling is exactly what allows me to steer the AI, catch its errors, and know when the output is signal versus noise. Without that expertise, the same tools produce impressive-looking nonsense.\nBut expertise alone isn’t enough anymore either. You need the fluency. You need the working relationship with the tools. You need to have crossed the point of no return yourself — to know what it feels like when the AI is thinking alongside you rather than just responding to you.\nSpecific skills become obsolete. Specific tools get replaced. But the ability to navigate complex systems, synthesize distributed signals, and create with whatever tools exist — that compounds.\nThe window to build this is now. During the messy middle. While companies are still fumbling with pilots and the downturn hasn’t yet forced the compression. Every previous cycle, the people who prepared during the window came out ahead. The people who waited had to compete for jobs that no longer existed.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-choice",
+    "href": "pattern-recognition/ai-series/recovery_that_doesnt_rehire.html#the-choice",
+    "title": "The Recovery that Doesn’t Rehire",
+    "section": "The Choice",
+    "text": "The Choice\nIn my first piece, I said everyone is making a choice right now whether they know it or not. Wait and see is also a choice.\nThe pattern says the next recovery won’t wait for you to catch up. The trajectory says the capability is moving faster than anyone outside of active testing believes. The economics say the forcing function is building.\nI am not writing this to scare anyone. I am writing this because I have seen the pattern before, I have tested the tools myself, and I know what’s coming.\nThe preparation isn’t about learning a specific tool. It’s about becoming someone who can navigate whatever comes next. That’s domain expertise plus AI fluency plus the judgment to ask “should we” — not just “can we.”\nIn the next piece, I’ll go deeper into how these AI systems actually work — how they think, how their memory is constructed, what it means for how you build and protect your value. Understanding the machine is the first step to working with it rather than being replaced by it.\nThe ground is shifting. It has shifted before. Each time, the people who prepared during the window came out stronger. This is your window.\nI’m not waiting for the next BLS report to tell me the world has changed. I’m rebuilding my workflow now. In my next piece, we’ll look under the hood of these reasoning engines. If you’re ready to cross the point of no return, subscribe below.\nI’m not waiting. Join me.",
+    "crumbs": [
+      "Pattern Recognition",
+      "AI Series",
+      "The Recovery that Doesn't Rehire"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html",
+    "href": "n1-experiment/competence-trap.html",
+    "title": "The Competence Trap",
+    "section": "",
+    "text": "work and cave",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#competent-and-drained",
+    "href": "n1-experiment/competence-trap.html#competent-and-drained",
+    "title": "The Competence Trap",
+    "section": "Competent and Drained",
+    "text": "Competent and Drained\nBy most standards, I was on a successful career arc.\nI had held leadership positions in pharmaceutical companies where I led teams that assessed metabolism and pharmacokinetics/pharmacodynamics (PK/PD) modeling—this is a mouthful but essentially means I brought together different types of data to predict how drugs would behave in people. How they might move through the body, how they might act, where they might cause problems.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug.\nI was good at it.\nCompanies still bring me on to consult and model their potential drugs. My skills are sharp. The compensation is generous. I have competitors, sure, but I’ve found my niche. I land more than enough work through my network alone. Every recent project has come just from people who know what I can do.\nAnd every time I do it, I feel the same thing: competent… and drained.\nNot tired. Drained.\nLike something in me is being consumed with each hour I give to work I’m good at but not meant for.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#the-difference-between-tired-and-drained",
+    "href": "n1-experiment/competence-trap.html#the-difference-between-tired-and-drained",
+    "title": "The Competence Trap",
+    "section": "The Difference Between Tired and Drained",
+    "text": "The Difference Between Tired and Drained\nTired is what you feel after a hard day that mattered. You’re spent, but there’s a fullness to it. You did something. You moved something forward. Rest refills you.\nDrained is different.\nDrained is when the work itself—no matter how well you do it, no matter how much people value it—pulls something out of you that sleep can’t replace. You wake up already behind. You finish projects successfully and feel… nothing. Or worse than nothing. Hollow.\nI’d integrated disparate data for years. Blood levels, tissue exposure, receptor binding, pharmacology—all woven into coherent models that predicted drug behavior from discovery setting to the clinic. Multiple data sources combined with pattern recognition to hopefully lead to convergent evidence.\nI was applying rigorous methodology to molecules while ignoring the most obvious signal in my own data: this is draining you.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#the-competence-trap-explained",
+    "href": "n1-experiment/competence-trap.html#the-competence-trap-explained",
+    "title": "The Competence Trap",
+    "section": "The Competence Trap Explained",
+    "text": "The Competence Trap Explained\nHere’s the trap: when you’re good at something, everyone—including you—assumes that’s your path.\nYour expertise is validated. People pay you well. Your calendar fills up. You develop a reputation. The system rewards you for continuing. And because you’re competent, you can keep doing it almost indefinitely.\nBut competence and alignment are not the same thing.\nI could model drug behavior in my sleep. I still can. The methodology is second nature—building compartmental models, integrating exposure-response relationships, projecting clinical outcomes from preclinical data. It’s intellectually satisfying in the moment. The problem-solving lights up certain pathways.\nBut when I stepped back and asked myself the simplest question—Am I happy doing this?—the answer was so obviously no that I’d been avoiding asking it for years.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#when-success-becomes-the-problem",
+    "href": "n1-experiment/competence-trap.html#when-success-becomes-the-problem",
+    "title": "The Competence Trap",
+    "section": "When Success Becomes the Problem",
+    "text": "When Success Becomes the Problem\nThe harder part was this: I had everything I thought I wanted.\nLeadership position. Excellent pay. Steady climb up the ladder. I’d acquired every skill I thought mattered. All the pieces were finally in place.\nI get to spend more time with my family now. I have flexibility. I have financial security.\nSo why was I so miserable—or maybe that is a bit harsh—but hollow?\nThat question haunted me. Because if you’ve achieved what you set out to achieve and you’re still hollow, what do you do with that? Where do you even start?\nMost people would say: “You’re just burned out. Take a vacation. Find work-life balance. Practice gratitude. You make great money, what is your problem?”\nI tried all of that. It didn’t work.\nBecause the problem wasn’t that I was working too hard. The problem was that I was working on the wrong thing—and I’d gotten very, very good at it.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#the-moment-of-recognition",
+    "href": "n1-experiment/competence-trap.html#the-moment-of-recognition",
+    "title": "The Competence Trap",
+    "section": "The Moment of Recognition",
+    "text": "The Moment of Recognition\nI started looking for the next thing. Some new technology like AI, approach, or new environment within PK/PD that would light me up again. I thought maybe I just needed a fresh challenge in the same domain.\nBut to my surprise, I found myself treating my own life as the next modeling project—an n=1 study.\nIf I could find the “why”—why this drains me, what specifically about it misaligns with how I’m built—maybe I could find the next activity that restored energy instead of consuming it.\nThat’s when I realized: my modeling skills weren’t just useful in drug discovery.\nThey were the key to discovering my life.\nThe same methodology I used to decode molecular behavior could decode the behavior of my own meaning. Multiple data sources. Pattern recognition. Convergent evidence. Quantified tracking. Following the signal even when I didn’t know what I was looking for yet.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#what-i-didnt-realize-then",
+    "href": "n1-experiment/competence-trap.html#what-i-didnt-realize-then",
+    "title": "The Competence Trap",
+    "section": "What I Didn’t Realize Then",
+    "text": "What I Didn’t Realize Then\nWhat I didn’t realize then was that I was about to apply the same methodology to a far more important question:\nNot “How does this drug work?”\nBut “How do I work?”\nWhat drives my happiness? What drains me despite outward success? What would it feel like to wake up energized by what I’m doing instead of drained by what I’m completing? What can I do that does not feel like a job, but a calling?\nI didn’t have answers yet. But I had something more valuable: a methodology for finding them.\nBecause here’s what I’ve learned: being told what makes you happy doesn’t work. Your parents can’t tell you. Your boss can’t. Career counselors can’t.\nNot because they don’t care. But because your alignment is uniquely yours.\nYour biomarkers—or happiness markers—are different from theirs. What energizes you might drain someone else completely.\nThe only way out is developing the capacity to see it yourself—to build your own detection system for signals you don’t yet know how to recognize.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/competence-trap.html#where-this-goes-next",
+    "href": "n1-experiment/competence-trap.html#where-this-goes-next",
+    "title": "The Competence Trap",
+    "section": "Where This Goes Next",
+    "text": "Where This Goes Next\nI’m not going to tell you to quit your job. I’m not going to tell you what your path should be.\nI’m going to show you how I built the detection system that revealed mine—even when I didn’t know what I was detecting yet.\nBecause the competence trap is real. And if you’re reading this, you might already be in it.\nNext time, I’ll tell you about the invisible gorilla—and why the most important patterns in your life might be the ones you’ve been trained not to see.\n\nThis is part of an ongoing series on developing internal navigation rather than following external maps.",
+    "crumbs": [
+      "N=1 Experiment",
+      "The Competence Trap"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fire in the Cave",
+    "section": "",
+    "text": "Fire painting on cave wall — pattern recognition across time"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Fire in the Cave",
+    "section": "Welcome",
+    "text": "Welcome\nI’ve spent most of my career in pharmaceutical companies modeling biological systems—teaching myself to see patterns in data that predict how potential drugs behave in patients. Recently, I turned that same training on my own life to discover why, despite outward success, I didn’t feel happy or fulfilled. Along the way, I found that these pattern recognition skills work just as well for identifying what makes me happy.\nYou may wonder why the title Fire in the Cave.\nThe image holds multiple fractals:\nPaleolithic star-painters — In her book The Human Cosmos, Jo Marchant describes how cave paintings may not just depict animals important to survival, but stars that tracked when the herds would arrive. Perhaps evidence for early pattern recognition in humans which was passed down across generations.\nPlato’s prisoners — Chained in a cave, taught the world via shadows controlled by their jailers. One escaped to the outside, discovered the lies, returned to free the others—and faced their disbelief.\nPrometheus — Stole fire from the gods to give humanity light, warmth, tools, civilization. The name means “forethought”—the one who sees what’s coming.\nHence, the atmosphere of the fire in the cave. Looking for truth not from the shadows generated, but by the fire illuminating the patterns we paint on the walls. Looking to find mine, yours, and hopefully our truth."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Fire in the Cave",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\nN=1 Experiment\nMy personal journey and investigation into my own battles trying to find what inspires and motivates me. How I started using my pattern recognition and story framing in both my professional and personal lives and my N=1 approach.\n\n\nPattern Recognition\nApplying pattern recognition to navigate the world — finance, health, systems, decisions — while pursuing what actually fulfills me.\n\n\nTechnology\nExamples of the use of technology including AI to improve pattern recognition and maintain sovereignty over my own data and thinking."
+  },
+  {
+    "objectID": "index.html#the-standing-wave",
+    "href": "index.html#the-standing-wave",
+    "title": "Fire in the Cave",
+    "section": "The Standing Wave",
+    "text": "The Standing Wave\n\n\n\nMan pulling heavy weights — the standing wave trap\n\n\nWhere many of us find ourselves:\n\nExpenses and costs that have made it difficult to afford what previous generations took for granted\nFollowing the rules of the system, but promises not kept\nSystems gamifying your attention—keeping you engaged but not empowered\nCollective changes causing anxiety and uncertainty about your future\n\nI originally thought, like many, that old systems were simply breaking down and forcing us toward something new. But crossroads were built by Romans and kings long dead. When you only get to choose between paths others have laid, it may look like change—but you’re still a user on someone else’s platform.\nThe other possibility is what I have been calling is a standing wave. You are caught in all of your internal and external pressures that are stopping you from really finding your happy self. When you look out, you can see all of the possibility but you cannot get there.\nThe choice isn’t between two manufactured paths. It’s between accepting someone else’s design or learning to recognize your own patterns—and following where they lead.\n\n\n\nFigure caught in a standing wave — the illusion of motion\n\n\nThat’s why I started Fire in the Cave. Because there’s a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else’s options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one."
+  },
+  {
+    "objectID": "index.html#join-the-fire",
+    "href": "index.html#join-the-fire",
+    "title": "Fire in the Cave",
+    "section": "Join the Fire",
+    "text": "Join the Fire\nIf you’re feeling the gap between what the system promised and what it delivered—if you’ve succeeded by every external measure and still feel hollow—you’re not broken. You’re detecting something real.\n\nSubscribe on Substack — articles as they publish\nYouTube — video content\nContact — alchemist@fireinthecave.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About — David Howe",
+    "section": "",
+    "text": "I’ve spent most of my career modeling biological systems in pharma—teaching myself to see the hidden patterns that predict how drugs behave in the human body.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug. I was good at it. Companies still bring me on to consult and model their potential drugs.\nAnd every time I do it, I feel the same thing: competent… and drained.\nThat observation—being successful by every external measure while feeling hollow inside—became the first data point in a different kind of modeling project. One where I am the system being studied."
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "About — David Howe",
+    "section": "",
+    "text": "I’ve spent most of my career modeling biological systems in pharma—teaching myself to see the hidden patterns that predict how drugs behave in the human body.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug. I was good at it. Companies still bring me on to consult and model their potential drugs.\nAnd every time I do it, I feel the same thing: competent… and drained.\nThat observation—being successful by every external measure while feeling hollow inside—became the first data point in a different kind of modeling project. One where I am the system being studied."
+  },
+  {
+    "objectID": "about.html#why-fire-in-the-cave",
+    "href": "about.html#why-fire-in-the-cave",
+    "title": "About — David Howe",
+    "section": "Why Fire in the Cave",
+    "text": "Why Fire in the Cave\nThe same methodology I used to decode molecular behavior could decode the behavior of my own meaning:\n\nMultiple data sources — Don’t trust any single framework\nPattern recognition — Look for convergence across independent signals\nBiomarkers — Your body knows before your mind does\nQuantified tracking — You cannot find a pattern in a dataset that doesn’t exist\n\nThis isn’t about me telling you what is the recipe for happiness. I can’t. Your alignment is uniquely yours.\nThis is “here’s how I am finding mine—use the approach to find yours.”"
+  },
+  {
+    "objectID": "about.html#what-im-building",
+    "href": "about.html#what-im-building",
+    "title": "About — David Howe",
+    "section": "What I’m Building",
+    "text": "What I’m Building\nFire in the Cave is the methodology applied at multiple scales:\nPersonal — How to detect your own patterns, navigate your own alignment, find what actually energizes rather than drains you.\nSystemic — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.\nArchitectural — Eventually, the tools themselves.\nSame fire. Different scales."
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About — David Howe",
+    "section": "Connect",
+    "text": "Connect\n\nSubstack: Fire in the Cave — where I publish articles\nYouTube: @fireinthecave — video content\nContact: alchemist@fireinthecave.com\n\n\nThis site is built with Quarto and hosted on GitHub Pages—tools I control, that I could move if needed. Practicing what I’m preaching."
+  },
+  {
+    "objectID": "n1-experiment/index.html",
+    "href": "n1-experiment/index.html",
+    "title": "N=1 Experimentation",
+    "section": "",
+    "text": "Pattern recognition as survival technology. Not telling you what to see—methodology for seeing it yourself.",
+    "crumbs": [
+      "N=1 Experiment",
+      "N=1 Experimentation"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/index.html#the-problem",
+    "href": "n1-experiment/index.html#the-problem",
+    "title": "N=1 Experimentation",
+    "section": "The Problem",
+    "text": "The Problem\nWhen Benjamin Zander showed the invisible gorilla video, I missed it completely. Once he told me what to look for, it was obvious.\nBut here’s the methodological challenge: in your own life, there is no Zander. No one can tell you what YOUR gorilla looks like. Your parents can’t. Your boss can’t. Career counselors can’t.\nBecause your pattern is uniquely yours.",
+    "crumbs": [
+      "N=1 Experiment",
+      "N=1 Experimentation"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/index.html#the-approach",
+    "href": "n1-experiment/index.html#the-approach",
+    "title": "N=1 Experimentation",
+    "section": "The Approach",
+    "text": "The Approach\nThe methodology I developed integrates multiple domains:\nMultiple data sources — Don’t trust any single framework. Draw from many: analytics and intuition, conventional and unconventional, conscious and somatic.\nPattern recognition — Look for convergence. When several independent signals point in the same direction, that overlap is meaning. Not proof—but signal worth following.\nBiomarkers — Your body knows before your mind does. Energy levels, time perception, physical sensations—all are data. That drained feeling despite success? That’s not a character flaw. That’s a system alert.\nQuantified self — Track your experiences. You cannot find a pattern in a dataset that doesn’t exist.",
+    "crumbs": [
+      "N=1 Experiment",
+      "N=1 Experimentation"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/index.html#in-this-section",
+    "href": "n1-experiment/index.html#in-this-section",
+    "title": "N=1 Experimentation",
+    "section": "In This Section",
+    "text": "In This Section\n\nThe Competence Trap — When success becomes the problem\nThe Invisible Gorilla — Why you can’t find your path when no one tells you what to look for\n\n\nThis isn’t “follow my path.” It’s “here’s how I found mine—use the approach to find yours.”",
+    "crumbs": [
+      "N=1 Experiment",
+      "N=1 Experimentation"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/invisible-gorilla.html",
+    "href": "n1-experiment/invisible-gorilla.html",
+    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
+    "section": "",
+    "text": "cave painting buffalo",
+    "crumbs": [
+      "N=1 Experiment",
+      "Signal in the Silence: Why You Miss Your Own Gorilla"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/invisible-gorilla.html#a-look-back",
+    "href": "n1-experiment/invisible-gorilla.html#a-look-back",
+    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
+    "section": "A Look Back",
+    "text": "A Look Back\nWhen I look back at my life and some of the current events that have come into being, I remember an event that happened at my first pharmaceutical job. I attended a presentation by Benjamin Zander, conductor of the Boston Philharmonic Orchestra. He was there to talk about his book The Art of Possibility, which he’d written with his wife Rosamund, a family therapist and painter.\nI’d never heard of him. Looking back, it was an incredible introduction to thinking differently about what’s possible.\nZander began by working with a few students from the Music School. Each one played a solo for him. He stopped them and just started talking about the emotion of that piece and how you could change it. He started talking to the musician, not about technique, but an emotional feeling. They played again and the changes were amazing. A different aspect or way of feeling greatly improved their playing style.\nHe did this with each student. Really having an impact on each performer. Then as he was talking to the crowd, he played the movie for the hidden gorilla experiment.\nYou’ve probably seen it—or think you have. A group of people in a video pass basketballs back and forth. Your job: count the number of passes.\nMidway through, a person in a gorilla suit walks directly through the middle of the players. Stops. Beats their chest. Walks off.\nAbout half the people watching miss it completely. I was in that half.\nZander told us to watch for the gorilla. I thought he was making another joke. He replayed the clip. There it was—a person in a full gorilla suit, standing in the center of the frame, impossible to miss once you knew to look for it.\nHow had I not seen that?\nThe point, Zander explained, was that you can miss things completely when you limit your sense of what’s possible. When you’re focused on counting passes, your brain filters out gorillas. Even obvious ones. Even ones standing right in front of you.\nGreat lesson. Pretty obvious once someone tells you what to look for.\nBut here was my problem—the one I’d carry for the next twenty years: I couldn’t find what I was missing.\nWhen I told my spouse or family I felt unfulfilled despite having good opportunities, their response was predictable: “What are you complaining about? You have all these opportunities.” They were right. By conventional measures, I was doing fine. Better than fine.\nLooking back at that Zander presentation, I realized something. I saw the gorilla only after Zander told me what to look for. Once you know what to look for, the problem becomes obvious. Maybe not easy to solve—but at least you have something to work on.\nBut what if no one knows what to look for? Not even you?\nWhat if your path—your specific design, your unique alignment—is something no one can describe to you because it’s uniquely yours? Your parents can’t tell you what to look for. Your boss can’t. Career counselors can’t. Because YOUR gorilla is different from theirs. Hidden in your own data. Visible only to you, once you learn to see it.\nSo how do you develop the ability to see what you don’t even know to look for?\nHow do you notice the signal when you don’t know what signal you’re searching for?\nHow do you recognize alignment when you’ve never experienced it before?",
+    "crumbs": [
+      "N=1 Experiment",
+      "Signal in the Silence: Why You Miss Your Own Gorilla"
+    ]
+  },
+  {
+    "objectID": "n1-experiment/invisible-gorilla.html#thats-the-methodological-problem.",
+    "href": "n1-experiment/invisible-gorilla.html#thats-the-methodological-problem.",
+    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
+    "section": "That’s the methodological problem.",
+    "text": "That’s the methodological problem.\nAnd it’s the problem I’ve spent the last several years trying to solve—first for myself, then realizing others face the same challenge.\nI’d spent my entire career in pharmaceutical modeling, integrating disparate data—blood levels, tissue exposure, receptor binding, clinical outcomes—into coherent models that predicted drug behavior. Multiple data sources. Pattern recognition. Convergent evidence.\nWhat I didn’t realize was that I was about to apply the same methodology to a far more important question:\nNot, ”How does this drug work?”\nBut, ”How do I work?”\nWhat drives my happiness? Why am I drained despite outward success? What am I actually built for?\nThe conventional advice wasn’t working. “Follow your passion” assumes you know what your passion is. “Find what energizes you” assumes you can recognize energy when it’s not in familiar forms. “Talk to a career counselor” assumes they can see your gorilla when they’re looking at their own frameworks.\nI needed a different approach. Not someone to tell me what my gorilla looks like—methodologically, that’s impossible. But a process to help me reveal what to look for, even when I couldn’t name it.\nHere’s what is emerging:\nMultiple data sources. Don’t trust any single framework. Draw from many: analytics and intuition, conventional and unconventional, conscious and somatic. As the Zanders proposed, you can change your narrative—but you need different lenses to see which narrative might actually fit.\nPattern recognition. Look for convergence. When several independent signals point in the same direction, that overlap is meaning. When your body says one thing, your timeline shows another pattern, and an unconventional framework suggests a third angle—and they all point the same direction? That’s signal, not noise.\nThe biomarker. Your body knows before your mind does. Energy levels, time perception, physical sensations, even seemingly random emotional responses—all are data. Learn to read them. That drained feeling despite success? That’s not a character flaw. That is a system alert. It is your body’s check-engine light signaling a mismatch between your environment and your design.\nQuantified self. Track your experiences. You cannot find a pattern in a dataset that doesn’t exist. Writing these articles is how I build the dataset. I am logging the raw signal so the pattern can emerge. You’ve been making decisions, missing opportunities, feeling drawn to some things and repelled by others. Don’t be afraid to look back at where you’ve been. The pattern is there.\nThat’s how you see the unseen: by designing systems that can detect signal even in the absence of prior knowledge.\nZander could point to the gorilla because he had seen the tape before. But in your life, there is no Zander. You are watching a tape that has never been played before. So who tells you where to look?\nThis isn’t about me telling you what YOUR gorilla looks like. I can’t. Not because I’m being modest, but because it’s methodologically impossible. I found that pattern recognition and teaching energize me. You might find something completely different.\nThis isn’t “follow my path.” It’s “here’s how I found mine—use the approach to find yours.”\nOver the next several weeks, I’ll be sharing how this methodology works in practice. How I use biomarkers to navigate decisions. How I test frameworks—including unconventional ones like astrology—rigorously rather than dismissing or blindly accepting them. How I’m applying all of this right now, in real time, as systems around us shift.\nNot because I’ve arrived. But because I’m still going through it. And the methodology appears to be working.\nIf you saw my recent post about buying AI equipment last week—feeling that pressure before I consciously understood why, then watching it validate days later with China’s silver export restrictions—that’s this methodology in action.\nThe biomarker detected the pattern shift in the economic field days before I was made aware of the news cycle reporting the export restriction. That isn’t magic. That is a high-speed sensor picking up a signal before the noise of the headlines caught up to me.\nThat wasn’t luck. That’s what happens when you develop systems for seeing signal you can’t yet name.\nIf you’ve already tried following conventional advice and it didn’t work—if you’ve succeeded by conventional metrics and you’re still miserable—if you’ve realized that no one can tell you what YOUR gorilla looks like—then this is for you.\nThe good news? You don’t need someone to show you the gorilla. You need a process for developing the ability to see it yourself.\nThat’s what I’m building here. That’s what Fire in the Cave is about.\nNot inspiration. Methodology.\nLet’s figure this out together.\nSubscribe to follow along as I share the methodology—and continue documenting real-time pattern recognition as 2026 unfolds.",
+    "crumbs": [
+      "N=1 Experiment",
+      "Signal in the Silence: Why You Miss Your Own Gorilla"
     ]
   },
   {
@@ -255,241 +574,6 @@
     ]
   },
   {
-    "objectID": "n1-experiment/invisible-gorilla.html",
-    "href": "n1-experiment/invisible-gorilla.html",
-    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
-    "section": "",
-    "text": "cave painting buffalo",
-    "crumbs": [
-      "N=1 Experiment",
-      "Signal in the Silence: Why You Miss Your Own Gorilla"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/invisible-gorilla.html#a-look-back",
-    "href": "n1-experiment/invisible-gorilla.html#a-look-back",
-    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
-    "section": "A Look Back",
-    "text": "A Look Back\nWhen I look back at my life and some of the current events that have come into being, I remember an event that happened at my first pharmaceutical job. I attended a presentation by Benjamin Zander, conductor of the Boston Philharmonic Orchestra. He was there to talk about his book The Art of Possibility, which he’d written with his wife Rosamund, a family therapist and painter.\nI’d never heard of him. Looking back, it was an incredible introduction to thinking differently about what’s possible.\nZander began by working with a few students from the Music School. Each one played a solo for him. He stopped them and just started talking about the emotion of that piece and how you could change it. He started talking to the musician, not about technique, but an emotional feeling. They played again and the changes were amazing. A different aspect or way of feeling greatly improved their playing style.\nHe did this with each student. Really having an impact on each performer. Then as he was talking to the crowd, he played the movie for the hidden gorilla experiment.\nYou’ve probably seen it—or think you have. A group of people in a video pass basketballs back and forth. Your job: count the number of passes.\nMidway through, a person in a gorilla suit walks directly through the middle of the players. Stops. Beats their chest. Walks off.\nAbout half the people watching miss it completely. I was in that half.\nZander told us to watch for the gorilla. I thought he was making another joke. He replayed the clip. There it was—a person in a full gorilla suit, standing in the center of the frame, impossible to miss once you knew to look for it.\nHow had I not seen that?\nThe point, Zander explained, was that you can miss things completely when you limit your sense of what’s possible. When you’re focused on counting passes, your brain filters out gorillas. Even obvious ones. Even ones standing right in front of you.\nGreat lesson. Pretty obvious once someone tells you what to look for.\nBut here was my problem—the one I’d carry for the next twenty years: I couldn’t find what I was missing.\nWhen I told my spouse or family I felt unfulfilled despite having good opportunities, their response was predictable: “What are you complaining about? You have all these opportunities.” They were right. By conventional measures, I was doing fine. Better than fine.\nLooking back at that Zander presentation, I realized something. I saw the gorilla only after Zander told me what to look for. Once you know what to look for, the problem becomes obvious. Maybe not easy to solve—but at least you have something to work on.\nBut what if no one knows what to look for? Not even you?\nWhat if your path—your specific design, your unique alignment—is something no one can describe to you because it’s uniquely yours? Your parents can’t tell you what to look for. Your boss can’t. Career counselors can’t. Because YOUR gorilla is different from theirs. Hidden in your own data. Visible only to you, once you learn to see it.\nSo how do you develop the ability to see what you don’t even know to look for?\nHow do you notice the signal when you don’t know what signal you’re searching for?\nHow do you recognize alignment when you’ve never experienced it before?",
-    "crumbs": [
-      "N=1 Experiment",
-      "Signal in the Silence: Why You Miss Your Own Gorilla"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/invisible-gorilla.html#thats-the-methodological-problem.",
-    "href": "n1-experiment/invisible-gorilla.html#thats-the-methodological-problem.",
-    "title": "Signal in the Silence: Why You Miss Your Own Gorilla",
-    "section": "That’s the methodological problem.",
-    "text": "That’s the methodological problem.\nAnd it’s the problem I’ve spent the last several years trying to solve—first for myself, then realizing others face the same challenge.\nI’d spent my entire career in pharmaceutical modeling, integrating disparate data—blood levels, tissue exposure, receptor binding, clinical outcomes—into coherent models that predicted drug behavior. Multiple data sources. Pattern recognition. Convergent evidence.\nWhat I didn’t realize was that I was about to apply the same methodology to a far more important question:\nNot, ”How does this drug work?”\nBut, ”How do I work?”\nWhat drives my happiness? Why am I drained despite outward success? What am I actually built for?\nThe conventional advice wasn’t working. “Follow your passion” assumes you know what your passion is. “Find what energizes you” assumes you can recognize energy when it’s not in familiar forms. “Talk to a career counselor” assumes they can see your gorilla when they’re looking at their own frameworks.\nI needed a different approach. Not someone to tell me what my gorilla looks like—methodologically, that’s impossible. But a process to help me reveal what to look for, even when I couldn’t name it.\nHere’s what is emerging:\nMultiple data sources. Don’t trust any single framework. Draw from many: analytics and intuition, conventional and unconventional, conscious and somatic. As the Zanders proposed, you can change your narrative—but you need different lenses to see which narrative might actually fit.\nPattern recognition. Look for convergence. When several independent signals point in the same direction, that overlap is meaning. When your body says one thing, your timeline shows another pattern, and an unconventional framework suggests a third angle—and they all point the same direction? That’s signal, not noise.\nThe biomarker. Your body knows before your mind does. Energy levels, time perception, physical sensations, even seemingly random emotional responses—all are data. Learn to read them. That drained feeling despite success? That’s not a character flaw. That is a system alert. It is your body’s check-engine light signaling a mismatch between your environment and your design.\nQuantified self. Track your experiences. You cannot find a pattern in a dataset that doesn’t exist. Writing these articles is how I build the dataset. I am logging the raw signal so the pattern can emerge. You’ve been making decisions, missing opportunities, feeling drawn to some things and repelled by others. Don’t be afraid to look back at where you’ve been. The pattern is there.\nThat’s how you see the unseen: by designing systems that can detect signal even in the absence of prior knowledge.\nZander could point to the gorilla because he had seen the tape before. But in your life, there is no Zander. You are watching a tape that has never been played before. So who tells you where to look?\nThis isn’t about me telling you what YOUR gorilla looks like. I can’t. Not because I’m being modest, but because it’s methodologically impossible. I found that pattern recognition and teaching energize me. You might find something completely different.\nThis isn’t “follow my path.” It’s “here’s how I found mine—use the approach to find yours.”\nOver the next several weeks, I’ll be sharing how this methodology works in practice. How I use biomarkers to navigate decisions. How I test frameworks—including unconventional ones like astrology—rigorously rather than dismissing or blindly accepting them. How I’m applying all of this right now, in real time, as systems around us shift.\nNot because I’ve arrived. But because I’m still going through it. And the methodology appears to be working.\nIf you saw my recent post about buying AI equipment last week—feeling that pressure before I consciously understood why, then watching it validate days later with China’s silver export restrictions—that’s this methodology in action.\nThe biomarker detected the pattern shift in the economic field days before I was made aware of the news cycle reporting the export restriction. That isn’t magic. That is a high-speed sensor picking up a signal before the noise of the headlines caught up to me.\nThat wasn’t luck. That’s what happens when you develop systems for seeing signal you can’t yet name.\nIf you’ve already tried following conventional advice and it didn’t work—if you’ve succeeded by conventional metrics and you’re still miserable—if you’ve realized that no one can tell you what YOUR gorilla looks like—then this is for you.\nThe good news? You don’t need someone to show you the gorilla. You need a process for developing the ability to see it yourself.\nThat’s what I’m building here. That’s what Fire in the Cave is about.\nNot inspiration. Methodology.\nLet’s figure this out together.\nSubscribe to follow along as I share the methodology—and continue documenting real-time pattern recognition as 2026 unfolds.",
-    "crumbs": [
-      "N=1 Experiment",
-      "Signal in the Silence: Why You Miss Your Own Gorilla"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/index.html",
-    "href": "n1-experiment/index.html",
-    "title": "N=1 Experimentation",
-    "section": "",
-    "text": "Pattern recognition as survival technology. Not telling you what to see—methodology for seeing it yourself.",
-    "crumbs": [
-      "N=1 Experiment",
-      "N=1 Experimentation"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/index.html#the-problem",
-    "href": "n1-experiment/index.html#the-problem",
-    "title": "N=1 Experimentation",
-    "section": "The Problem",
-    "text": "The Problem\nWhen Benjamin Zander showed the invisible gorilla video, I missed it completely. Once he told me what to look for, it was obvious.\nBut here’s the methodological challenge: in your own life, there is no Zander. No one can tell you what YOUR gorilla looks like. Your parents can’t. Your boss can’t. Career counselors can’t.\nBecause your pattern is uniquely yours.",
-    "crumbs": [
-      "N=1 Experiment",
-      "N=1 Experimentation"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/index.html#the-approach",
-    "href": "n1-experiment/index.html#the-approach",
-    "title": "N=1 Experimentation",
-    "section": "The Approach",
-    "text": "The Approach\nThe methodology I developed integrates multiple domains:\nMultiple data sources — Don’t trust any single framework. Draw from many: analytics and intuition, conventional and unconventional, conscious and somatic.\nPattern recognition — Look for convergence. When several independent signals point in the same direction, that overlap is meaning. Not proof—but signal worth following.\nBiomarkers — Your body knows before your mind does. Energy levels, time perception, physical sensations—all are data. That drained feeling despite success? That’s not a character flaw. That’s a system alert.\nQuantified self — Track your experiences. You cannot find a pattern in a dataset that doesn’t exist.",
-    "crumbs": [
-      "N=1 Experiment",
-      "N=1 Experimentation"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/index.html#in-this-section",
-    "href": "n1-experiment/index.html#in-this-section",
-    "title": "N=1 Experimentation",
-    "section": "In This Section",
-    "text": "In This Section\n\nThe Competence Trap — When success becomes the problem\nThe Invisible Gorilla — Why you can’t find your path when no one tells you what to look for\n\n\nThis isn’t “follow my path.” It’s “here’s how I found mine—use the approach to find yours.”",
-    "crumbs": [
-      "N=1 Experiment",
-      "N=1 Experimentation"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About — David Howe",
-    "section": "",
-    "text": "I’ve spent most of my career modeling biological systems in pharma—teaching myself to see the hidden patterns that predict how drugs behave in the human body.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug. I was good at it. Companies still bring me on to consult and model their potential drugs.\nAnd every time I do it, I feel the same thing: competent… and drained.\nThat observation—being successful by every external measure while feeling hollow inside—became the first data point in a different kind of modeling project. One where I am the system being studied."
-  },
-  {
-    "objectID": "about.html#who-i-am",
-    "href": "about.html#who-i-am",
-    "title": "About — David Howe",
-    "section": "",
-    "text": "I’ve spent most of my career modeling biological systems in pharma—teaching myself to see the hidden patterns that predict how drugs behave in the human body.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug. I was good at it. Companies still bring me on to consult and model their potential drugs.\nAnd every time I do it, I feel the same thing: competent… and drained.\nThat observation—being successful by every external measure while feeling hollow inside—became the first data point in a different kind of modeling project. One where I am the system being studied."
-  },
-  {
-    "objectID": "about.html#why-fire-in-the-cave",
-    "href": "about.html#why-fire-in-the-cave",
-    "title": "About — David Howe",
-    "section": "Why Fire in the Cave",
-    "text": "Why Fire in the Cave\nThe same methodology I used to decode molecular behavior could decode the behavior of my own meaning:\n\nMultiple data sources — Don’t trust any single framework\nPattern recognition — Look for convergence across independent signals\nBiomarkers — Your body knows before your mind does\nQuantified tracking — You cannot find a pattern in a dataset that doesn’t exist\n\nThis isn’t about me telling you what is the recipe for happiness. I can’t. Your alignment is uniquely yours.\nThis is “here’s how I am finding mine—use the approach to find yours.”"
-  },
-  {
-    "objectID": "about.html#what-im-building",
-    "href": "about.html#what-im-building",
-    "title": "About — David Howe",
-    "section": "What I’m Building",
-    "text": "What I’m Building\nFire in the Cave is the methodology applied at multiple scales:\nPersonal — How to detect your own patterns, navigate your own alignment, find what actually energizes rather than drains you.\nSystemic — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.\nArchitectural — Eventually, the tools themselves.\nSame fire. Different scales."
-  },
-  {
-    "objectID": "about.html#connect",
-    "href": "about.html#connect",
-    "title": "About — David Howe",
-    "section": "Connect",
-    "text": "Connect\n\nSubstack: Fire in the Cave — where I publish articles\nYouTube: @fireinthecave — video content\nContact: alchemist@fireinthecave.com\n\n\nThis site is built with Quarto and hosted on GitHub Pages—tools I control, that I could move if needed. Practicing what I’m preaching."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fire in the Cave",
-    "section": "",
-    "text": "Fire painting on cave wall — pattern recognition across time"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Fire in the Cave",
-    "section": "Welcome",
-    "text": "Welcome\nI’ve spent most of my career in pharmaceutical companies modeling biological systems—teaching myself to see patterns in data that predict how potential drugs behave in patients. Recently, I turned that same training on my own life to discover why, despite outward success, I didn’t feel happy or fulfilled. Along the way, I found that these pattern recognition skills work just as well for identifying what makes me happy.\nYou may wonder why the title Fire in the Cave.\nThe image holds multiple fractals:\nPaleolithic star-painters — In her book The Human Cosmos, Jo Marchant describes how cave paintings may not just depict animals important to survival, but stars that tracked when the herds would arrive. Perhaps evidence for early pattern recognition in humans which was passed down across generations.\nPlato’s prisoners — Chained in a cave, taught the world via shadows controlled by their jailers. One escaped to the outside, discovered the lies, returned to free the others—and faced their disbelief.\nPrometheus — Stole fire from the gods to give humanity light, warmth, tools, civilization. The name means “forethought”—the one who sees what’s coming.\nHence, the atmosphere of the fire in the cave. Looking for truth not from the shadows generated, but by the fire illuminating the patterns we paint on the walls. Looking to find mine, yours, and hopefully our truth."
-  },
-  {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
-    "title": "Fire in the Cave",
-    "section": "What You’ll Find Here",
-    "text": "What You’ll Find Here\n\nN=1 Experiment\nMy personal journey and investigation into my own battles trying to find what inspires and motivates me. How I started using my pattern recognition and story framing in both my professional and personal lives and my N=1 approach.\n\n\nPattern Recognition\nApplying pattern recognition to navigate the world — finance, health, systems, decisions — while pursuing what actually fulfills me.\n\n\nTechnology\nExamples of the use of technology including AI to improve pattern recognition and maintain sovereignty over my own data and thinking."
-  },
-  {
-    "objectID": "index.html#the-standing-wave",
-    "href": "index.html#the-standing-wave",
-    "title": "Fire in the Cave",
-    "section": "The Standing Wave",
-    "text": "The Standing Wave\n\n\n\nMan pulling heavy weights — the standing wave trap\n\n\nWhere many of us find ourselves:\n\nExpenses and costs that have made it difficult to afford what previous generations took for granted\nFollowing the rules of the system, but promises not kept\nSystems gamifying your attention—keeping you engaged but not empowered\nCollective changes causing anxiety and uncertainty about your future\n\nI originally thought, like many, that old systems were simply breaking down and forcing us toward something new. But crossroads were built by Romans and kings long dead. When you only get to choose between paths others have laid, it may look like change—but you’re still a user on someone else’s platform.\nThe other possibility is what I have been calling is a standing wave. You are caught in all of your internal and external pressures that are stopping you from really finding your happy self. When you look out, you can see all of the possibility but you cannot get there.\nThe choice isn’t between two manufactured paths. It’s between accepting someone else’s design or learning to recognize your own patterns—and following where they lead.\n\n\n\nFigure caught in a standing wave — the illusion of motion\n\n\nThat’s why I started Fire in the Cave. Because there’s a difference between a crossroads and a standing wave—even though both can feel the same. A crossroads gives you someone else’s options. A standing wave traps you in the illusion of motion. The real question is whether you can free yourself entirely—or just end up with a new boss, same as the old one."
-  },
-  {
-    "objectID": "index.html#join-the-fire",
-    "href": "index.html#join-the-fire",
-    "title": "Fire in the Cave",
-    "section": "Join the Fire",
-    "text": "Join the Fire\nIf you’re feeling the gap between what the system promised and what it delivered—if you’ve succeeded by every external measure and still feel hollow—you’re not broken. You’re detecting something real.\n\nSubscribe on Substack — articles as they publish\nYouTube — video content\nContact — alchemist@fireinthecave.com"
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html",
-    "href": "n1-experiment/competence-trap.html",
-    "title": "The Competence Trap",
-    "section": "",
-    "text": "work and cave",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#competent-and-drained",
-    "href": "n1-experiment/competence-trap.html#competent-and-drained",
-    "title": "The Competence Trap",
-    "section": "Competent and Drained",
-    "text": "Competent and Drained\nBy most standards, I was on a successful career arc.\nI had held leadership positions in pharmaceutical companies where I led teams that assessed metabolism and pharmacokinetics/pharmacodynamics (PK/PD) modeling—this is a mouthful but essentially means I brought together different types of data to predict how drugs would behave in people. How they might move through the body, how they might act, where they might cause problems.\nMy job was finding patterns and projecting the story: what dosage works, where it’s safe, how often to give the drug.\nI was good at it.\nCompanies still bring me on to consult and model their potential drugs. My skills are sharp. The compensation is generous. I have competitors, sure, but I’ve found my niche. I land more than enough work through my network alone. Every recent project has come just from people who know what I can do.\nAnd every time I do it, I feel the same thing: competent… and drained.\nNot tired. Drained.\nLike something in me is being consumed with each hour I give to work I’m good at but not meant for.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#the-difference-between-tired-and-drained",
-    "href": "n1-experiment/competence-trap.html#the-difference-between-tired-and-drained",
-    "title": "The Competence Trap",
-    "section": "The Difference Between Tired and Drained",
-    "text": "The Difference Between Tired and Drained\nTired is what you feel after a hard day that mattered. You’re spent, but there’s a fullness to it. You did something. You moved something forward. Rest refills you.\nDrained is different.\nDrained is when the work itself—no matter how well you do it, no matter how much people value it—pulls something out of you that sleep can’t replace. You wake up already behind. You finish projects successfully and feel… nothing. Or worse than nothing. Hollow.\nI’d integrated disparate data for years. Blood levels, tissue exposure, receptor binding, pharmacology—all woven into coherent models that predicted drug behavior from discovery setting to the clinic. Multiple data sources combined with pattern recognition to hopefully lead to convergent evidence.\nI was applying rigorous methodology to molecules while ignoring the most obvious signal in my own data: this is draining you.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#the-competence-trap-explained",
-    "href": "n1-experiment/competence-trap.html#the-competence-trap-explained",
-    "title": "The Competence Trap",
-    "section": "The Competence Trap Explained",
-    "text": "The Competence Trap Explained\nHere’s the trap: when you’re good at something, everyone—including you—assumes that’s your path.\nYour expertise is validated. People pay you well. Your calendar fills up. You develop a reputation. The system rewards you for continuing. And because you’re competent, you can keep doing it almost indefinitely.\nBut competence and alignment are not the same thing.\nI could model drug behavior in my sleep. I still can. The methodology is second nature—building compartmental models, integrating exposure-response relationships, projecting clinical outcomes from preclinical data. It’s intellectually satisfying in the moment. The problem-solving lights up certain pathways.\nBut when I stepped back and asked myself the simplest question—Am I happy doing this?—the answer was so obviously no that I’d been avoiding asking it for years.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#when-success-becomes-the-problem",
-    "href": "n1-experiment/competence-trap.html#when-success-becomes-the-problem",
-    "title": "The Competence Trap",
-    "section": "When Success Becomes the Problem",
-    "text": "When Success Becomes the Problem\nThe harder part was this: I had everything I thought I wanted.\nLeadership position. Excellent pay. Steady climb up the ladder. I’d acquired every skill I thought mattered. All the pieces were finally in place.\nI get to spend more time with my family now. I have flexibility. I have financial security.\nSo why was I so miserable—or maybe that is a bit harsh—but hollow?\nThat question haunted me. Because if you’ve achieved what you set out to achieve and you’re still hollow, what do you do with that? Where do you even start?\nMost people would say: “You’re just burned out. Take a vacation. Find work-life balance. Practice gratitude. You make great money, what is your problem?”\nI tried all of that. It didn’t work.\nBecause the problem wasn’t that I was working too hard. The problem was that I was working on the wrong thing—and I’d gotten very, very good at it.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#the-moment-of-recognition",
-    "href": "n1-experiment/competence-trap.html#the-moment-of-recognition",
-    "title": "The Competence Trap",
-    "section": "The Moment of Recognition",
-    "text": "The Moment of Recognition\nI started looking for the next thing. Some new technology like AI, approach, or new environment within PK/PD that would light me up again. I thought maybe I just needed a fresh challenge in the same domain.\nBut to my surprise, I found myself treating my own life as the next modeling project—an n=1 study.\nIf I could find the “why”—why this drains me, what specifically about it misaligns with how I’m built—maybe I could find the next activity that restored energy instead of consuming it.\nThat’s when I realized: my modeling skills weren’t just useful in drug discovery.\nThey were the key to discovering my life.\nThe same methodology I used to decode molecular behavior could decode the behavior of my own meaning. Multiple data sources. Pattern recognition. Convergent evidence. Quantified tracking. Following the signal even when I didn’t know what I was looking for yet.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#what-i-didnt-realize-then",
-    "href": "n1-experiment/competence-trap.html#what-i-didnt-realize-then",
-    "title": "The Competence Trap",
-    "section": "What I Didn’t Realize Then",
-    "text": "What I Didn’t Realize Then\nWhat I didn’t realize then was that I was about to apply the same methodology to a far more important question:\nNot “How does this drug work?”\nBut “How do I work?”\nWhat drives my happiness? What drains me despite outward success? What would it feel like to wake up energized by what I’m doing instead of drained by what I’m completing? What can I do that does not feel like a job, but a calling?\nI didn’t have answers yet. But I had something more valuable: a methodology for finding them.\nBecause here’s what I’ve learned: being told what makes you happy doesn’t work. Your parents can’t tell you. Your boss can’t. Career counselors can’t.\nNot because they don’t care. But because your alignment is uniquely yours.\nYour biomarkers—or happiness markers—are different from theirs. What energizes you might drain someone else completely.\nThe only way out is developing the capacity to see it yourself—to build your own detection system for signals you don’t yet know how to recognize.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
-    "objectID": "n1-experiment/competence-trap.html#where-this-goes-next",
-    "href": "n1-experiment/competence-trap.html#where-this-goes-next",
-    "title": "The Competence Trap",
-    "section": "Where This Goes Next",
-    "text": "Where This Goes Next\nI’m not going to tell you to quit your job. I’m not going to tell you what your path should be.\nI’m going to show you how I built the detection system that revealed mine—even when I didn’t know what I was detecting yet.\nBecause the competence trap is real. And if you’re reading this, you might already be in it.\nNext time, I’ll tell you about the invisible gorilla—and why the most important patterns in your life might be the ones you’ve been trained not to see.\n\nThis is part of an ongoing series on developing internal navigation rather than following external maps.",
-    "crumbs": [
-      "N=1 Experiment",
-      "The Competence Trap"
-    ]
-  },
-  {
     "objectID": "pattern-recognition/ai-series/taking_stock_new_AI_world.html",
     "href": "pattern-recognition/ai-series/taking_stock_new_AI_world.html",
     "title": "Taking Stock in a New AI World",
@@ -514,11 +598,11 @@
     ]
   },
   {
-    "objectID": "pattern-recognition/ai-series/taking_stock_new_AI_world.html#how-to-maneuver",
-    "href": "pattern-recognition/ai-series/taking_stock_new_AI_world.html#how-to-maneuver",
+    "objectID": "pattern-recognition/ai-series/taking_stock_new_AI_world.html#maneuvering",
+    "href": "pattern-recognition/ai-series/taking_stock_new_AI_world.html#maneuvering",
     "title": "Taking Stock in a New AI World",
-    "section": "How to Maneuver",
-    "text": "How to Maneuver\nI find myself stumbling with the question of real value now. Chaos is all around. Geopolitical instability, economic uncertainty and now AI is taking or changing my job. In this new AI world, am I at a new crossroad or am I looking at a new expanse of potential?\nAt my core, I have always tried to find what makes me fulfilled and happy. In this new and changing world, is it the same or is it evolving?\nThought that I would be done with these thoughts now. Coasting on calm seas into my twilight years, enjoying the fruits of my labor.\nWe are told what our dreams should be. A career that provides. Family. Friends. Community. A place to belong. A house to call home. This has been the marker for generations. The pursuit of this dream.\nOver the years, technology has quietly dismantled this aspirational dream. The attention economy blurs career and family time. Social media hollowing out community. Home ownership becoming a fantasy for an entire generation and threatening future generations. The dream they told us to want, now unobtanium.\nThe dream was passed to us by our parents and families. Commercialized by others. We were exploited for their dream fulfillment.\nDream erosion is happening worldwide. Cascading through the generations starting in the Japanese economic ice age with another tsunami caused by the Global Financial Crisis. Manifesting differently based on the trauma experienced.\nThe AI 500-lb gorilla crashing on the scene. AI will take your job. Need to keep pace with AI or become obsolete. AI and automation will run everything. The career advice given now is move to the trades. AI cannot follow.\nMy father had his own business in the trades. During high school, I worked on sites over summers with my father. My father did great work. He was devastated when I decided to go to college and not fully join the business. My brother stayed. I just felt drawn to a different path which I followed. I thought that my existential choices were done many many years ago with deciding to go down my own path.\nNow, 30+ years later. Déjà vu. Here I am again.\nThe AI 500-lb gorilla affects the millennials and Gen Z. Even Gen X, to my surprise, but from a different angle. The angst felt by millennials and Gen Z is due to the unknown and amplified by news and social media noise. Over my career, there have been many technologies touted that were going to change the field. These technologies brought improvements but never like originally promised.\nI started playing with ChatGPT when it came out. Originally, I was very impressed in the chat performance. How the libraries are constructed as fragments and the results is a conversation. Amazing engineering and data science feat. Then all of the warning talk of AI hallucinations. That did not really worry me.\nI am a modeler using math to describe biology and predicting drug behavior in humans. I am used to being wrong but directionally correct. That is basically an AI hallucination. The AI companies really did not explain that to everyone. A LLM is modeling software for conversations.\nThink about a social gathering. Talking to others. You hear something out there. Do you readily just believe? This is life. Why would a conversational model behave any different?",
+    "section": "Maneuvering",
+    "text": "Maneuvering\nI find myself stumbling with the question of real value now. Chaos is all around. Geopolitical instability, economic uncertainty and now AI is taking or changing my job. In this new AI world, am I at a new crossroad or am I looking at a new expanse of potential?\nAt my core, I have always tried to find what makes me fulfilled and happy. In this new and changing world, is it the same or is it evolving?\nThought that I would be done with these thoughts now. Coasting on calm seas into my twilight years, enjoying the fruits of my labor.\nWe are told what our dreams should be. A career that provides. Family. Friends. Community. A place to belong. A house to call home. This has been the marker for generations. The pursuit of this dream.\nOver the years, technology has quietly dismantled this aspirational dream. The attention economy blurs career and family time. Social media hollowing out community. Home ownership becoming a fantasy for an entire generation and threatening future generations. The dream they told us to want, now unobtanium.\nThe dream was passed to us by our parents and families. Commercialized by others. We were exploited for their dream fulfillment.\nDream erosion is happening worldwide. Cascading through the generations starting in the Japanese economic ice age with another tsunami caused by the Global Financial Crisis. Manifesting differently based on the trauma experienced.\nThe AI 500-lb gorilla crashing on the scene. AI will take your job. Need to keep pace with AI or become obsolete. AI and automation will run everything. The career advice given now is move to the trades. AI cannot follow.\nMy father had his own business in the trades. During high school, I worked on sites over summers with my father. My father did great work. He was devastated when I decided to go to college and not fully join the business. My brother stayed. I just felt drawn to a different path which I followed. I thought that my existential choices were done many many years ago with deciding to go down my own path.\nNow, 30+ years later. Déjà vu. Here I am again.\nThe AI 500-lb gorilla affects the millennials and Gen Z. Even Gen X, to my surprise, but from a different angle. The angst felt by millennials and Gen Z is due to the unknown and amplified by news and social media noise. Over my career, there have been many technologies touted that were going to change the field. These technologies brought improvements but never like originally promised.\nI started playing with ChatGPT when it came out. Originally, I was very impressed in the chat performance. How the libraries are constructed as fragments and the results is a conversation. Amazing engineering and data science feat. Then all of the warning talk of AI hallucinations. That did not really worry me.\nI am a modeler using math to describe biology and predicting drug behavior in humans. I am used to being wrong but directionally correct. That is basically an AI hallucination. The AI companies really did not explain that to everyone. A LLM is modeling software for conversations.\nThink about a social gathering. Talking to others. You hear something out there. Do you readily just believe? This is life. Why would a conversational model behave any different?",
     "crumbs": [
       "Pattern Recognition",
       "AI Series",
