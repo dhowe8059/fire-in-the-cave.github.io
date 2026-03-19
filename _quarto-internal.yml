@@ -12,8 +12,11 @@ project:
     - "pattern-recognition/"
     - "technology/"
     - "resources/"
+    - "presentations/"
   resources:
     - "data/*"
+    - "presentations/*.pdf"
+    - "presentations/*.pptx"
 
 website:
   title: "Fire in the Cave — INTERNAL LAB"
@@ -65,6 +68,10 @@ website:
           contents:
             - glob: "data/*.csv"
             - glob: "data/*.json"
+        - section: "Presentations"
+          contents:
+            - presentations/index.qmd
+            - glob: "presentations/*.qmd"
 
     - title: "N=1 Experiment"
       style: docked
