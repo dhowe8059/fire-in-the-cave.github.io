@@ -28,6 +28,7 @@ The methodology I developed integrates multiple domains:
 
 - [The Competence Trap](competence-trap.qmd) — When success becomes the problem
 - [The Invisible Gorilla](invisible-gorilla.qmd) — Why you can't find your path when no one tells you what to look for
+- [Looking at the World with Wonder](looking_at_the_world_wonder.qmd) — Traversing the Liminal Space
 
 ---
 

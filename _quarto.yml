@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - "Rscript fix-sitemap.R"       # <-- ADD THIS
   resources:
     - CNAME
 
@@ -58,6 +60,7 @@ website:
         - n1-experiment/invisible-gorilla.qmd
         - n1-experiment/biomarkers.qmd
         - n1-experiment/n-equals-one.qmd
+        - n1-experoment/looking_at_the_world_wonder.qmd
     
     - title: "Pattern Recognition"
       contents:
@@ -91,6 +94,7 @@ website:
 
 format:
   html:
+    canonical-url: true
     theme:
       light: cosmo
       dark: darkly
