@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   post-render:
-    - "Rscript fix-sitemap.R"       # <-- ADD THIS
+    - "Rscript fix-sitemap.R"  
   resources:
     - CNAME
 
@@ -126,4 +126,4 @@ execute:
   
 profile:
   group:
-    - [default, pinata]
+    - [default, internal, pinata]
