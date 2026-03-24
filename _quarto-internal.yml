@@ -54,7 +54,8 @@ website:
         - section: "The Living Book"
           contents:
             - live_books/index.qmd
-            - section: live_books/books/memoir/index.qmd
+            - section: "Memoir"
+              contents: live_books/books/memoir/index.qmd
             - glob: "live_books/books/memoir/*.qmd"
         - section: "Article Drafts"
           contents:
@@ -93,6 +94,7 @@ website:
             
 format:
   html:
+    canonical-url: true
     theme:
       light: cosmo
       dark: darkly
