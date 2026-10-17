@@ -1,9 +1,0 @@
-project:
-  render:
-    - "index.qmd"
-    - "about.qmd"
-    - "posts/"
-    - "n1-experiment/"
-    - "pattern-recognition/"
-    - "technology/"
-    - "how-this-works/"
