@@ -1,0 +1,20 @@
+# Fire in the Cave Lab
+
+> Static research laboratory, exploratory models, and navigational frameworks by David Howe. Focuses on systems thinking, self-sovereignty, N=1 experimentation, and cognitive architecture.
+
+## Primary Sections
+
+- [N=1 Experiments](https://lab.fireinthecave.com/n-1-experiments/): Personal experimentation frameworks for charting unknown professional, physical, and cognitive territory.
+  - [Understanding Self](https://lab.fireinthecave.com/n-1-experiments/self.html): Foundational baseline mapping, internal drivers, and biomarker telemetry.
+  - [Preparation](https://lab.fireinthecave.com/n-1-experiments/preparation.html): Tooling, mental models, and provision architecture for navigating uncharted domains.
+  - [Sailing the Open Sea](https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea.html): Liminal phase dynamics and operational autonomy.
+  - [Mapping the Paths](https://lab.fireinthecave.com/n-1-experiments/mapping_journey.html): Pattern convergence, tracking datasets, and navigational logs.
+
+## Long-Form Essays & Shards
+
+- [Essays Archive](https://lab.fireinthecave.com/essays.html): Primary philosophical and systems dynamics publications.
+- [Blue Ocean Logs](https://lab.fireinthecave.com/blue-ocean.html): Real-time field notes on transitional risk, model execution, and independent research.
+
+## Optional & Full Context
+
+- [Full Content Ingestion](https://lab.fireinthecave.com/llms-full.txt): Complete raw markdown archive for single-prompt context loading.

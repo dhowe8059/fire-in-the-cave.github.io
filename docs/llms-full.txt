@@ -1,0 +1,81 @@
+# Fire in the Cave — Complete Lab Archive
+
+> Full ingested corpus for lab.fireinthecave.com.
+
+---
+
+# Document: Fire in the Cave (Home & Overview)
+URL: https://lab.fireinthecave.com/
+
+Systems thinking, cognitive architecture, and model-driven synthesis for the individual.
+
+## The Premise
+We are caught in a convergence of accelerating technological intelligence, institutional decay, and cognitive overload. Navigating it requires un-learning hyper-specialization and reclaiming forethought.
+
+My background is in pharmacokinetic modeling—mathematically predicting how novel therapies distribute and behave in human physiology. Today, I use modern computational tools and Large Language Models to expand that scope: modeling the macro-systems around us, stress-testing decisions, and mapping an intentional, sovereign path forward.
+
+*Fire in the Cave* is the synthesis of that work—a live project tracking what happens when you treat self-determination and sensemaking as an active engineering problem.
+
+## Core Archetypes
+- **The Neolithic Painters (The Map):** The first cave paintings were not mere decoration; they were astronomical tracking tools and survival maps—pigments engineered in the dark to predict the arrival of herds and sustain the clan.
+- **Plato’s Allegory (The Illusion):** Prisoners chained in darkness mistake projected shadows for fundamental reality. Escaping the cave requires questioning the manufactured projections of our institutions and media systems.
+- **Prometheus (Forethought):** Stealing fire from the gods gave humanity the tools of illumination, warmth, and civilizational autonomy. In Greek, Prometheus translates literally as *forethought*—the capacity to anticipate what comes next.
+
+## Core Work & Publication Formats
+- **Shards (Field Notes):** Concise, thesis-driven dispatches and initial field notes on macro patterns, technology, and personal navigation.
+- **Deep Dives & Models (Systems Code):** Technical analyses, computational architectures (Quarto notebooks, code, and systems diagrams), and operational frameworks.
+- **Manuals (Infrastructure):** Structured playbooks for local AI infrastructure, data sovereignty, and life-system design.
+
+## Publishing & Network Hubs
+- **Ghost (Canonical Vault):** Long-form essays, research archives, and subscriber deep dives (https://www.fireinthecave.com).
+- **Substack:** Shards, dispatches, and community discussion (https://fireinthecave.substack.com).
+- **The Lab:** Open computational notebooks, data models, and interactive tools (https://lab.fireinthecave.com).
+- **YouTube:** Video walkthroughs and system dissections (https://youtube.com/@fireinthecave).
+
+---
+
+# Document: N=1 Experiments Overview
+URL: https://lab.fireinthecave.com/n-1-experiments/
+
+I envision myself on a deserted island and looking out into the vastness of the blue ocean. The island represents my current opportunities. Maybe able to live well enough but the resources are limiting in all aspects of life. 
+
+The blue ocean represents infinite potential. The island represents what is known or close to being fully known and the blue ocean represents uncharted waters or the unknown.
+
+## The Problem
+
+Trying to find a path to navigating the blue ocean. I re-examined my life, education and career to this point. Sad to say that I had only gotten to riding the bike with training wheels when looking at this new opportunity. 
+
+## The Current Approach
+
+Yes. One hears and sees the vastness of the ocean. It beckons. It thrills. It scares the hell out of you. These past two to three years have been the liminal phase or initial preparation phase. 
+
+This is why I use N=1 Experimentation to describe this overall method at this time. One could use other methods described by others, but how do you use this for navigating the unknown? This may not be the best way, but I started with re-evaluating how I see myself and trying to find my why for doing this. 
+
+I understood what I was standing on, but how does one gird themselves for exploring the unknown? I started with trying to understand my drivers. Whether the journey is worth it or not is judged by myself or possibly you and the journey may take longer than you expect.
+
+## Core Archetypes & Focus Areas
+- **Understanding Self:** Setting the direction, internal drivers, and biomarker calibration.
+- **Preparation:** Assembling tools, systems thinking, provisioning, and strategic planning.
+- **Sailing the Open Sea:** Liminal phase operational dynamics and civilizational autonomy.
+- **Mapping the Paths:** Tracking datasets, pattern convergence, and navigational field logs.
+
+## The Methodology
+The methodology integrates four core pillars:
+- **Multiple Data Sources:** Integrating analytics, somatic markers, intuition, and conventional systems.
+- **Pattern Recognition:** Identifying multi-signal convergence as actionable meaning.
+- **Biomarkers:** Tracking systemic fatigue, somatic intuition, and physical baseline telemetry.
+- **Quantified Self:** Systematic logging to build actionable datasets.
+
+---
+
+# Document: Understanding Self
+URL: https://lab.fireinthecave.com/n-1-experiments/self.html
+
+[Paste complete raw markdown text of /n-1-experiments/self.qmd here]
+
+---
+
+# Document: Preparation
+URL: https://lab.fireinthecave.com/n-1-experiments/preparation.html
+
+[Paste complete raw markdown text of /n-1-experiments/preparation.qmd here]

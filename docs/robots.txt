@@ -1,1 +1,1 @@
-Sitemap: https://fireinthecave.com/sitemap.xml
+Sitemap: https://lab.fireinthecave.com/sitemap.xml
