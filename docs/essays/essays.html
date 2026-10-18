@@ -47,9 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-c0f4ad33c246a932906da45bcb3168fc.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-10fa3e624d2e3a409eb5f6c3b043f638.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-3f458d130c39fffa079bec7d5b719505.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-10fa3e624d2e3a409eb5f6c3b043f638.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0b4e76c0141901e88c3e9ec7abdf2809.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-a3e8b91a3b5986a7c4235dfa6c18e08a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-0b4e76c0141901e88c3e9ec7abdf2809.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -390,6 +390,28 @@ window.Quarto = {
 <p><a href="../n-1-experiments/mapping_journey.html" class="hub-link"><span class="hub-name">Mapping</span> <span class="hub-desc">Mapping the trail</span></a></p>
 </div>
 <hr>
+<!-- Grouped category filter. Quarto drops its category sidebar on custom-layout pages;
+     these rows reuse its .quarto-listing-category / .category classes so Quarto's own
+     listing script does the filtering. Names must match shards-deep-dives.yml. -->
+<div class="quarto-listing-category fitc-category-groups">
+  <div class="category-group">
+    <span class="category-group-label">Type</span>
+    <div class="category-chips">
+      <button type="button" class="quarto-listing-category-title category-all">All</button>
+      <button type="button" class="category" data-name="Shard">Shard <span class="category-count"></span></button>
+      <button type="button" class="category" data-name="Deep Dive">Deep Dive <span class="category-count"></span></button>
+    </div>
+  </div>
+  <div class="category-group">
+    <span class="category-group-label">Area</span>
+    <div class="category-chips">
+      <button type="button" class="category" data-name="Understanding Self">Understanding Self <span class="category-count"></span></button>
+      <button type="button" class="category" data-name="Preparation">Preparation <span class="category-count"></span></button>
+      <button type="button" class="category" data-name="Navigation">Navigation <span class="category-count"></span></button>
+      <button type="button" class="category" data-name="Mapping">Mapping <span class="category-count"></span></button>
+    </div>
+  </div>
+</div>
 <div id="listing-essays-listing" class="quarto-listing quarto-listing-container-default">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
@@ -988,6 +1010,29 @@ Jan 6, 2026
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
+<script>
+// Runs before DOMContentLoaded, so Quarto's listing script picks up the data-category values set here.
+(() => {
+  const groups = document.querySelector(".fitc-category-groups");
+  if (!groups) return;
+  const counts = {};
+  document.querySelectorAll("#listing-essays-listing .quarto-post[data-categories]").forEach((el) => {
+    decodeURIComponent(atob(el.dataset.categories)).split(",").forEach((c) => {
+      counts[c] = (counts[c] || 0) + 1;
+    });
+  });
+  groups.querySelectorAll(".category").forEach((el) => {
+    el.dataset.category = btoa(encodeURIComponent(el.dataset.name));
+    el.querySelector(".category-count").textContent = `(${counts[el.dataset.name] || 0})`;
+  });
+  // "All" isn't a Quarto category, so mark it active ourselves when no category is selected.
+  const all = groups.querySelector(".category-all");
+  const sync = () => all.classList.toggle("active", !groups.querySelector(".category.active"));
+  document.addEventListener("click", () => setTimeout(sync, 0));
+  window.addEventListener("hashchange", () => setTimeout(sync, 0));
+  window.addEventListener("load", () => setTimeout(sync, 0));
+})();
+</script>
 </section>
 </div>
 
