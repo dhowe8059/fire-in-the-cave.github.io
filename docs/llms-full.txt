@@ -68,14 +68,158 @@ The methodology integrates four core pillars:
 
 ---
 
-# Document: Understanding Self
-URL: https://lab.fireinthecave.com/n-1-experiments/self.html
+# Understanding Self — Fire in the Cave
+URL: https://lab.fireinthecave.com/n-1-experiments/self
+Author: David Howe
+Collection: N=1 Experiments (Pillar 1)
+Focus: Internal Drivers, Baseline Telemetry & Core Values
 
-[Paste complete raw markdown text of /n-1-experiments/self.qmd here]
+## Overview & Philosophy
+Understanding Self forms the foundational baseline of the N=1 Experimentation methodology. Venturing off bounded corporate islands into uncharted open water requires a ruthless audit of how one arrived. Historically, high performers adapt by improvising mechanics on the fly within systems that provide invisible guardrails ("training wheels"). 
+
+Frontier artificial intelligence shifts this equation: computational intelligence acts as an equalizer and cognitive lever, expanding the operational horizon beyond formal institutional specialization. Navigating this open ocean requires absolute self-sovereignty—stepping outside legacy corporate tracks to build intentional, self-directed architecture.
+
+## Core Conceptual Frameworks
+
+### 1. Dual-Track Expansion vs. Institutional Containment
+Reflecting on the foundational fork between aerospace engineering undergraduate studies and earning a doctorate in medicinal chemistry while working full-time: rather than accepting a false dichotomy between containment and expansion, the sovereign path synthesizes both disciplines. Decades later, that fork reappears without institutional gatekeepers—navigating solely by personal direction and self-defined objectives.
+
+### 2. Live Telemetry vs. Retrospective Case Studies
+Self-discovery in an N=1 framework is treated as an active, real-time laboratory experiment rather than an idealized post-hoc retrospective. Navigational models, cognitive telemetry, and frameworks are published in raw form as observations surface, acknowledging that every inquiry inevitably resolves back to the internal state of the observer.
+
+### 3. Integrated Investigation Streams
+The pillar encompasses three intersecting domains:
+- Cognitive Architecture: Analyzing neurological networks (Default Mode, Salience, Central Executive) and breaking default mental models.
+- Somatic Baselines: Treating physical depletion, tension, and intuitive alerts as biological check-engine lights rather than character flaws.
+- Systemic & Institutional Friction: Diagnosing the extraction of corporate ladders and avoiding the Competence Trap.
+
+## Associated Field Logs & Retrospectives (Ghost Vault & Lab Shards)
+
+- Finding My Way (Deep Dive): Liminal transitions, moving past the corporate Plinko board, and auditing attention networks. (URL: https://www.fireinthecave.com/findin/)
+- The Competence Trap (Essay): Distinguishing purpose-aligned fatigue from the hollow depletion of misaligned mastery.
+- Signal in the Silence: Why You Miss Your Own Gorilla (Essay): Inattentional blindness 
 
 ---
 
-# Document: Preparation
-URL: https://lab.fireinthecave.com/n-1-experiments/preparation.html
+# Preparing for the Journey (Blue Ocean Provisioning) — Fire in the Cave
+URL: https://lab.fireinthecave.com/n-1-experiments/preparation
+Author: David Howe
+Collection: N=1 Experiments (Pillar 2)
+Focus: Adaptive Provision Architecture, Compute Substrates & Sovereign Infrastructure
 
-[Paste complete raw markdown text of /n-1-experiments/preparation.qmd here]
+## Overview & Philosophy
+Preparing for the Journey outlines the operational posture required to depart bounded, extractive corporate "islands" and enter the "blue ocean"—uncontested territory offering unconstrained potential. The island offers familiar security, but its perimeter enforces subtle limits and extracts attention, vital energy, and cognitive autonomy. Entering open water requires a fundamental departure from legacy preparation models: when crossing into emergent, unmapped territory, static stockpiling fails because duration, routes, and conditions cannot be known in advance.
+
+## The Provisioning Taxonomy
+Rather than accumulating passive inventory or temporary consumables, provisioning is defined as engineering dynamic, adaptive capabilities across three pillars:
+
+### 1. Sensory Telemetry
+- Establishing multi-layered biological and operational feedback loops.
+- Monitoring internal somatic indicators, biometric baselines, and energy depletion rates as real-time early warning telemetry.
+- Synthesizing qualitative somatic alerts with objective external data streams.
+
+### 2. Cognitive Architecture & Sovereign Compute
+- Deploying local, private computational tooling to stress-test mental models and operational assumptions without cloud lock-in.
+- Establishing self-hosted AI substrates (Mac Studio unified memory, local LLMs, private vector stores, n8n automation) to ensure zero data leakage and uncompromised intellectual provenance.
+- Cultivating high-leverage agentic AI workflows as an entrepreneurial equalizer.
+
+### 3. Navigational Resilience & Real-Time Synthesis
+- Shifting from linear content consumption ("streams") to multi-dimensional, interconnected knowledge structures ("topologies").
+- Building the capacity to extract, model, and synthesize signal from noisy environments on the fly.
+- Calibrating initial conditions within the shallows so tooling, workflows, and pattern recognition are stress-tested before confronting macro turbulence.
+
+## Associated Field Logs & Technical Blueprints (Ghost Vault & Lab Shards)
+
+- Tools I Use (Technical Blueprint): Detailed breakdown of a sovereign digital toolkit—Obsidian, Quarto, Positron, Zotero, and local LLMs executed on unified-memory hardware.
+- The Medium Is the Methodology (Essay): Moving from corporate algorithm-driven feeds to decentralized knowledge topologies (Quarto, IPFS, Web3 domains) to preserve intellectual independence.
+- The Recovery That Doesn't Rehire (Economic Dispatch): How macro downturns permanently accelerate automated infrastructure deployment over labor rehiring, creating an urgency for personal sovereign tooling.
+- Taking Stock in a New AI World (Essay): Transitioning from reactive conversational chat prompts to autonomous agentic architectures as personal operational leverage.
+
+## Next-Stage Navigational Cross-References
+- Understanding Self: Foundational cognitive baselines, attention networks, and somatic alerts. (URL: https://lab.fireinthecave.com/n-1-experiments/self)
+- Sailing the Open Sea (Navigation): Macro signals, supply-chain arbitrage, and systemic patterns. (URL: https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea)
+- Mapping the Paths: Visual topologies, passage documentation, and return routes. (URL: https://lab.fireinthecave.com/n-1-experiments/mapping_journey)
+- Collaborations & Advisory: Sovereign AI architecture, infrastructure stress-testing, and high-context advisory. (URL: https://lab.fireinthecave.com/collaborations)
+
+# Sailing the Open Sea (Navigation) — Fire in the Cave
+URL: https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea
+Author: David Howe
+Collection: N=1 Experiments (Pillar 3)
+Focus: Pattern Telemetry, Macro Signal Convergence & Navigating Systemic Turbulence
+
+## Overview & Philosophy
+Sailing the Open Sea establishes the operational posture for operating beyond defined institutional roles, inherited career structures, and legacy safety rails. Navigating open water involves confronting genuine uncertainty where linear schedules and fixed roadmaps fail. Progress is measured by the ability to read subtle environmental shifts, detect emerging systemic swells, and execute deliberate tactical maneuvers rather than stubbornly fighting structural cross-currents.
+
+## The Navigational Taxonomy
+Navigating complex systems requires treating macro turbulence and market anomalies as high-value telemetry rather than friction. The framework relies on three operational capabilities:
+
+### 1. Pattern Recognition & Multi-Signal Convergence
+- Reading cross-currents, macro-economic shifts, and geopolitical frictions before they solidify into public consensus.
+- Identifying structural arbitrage across disparate data streams (e.g., tracking divergences between physical precious metals exchanges like COMEX, LBMA, and Shanghai Metals Market to detect supply-chain fractures).
+- Correlating external anomalies with internal somatic indicators to validate directional signals.
+
+### 2. Matched Filtering
+- Separating systemic noise from actionable signal through calibrated baseline telemetry.
+- Analyzing divergences between official narrative data and ground-level telemetry (e.g., examining the gap between headline U-3 unemployment metrics and actual U-6 underemployment or grassroots search friction).
+- Using mathematical and historical models to identify civilizational and institutional extraction thresholds.
+
+### 3. Sovereign Maneuver
+- Maintaining dynamic operational flexibility to tack when conditions dictate, avoiding cognitive or economic capture.
+- Evaluating collective systemic responses—such as global youth disengagement trends (Hikikomori, Sampo Generation, NEETs, Quiet Quitting, and Tangping / "Lying Flat")—as rational energy conservation strategies when institutional social contracts break down.
+- Preserving the leverage to maneuver independently while institutions face automated workforce contractions and algorithmic compression.
+
+## Associated Field Logs & Navigational Case Studies (Ghost Vault & Lab Shards)
+
+- How Silver Price Volatility Revealed What Was Coming (Case Study): Listening to somatic uneasiness, tracking physical arbitrage across global bullion desks, and pre-empting supply-chain bottlenecks.
+- The AI Thread in War (Geopolitical Dispatch): Sensor-to-shooter compression, autonomous targeting models, and the peril of algorithmic optimization stripped of human ethical guardrails.
+- Global Opt Out — The Economic Pattern (Economic Analysis): Tracking labor disengagement telemetry, search trends, and the widening chasm between official employment statistics and real economic friction.
+- The Global Pattern (Comparative Sociology): Cross-cultural analysis proving that international youth retreat (Hikikomori, Sampo, NEETs) is a rational response to broken generational covenants.
+- Lying Flat (Essay): Tangping evaluated through physics and mathematical modeling as an energy conservation strategy against negative systemic returns.
+
+## Next-Stage Navigational Cross-References
+- Understanding Self: Internal baseline telemetry, somatic check-engine lights, and identity audits. (URL: https://lab.fireinthecave.com/n-1-experiments/self)
+- Preparing for the Journey: Sovereign compute infrastructure, local models, and provision architecture. (URL: https://lab.fireinthecave.com/n-1-experiments/preparation)
+- Mapping the Paths: Visual topologies, passage documentation, and return routes. (URL: https://lab.fireinthecave.com/n-1-experiments/mapping_journey)
+- Collaborations & Advisory: Sovereign AI architecture, infrastructure stress-testing, and high-context advisory. (URL: https://lab.fireinthecave.com/collaborations)
+
+# Mapping the Paths (The Open Ledger) — Fire in the Cave
+URL: https://lab.fireinthecave.com/n-1-experiments/mapping_journey
+Author: David Howe
+Collection: N=1 Experiments (Pillar 4)
+Focus: Navigational Telemetry, Open Ledgers & Waypoint Architecture
+
+## Overview & Philosophy
+Mapping the Paths represents the synthesis and cartographic discipline of the N=1 Experimentation methodology. Rooted in the foundational metaphor of Paleolithic cave art—which functioned not as mere decoration, but as precise astronomical charts and survival tools engineered in the dark—mapping preserves hard-won operational patterns. Leaving bounded institutional islands requires maintaining a rigorous, real-time captain's log: documenting sights, internal frictions, data anomalies, and successful passages so the route remains repeatable and self-sovereign.
+
+## The Cartographic Architecture
+Maintaining an open navigational ledger serves two distinct, non-negotiable functions within complex environments:
+
+### 1. Route Continuity & Baseline Reversion
+- Documenting internal sensory telemetry, biomarker shifts, cognitive loads, and mental model updates during active exploration.
+- Establishing verifiable return routes back to stable operational baselines after venturing into high-uncertainty deep water.
+- Preventing epistemic drift by anchoring decisions to documented data points rather than retrospective rationalization.
+
+### 2. Shared Provenance & Waypoint Architecture
+- Publishing computational notebooks, Quarto technical briefs, and raw telemetry in the open.
+- Transitioning private notes into durable public topologies that bypass platform algorithmic capture.
+- Leaving clear, reproducible waypoints and frameworks for other independent travelers navigating parallel N=1 liminal transitions.
+
+## Associated Foundational Blueprints & Methodologies (Ghost Vault & Lab Shards)
+
+- Start Here – The Modeler's Map (Foundational Blueprint): The core metaphor uniting Paleolithic cave star-maps and Plato's Cave with mathematical modeling to pierce institutional illusions.
+- Welcome to Fire in the Cave (Publication Manifesto): Establishing the live laboratory ecosystem—applying biological modeling, systems dynamics, and pattern recognition to modern self-sovereignty.
+- N=1 Experiments — Fire in the Cave (Operational Methodology): Defining the overarching operating philosophy—baseline definition, provision architecture, convergent signal tracking, and open telemetry publishing.
+
+## Next-Stage Navigational Cross-References
+- Understanding Self: Internal baseline telemetry, somatic check-engine lights, and identity audits. (URL: https://lab.fireinthecave.com/n-1-experiments/self)
+- Preparing for the Journey: Sovereign compute infrastructure, local models, and provision architecture. (URL: https://lab.fireinthecave.com/n-1-experiments/preparation)
+- Sailing the Open Sea (Navigation): Macro signals, supply-chain arbitrage, and systemic patterns. (URL: https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea)
+- Collaborations & Advisory: Sovereign AI architecture, infrastructure stress-testing, and high-context advisory. (URL: https://lab.fireinthecave.com/collaborations)
+
+## Collaborations & Advisory Specifications
+URL: https://lab.fireinthecave.com/collaborations.html
+Focus Areas:
+1. Local AI & Infrastructure Sovereignty: Designing resilient, self-hosted LLM and agentic automation pipelines (local orchestrators, private vector vaults, n8n automation) with zero cloud capture.
+2. Multi-Domain Data & Pattern Synthesis: Integrating disparate telemetry (market dynamics, macro friction, operational logs) into unified decision models.
+3. High-Context Advisory: Structured sparring sessions to interrogate architecture, pressure-test assumptions, and evaluate technology acceleration impacts.
+Contact: advisory@fireinthecave.com

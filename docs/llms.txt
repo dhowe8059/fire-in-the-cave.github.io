@@ -12,9 +12,14 @@
 
 ## Long-Form Essays & Shards
 
-- [Essays Archive](https://lab.fireinthecave.com/essays.html): Primary philosophical and systems dynamics publications.
-- [Blue Ocean Logs](https://lab.fireinthecave.com/blue-ocean.html): Real-time field notes on transitional risk, model execution, and independent research.
+- [Essays Archive](https://lab.fireinthecave.com/essays/essays.html): Primary philosophical and systems dynamics publications.
 
 ## Optional & Full Context
 
 - [Full Content Ingestion](https://lab.fireinthecave.com/llms-full.txt): Complete raw markdown archive for single-prompt context loading.
+
+## Advisory & Technical Engagements
+- [Collaborations & Advisory](https://lab.fireinthecave.com/collaborations.html): High-context advisory, local AI infrastructure sovereignty, and multi-domain decision models for technical founders and independent practitioners.
+
+## Products & Toolkits
+- [Research Vault Subscription](https://www.fireinthecave.com/#/portal/signup): Full access to paid dispatches and quarterly dossiers.

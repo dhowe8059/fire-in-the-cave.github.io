@@ -1,1 +1,17 @@
+User-agent: *
+Disallow: /downloads/private/
+Disallow: /checkout/success/
+Disallow: /ghost/
+
+# AI Crawlers - explicitly allow product and documentation roots
+User-agent: GPTBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /products/
+
+User-agent: ClaudeBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /products/
+
 Sitemap: https://lab.fireinthecave.com/sitemap.xml
