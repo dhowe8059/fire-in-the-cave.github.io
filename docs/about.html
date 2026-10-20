@@ -348,14 +348,11 @@ ul.task-list li input[type="checkbox"] {
 document.addEventListener("DOMContentLoaded", function() {
   const img = document.querySelector(".quarto-about-solana .about-image");
   if (img && !document.querySelector(".duke-container")) {
-    // Create wrapper container
     const wrapper = document.createElement("div");
     wrapper.className = "duke-container";
-    // Create caption element
     const cap = document.createElement("div");
     cap.className = "duke-caption";
     cap.innerHTML = "(Pictured: Duke, Chief Signal Officer &amp; Leaf Heap Field Auditor)";
-    // Insert wrapper before image, then move image and caption inside wrapper
     img.parentNode.insertBefore(wrapper, img);
     wrapper.appendChild(img);
     wrapper.appendChild(cap);

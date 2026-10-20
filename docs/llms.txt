@@ -1,25 +1,32 @@
-# Fire in the Cave Lab
+# Fire in the Cave — Lab & Knowledge Vault
 
-> Static research laboratory, exploratory models, and navigational frameworks by David Howe. Focuses on systems thinking, self-sovereignty, N=1 experimentation, and cognitive architecture.
+> Canonical repository of cognitive frameworks, N=1 self-discovery, and systems modeling by Fire in the Cave.
 
-## Primary Sections
+## Shards, Deep Dives & Core Pillars
 
-- [N=1 Experiments](https://lab.fireinthecave.com/n-1-experiments/): Personal experimentation frameworks for charting unknown professional, physical, and cognitive territory.
-  - [Understanding Self](https://lab.fireinthecave.com/n-1-experiments/self.html): Foundational baseline mapping, internal drivers, and biomarker telemetry.
-  - [Preparation](https://lab.fireinthecave.com/n-1-experiments/preparation.html): Tooling, mental models, and provision architecture for navigating uncharted domains.
-  - [Sailing the Open Sea](https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea.html): Liminal phase dynamics and operational autonomy.
-  - [Mapping the Paths](https://lab.fireinthecave.com/n-1-experiments/mapping_journey.html): Pattern convergence, tracking datasets, and navigational logs.
+- [Am I on the Right Path?](https://www.fireinthecave.com/shards/am-i-on-the-right-path/): I think that I am finally getting to know myself.
+- [Finding My Way](https://www.fireinthecave.com/deep-dives/finding-my-way/): Still looking to know myself.
+- [It's a Crazy World Out There](https://www.fireinthecave.com/shards/its-a-crazy-world-out-there/): Living in the Messiness
+- [Looking at the World with Wonder](https://www.fireinthecave.com/shards/looking-at-the-world-with-wonder/): Traversing the Liminal Space
+- [The Recovery that Doesn't Rehire](https://www.fireinthecave.com/shards/the-recovery-that-doesnt-rehire/): The Structural Trap
+- [Start Here - The Modeler's Map](https://www.fireinthecave.com/shards/start-here-the-modelers-map/): The Pattern is the Point
+- [Taking Stock in a New AI World](https://www.fireinthecave.com/shards/taking-stock-in-a-new-ai-world/): How to Maneuver
+- [The AI Thread in War](https://www.fireinthecave.com/shards/the-ai-thread-in-war/): A Timeline, A Mechanism, and a Question Nobody Is Asking
+- [Global Opt Out - The Economic Pattern](https://www.fireinthecave.com/shards/global-opt-out-the-economic-pattern/): The Math Has Been Stuck Since the 1990s
+- [The Global Pattern](https://www.fireinthecave.com/shards/the-global-pattern/): NEET all Around
+- [Tools I Use](https://www.fireinthecave.com/shards/tools-i-use/): The Fire in the Cave Stack
+- [The Medium is the Methodology](https://www.fireinthecave.com/shards/the-medium-is-the-methodology/): Announcing fireinthecave.com and fireinthecave.x
+- [Lying Flat](https://www.fireinthecave.com/shards/lying-flat/): Sign of things to come?
+- [Signal in the Silence: Why You Miss Your Own Gorilla](https://www.fireinthecave.com/shards/signal-in-the-silence-why-you-miss/): A methodology for seeing what you don't even know to look for.
+- [The Competence Trap](https://www.fireinthecave.com/shards/the-competence-trap/): Competent and Drained
+- [How Silver Price Volatility Revealed What was Coming?](https://www.fireinthecave.com/shards/how-silver-price-volatility-revealed/): Why I Bought a Mac Instead of Waiting
 
-## Long-Form Essays & Shards
+## Lab Pages
 
-- [Essays Archive](https://lab.fireinthecave.com/essays/essays.html): Primary philosophical and systems dynamics publications.
-
-## Optional & Full Context
-
-- [Full Content Ingestion](https://lab.fireinthecave.com/llms-full.txt): Complete raw markdown archive for single-prompt context loading.
-
-## Advisory & Technical Engagements
-- [Collaborations & Advisory](https://lab.fireinthecave.com/collaborations.html): High-context advisory, local AI infrastructure sovereignty, and multi-domain decision models for technical founders and independent practitioners.
-
-## Products & Toolkits
-- [Research Vault Subscription](https://www.fireinthecave.com/#/portal/signup): Full access to paid dispatches and quarterly dossiers.
+- [Understanding Self: The Baseline](https://lab.fireinthecave.com/n-1-experiments/self.html): Internal drivers, somatic baseline telemetry, and N=1 inquiry into self-sovereign navigation.
+- [Preparing for Blue Ocean](https://lab.fireinthecave.com/n-1-experiments/preparation.html): Preparing oneself, building tools and provisioning for journey into the unknown.
+- [Navigating the Waters](https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea.html): Navigating the unknown.
+- [Mapping the Paths](https://lab.fireinthecave.com/n-1-experiments/mapping_journey.html): Mapping the paths and journaling experience.
+- [N=1 Experiments](https://lab.fireinthecave.com/n-1-experiments/): Predictive mind needs data.
+- [About: Systems Modeling & Ontological Sovereignty](https://lab.fireinthecave.com/about.html): Background in DMPK modeling, the transition to self-sovereign systems, and the N=1 methodology of Fire in the Cave.
+- [Collaborations & Advisory: Data Systems & Cognitive Infrastructure](https://lab.fireinthecave.com/collaborations.html): Operational principles and engagement models for local AI deployment, private pipelines, and sovereign sensemaking.
