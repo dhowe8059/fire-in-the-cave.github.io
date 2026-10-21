@@ -23,10 +23,10 @@
 
 ## Lab Pages
 
-- [Understanding Self: The Baseline](https://lab.fireinthecave.com/n-1-experiments/self.html): Internal drivers, somatic baseline telemetry, and N=1 inquiry into self-sovereign navigation.
-- [Preparing for Blue Ocean](https://lab.fireinthecave.com/n-1-experiments/preparation.html): Preparing oneself, building tools and provisioning for journey into the unknown.
-- [Navigating the Waters](https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea.html): Navigating the unknown.
-- [Mapping the Paths](https://lab.fireinthecave.com/n-1-experiments/mapping_journey.html): Mapping the paths and journaling experience.
+- [Understanding Self: The Baseline](https://lab.fireinthecave.com/n-1-experiments/self): Internal drivers, somatic baseline telemetry, and N=1 inquiry into self-sovereign navigation.
+- [Preparing for Blue Ocean](https://lab.fireinthecave.com/n-1-experiments/preparation): Preparing oneself, building tools and provisioning for journey into the unknown.
+- [Navigating the Waters](https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea): Navigating the unknown.
+- [Mapping the Paths](https://lab.fireinthecave.com/n-1-experiments/mapping_journey): Mapping the paths and journaling experience.
 - [N=1 Experiments](https://lab.fireinthecave.com/n-1-experiments/): Predictive mind needs data.
-- [About: Systems Modeling & Ontological Sovereignty](https://lab.fireinthecave.com/about.html): Background in DMPK modeling, the transition to self-sovereign systems, and the N=1 methodology of Fire in the Cave.
-- [Collaborations & Advisory: Data Systems & Cognitive Infrastructure](https://lab.fireinthecave.com/collaborations.html): Operational principles and engagement models for local AI deployment, private pipelines, and sovereign sensemaking.
+- [About: Systems Modeling & Ontological Sovereignty](https://lab.fireinthecave.com/about): Background in DMPK modeling, the transition to self-sovereign systems, and the N=1 methodology of Fire in the Cave.
+- [Collaborations & Advisory: Data Systems & Cognitive Infrastructure](https://lab.fireinthecave.com/collaborations): Operational principles and engagement models for local AI deployment, private pipelines, and sovereign sensemaking.

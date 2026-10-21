@@ -2082,7 +2082,7 @@ The author is not a licensed financial advisor. Nothing in this post constitutes
 ---
 
 # Understanding Self: The Baseline
-Canonical: https://lab.fireinthecave.com/n-1-experiments/self.html
+Canonical: https://lab.fireinthecave.com/n-1-experiments/self
 
 Internal Drivers, Baseline Telemetry & Core Values
 
@@ -2100,11 +2100,11 @@ Decades later, that same fork has reappeared. The difference this time is sovere
 
 ## Discovering Your Narration 
 
-The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays.html) listed here map this process in real time. Because self-discovery is an active experiment rather than a retrospective case study, the models and frameworks will evolve as new data surfaces.
+The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays) listed here map this process in real time. Because self-discovery is an active experiment rather than a retrospective case study, the models and frameworks will evolve as new data surfaces.
 
 The work spans distinct categories—from cognitive architecture and systemic friction to somatic baselines—yet they inevitably intersect. In an N=1 framework, every inquiry ultimately resolves back to the observer.
 
-[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays.html)
+[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays)
 
 Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https://fireinthecave.com)
 
@@ -2112,7 +2112,7 @@ Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https:
 ---
 
 # Preparing for Blue Ocean
-Canonical: https://lab.fireinthecave.com/n-1-experiments/preparation.html
+Canonical: https://lab.fireinthecave.com/n-1-experiments/preparation
 
 Preparing to Navigate the Unknown
 
@@ -2134,9 +2134,9 @@ Instead of hoarding consumables, provisioning here means engineering adaptive in
 
 ## The Current Approach 
 
-The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays.html) listed here document this provisioning phase as a live, iterative build. Rather than prescribing a fixed checklist, the work focuses on calibrating initial conditions, refining pattern recognition, and pressure-testing the core tools required to navigate complex systems before leaving the shallows.
+The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays) listed here document this provisioning phase as a live, iterative build. Rather than prescribing a fixed checklist, the work focuses on calibrating initial conditions, refining pattern recognition, and pressure-testing the core tools required to navigate complex systems before leaving the shallows.
 
-[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays.html)
+[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays)
 
 Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https://fireinthecave.com)
 
@@ -2144,7 +2144,7 @@ Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https:
 ---
 
 # Navigating the Waters
-Canonical: https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea.html
+Canonical: https://lab.fireinthecave.com/n-1-experiments/sailing_open_sea
 
 Navigating Emerging Conditions & Uncharted Waters
 
@@ -2164,9 +2164,9 @@ Navigating complex systems requires treating environmental turbulence as signal 
 
 ## The Operational Posture 
 
-The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays.html) documented here capture active field maneuvers in real time. This is not retrospective commentary from safe harbor; it is live telemetry on navigating technological acceleration, testing models, and maintaining autonomy in motion.
+The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays) documented here capture active field maneuvers in real time. This is not retrospective commentary from safe harbor; it is live telemetry on navigating technological acceleration, testing models, and maintaining autonomy in motion.
 
-[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays.html)
+[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays)
 
 Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https://fireinthecave.com)
 
@@ -2174,7 +2174,7 @@ Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https:
 ---
 
 # Mapping the Paths
-Canonical: https://lab.fireinthecave.com/n-1-experiments/mapping_journey.html
+Canonical: https://lab.fireinthecave.com/n-1-experiments/mapping_journey
 
 Navigational Telemetry & The Open Ledger
 
@@ -2193,9 +2193,9 @@ Mapping the journey serves two practical functions:
 
 ## The Live Vault 
 
-The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays.html) form the growing atlas of this work. Each entry logs a specific experiment, system dissection, or navigational model—built and tested in the open.
+The [Shards and Deep Dives](https://lab.fireinthecave.com/essays/essays) form the growing atlas of this work. Each entry logs a specific experiment, system dissection, or navigational model—built and tested in the open.
 
-[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays.html)
+[Explore the Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays)
 
 Prefer dispatches directly to your inbox? [Join the Ghost Research Vault](https://fireinthecave.com)
 
@@ -2284,7 +2284,7 @@ The methodology I developed integrates multiple domains:
 ---
 
 # About: Systems Modeling & Ontological Sovereignty
-Canonical: https://lab.fireinthecave.com/about.html
+Canonical: https://lab.fireinthecave.com/about
 
 ## Who I Am
 
@@ -2329,7 +2329,7 @@ Same fire. Different scales.
 ---
 
 # Collaborations & Advisory: Data Systems & Cognitive Infrastructure
-Canonical: https://lab.fireinthecave.com/collaborations.html
+Canonical: https://lab.fireinthecave.com/collaborations
 
 Data Systems, Cognitive Infrastructure & Model-Driven Sensemaking
 
@@ -2395,4 +2395,4 @@ For technical podcast appearances, panel dialogues, or long-form interviews:
 
 Direct inquiries & correspondence: **[advisory@fireinthecave.com](mailto:advisory@fireinthecave.com)**
 
-[Return to Research Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays.html)
+[Return to Research Shards & Deep Dives →](https://lab.fireinthecave.com/essays/essays)
