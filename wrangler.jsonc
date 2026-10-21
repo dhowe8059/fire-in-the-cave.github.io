@@ -1,0 +1,17 @@
+{
+  // Cloudflare Worker serving the built lab site from docs/ as static files.
+  // Deployed by ~/fitc/lab-site/scripts/publish.sh with `wrangler deploy`.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "fitc-lab-site",
+  "compatibility_date": "2026-10-06",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "docs",
+    // /about serves about.html; /about.html redirects to /about
+    "html_handling": "auto-trailing-slash",
+    // missing pages get docs/404.html with a 404 status
+    "not_found_handling": "404-page"
+  }
+}
