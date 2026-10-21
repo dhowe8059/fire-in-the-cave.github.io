@@ -2323,7 +2323,7 @@ Same fire. Different scales.
 
 ---
 
-*This site is built with [Quarto](https://quarto.org) and hosted on GitHub Pages—tools I control, that I could move if needed. Practicing what I'm preaching.*
+*This site is built with [Quarto](https://quarto.org) and hosted on Cloudflare—tools I control, that I could move if needed. Practicing what I'm preaching.*
 
 
 ---

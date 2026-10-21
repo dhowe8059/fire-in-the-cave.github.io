@@ -103,7 +103,7 @@
     "href": "about#what-im-building",
     "title": "David Howe",
     "section": "What I’m Building",
-    "text": "What I’m Building\nFire in the Cave is the methodology applied at multiple scales:\nPersonal — How to detect your own patterns, navigate your own alignment, find what actually energizes rather than drains you.\nSystemic — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.\nArchitectural — Eventually, the tools themselves.\nSame fire. Different scales.\n\nThis site is built with Quarto and hosted on GitHub Pages—tools I control, that I could move if needed. Practicing what I’m preaching."
+    "text": "What I’m Building\nFire in the Cave is the methodology applied at multiple scales:\nPersonal — How to detect your own patterns, navigate your own alignment, find what actually energizes rather than drains you.\nSystemic — The same pattern recognition that reveals personal standing waves also reveals collective ones. Education, finance, geopolitics—anywhere manufactured motion masquerades as progress.\nArchitectural — Eventually, the tools themselves.\nSame fire. Different scales.\n\nThis site is built with Quarto and hosted on Cloudflare—tools I control, that I could move if needed. Practicing what I’m preaching."
   },
   {
     "objectID": "collaborations.html",
