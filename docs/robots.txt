@@ -1,4 +1,6 @@
+# Content signals: allow search and AI answers, no AI training
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
 Sitemap: https://lab.fireinthecave.com/sitemap.xml
